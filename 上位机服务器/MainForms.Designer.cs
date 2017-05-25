@@ -34,100 +34,100 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace1 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace2 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace3 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace4 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace5 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace6 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace7 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace8 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace9 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace10 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace11 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace12 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace13 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace14 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace15 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace16 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace17 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace18 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace19 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace20 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace21 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace22 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace23 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace24 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace25 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace26 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace27 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace28 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace29 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY1 = new Iocomp.Classes.PlotDataCursorXY();
-            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY2 = new Iocomp.Classes.PlotDataCursorXY();
-            Iocomp.Classes.PlotDataView plotDataView1 = new Iocomp.Classes.PlotDataView();
-            Iocomp.Classes.PlotLegendBasic plotLegendBasic1 = new Iocomp.Classes.PlotLegendBasic();
-            Iocomp.Classes.PlotXAxis plotXAxis1 = new Iocomp.Classes.PlotXAxis();
-            Iocomp.Classes.PlotYAxis plotYAxis1 = new Iocomp.Classes.PlotYAxis();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace30 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace31 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace32 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace33 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace34 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace35 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace36 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace37 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY3 = new Iocomp.Classes.PlotDataCursorXY();
-            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY4 = new Iocomp.Classes.PlotDataCursorXY();
-            Iocomp.Classes.PlotDataView plotDataView2 = new Iocomp.Classes.PlotDataView();
-            Iocomp.Classes.PlotLegendBasic plotLegendBasic2 = new Iocomp.Classes.PlotLegendBasic();
-            Iocomp.Classes.PlotXAxis plotXAxis2 = new Iocomp.Classes.PlotXAxis();
-            Iocomp.Classes.PlotYAxis plotYAxis2 = new Iocomp.Classes.PlotYAxis();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace38 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace39 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace40 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY5 = new Iocomp.Classes.PlotDataCursorXY();
-            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY6 = new Iocomp.Classes.PlotDataCursorXY();
-            Iocomp.Classes.PlotDataView plotDataView3 = new Iocomp.Classes.PlotDataView();
-            Iocomp.Classes.PlotLegendBasic plotLegendBasic3 = new Iocomp.Classes.PlotLegendBasic();
-            Iocomp.Classes.PlotXAxis plotXAxis3 = new Iocomp.Classes.PlotXAxis();
-            Iocomp.Classes.PlotYAxis plotYAxis3 = new Iocomp.Classes.PlotYAxis();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace41 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace42 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace43 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace44 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace45 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace46 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace47 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY7 = new Iocomp.Classes.PlotDataCursorXY();
-            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY8 = new Iocomp.Classes.PlotDataCursorXY();
-            Iocomp.Classes.PlotDataView plotDataView4 = new Iocomp.Classes.PlotDataView();
-            Iocomp.Classes.PlotLegendBasic plotLegendBasic4 = new Iocomp.Classes.PlotLegendBasic();
-            Iocomp.Classes.PlotXAxis plotXAxis4 = new Iocomp.Classes.PlotXAxis();
-            Iocomp.Classes.PlotYAxis plotYAxis4 = new Iocomp.Classes.PlotYAxis();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace48 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace49 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace50 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace51 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY9 = new Iocomp.Classes.PlotDataCursorXY();
-            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY10 = new Iocomp.Classes.PlotDataCursorXY();
-            Iocomp.Classes.PlotDataView plotDataView5 = new Iocomp.Classes.PlotDataView();
-            Iocomp.Classes.PlotLegendBasic plotLegendBasic5 = new Iocomp.Classes.PlotLegendBasic();
-            Iocomp.Classes.PlotXAxis plotXAxis5 = new Iocomp.Classes.PlotXAxis();
-            Iocomp.Classes.PlotYAxis plotYAxis5 = new Iocomp.Classes.PlotYAxis();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace52 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace53 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace54 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace55 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace56 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace57 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotChannelTrace plotChannelTrace58 = new Iocomp.Classes.PlotChannelTrace();
-            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY11 = new Iocomp.Classes.PlotDataCursorXY();
-            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY12 = new Iocomp.Classes.PlotDataCursorXY();
-            Iocomp.Classes.PlotDataView plotDataView6 = new Iocomp.Classes.PlotDataView();
-            Iocomp.Classes.PlotLegendBasic plotLegendBasic6 = new Iocomp.Classes.PlotLegendBasic();
-            Iocomp.Classes.PlotXAxis plotXAxis6 = new Iocomp.Classes.PlotXAxis();
-            Iocomp.Classes.PlotYAxis plotYAxis6 = new Iocomp.Classes.PlotYAxis();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace813 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace814 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace815 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace816 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace817 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace818 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace819 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace820 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace821 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace822 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace823 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace824 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace825 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace826 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace827 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace828 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace829 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace830 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace831 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace832 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace833 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace834 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace835 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace836 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace837 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace838 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace839 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace840 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace841 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY169 = new Iocomp.Classes.PlotDataCursorXY();
+            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY170 = new Iocomp.Classes.PlotDataCursorXY();
+            Iocomp.Classes.PlotDataView plotDataView85 = new Iocomp.Classes.PlotDataView();
+            Iocomp.Classes.PlotLegendBasic plotLegendBasic85 = new Iocomp.Classes.PlotLegendBasic();
+            Iocomp.Classes.PlotXAxis plotXAxis85 = new Iocomp.Classes.PlotXAxis();
+            Iocomp.Classes.PlotYAxis plotYAxis85 = new Iocomp.Classes.PlotYAxis();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace842 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace843 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace844 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace845 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace846 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace847 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace848 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace849 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY171 = new Iocomp.Classes.PlotDataCursorXY();
+            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY172 = new Iocomp.Classes.PlotDataCursorXY();
+            Iocomp.Classes.PlotDataView plotDataView86 = new Iocomp.Classes.PlotDataView();
+            Iocomp.Classes.PlotLegendBasic plotLegendBasic86 = new Iocomp.Classes.PlotLegendBasic();
+            Iocomp.Classes.PlotXAxis plotXAxis86 = new Iocomp.Classes.PlotXAxis();
+            Iocomp.Classes.PlotYAxis plotYAxis86 = new Iocomp.Classes.PlotYAxis();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace850 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace851 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace852 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY173 = new Iocomp.Classes.PlotDataCursorXY();
+            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY174 = new Iocomp.Classes.PlotDataCursorXY();
+            Iocomp.Classes.PlotDataView plotDataView87 = new Iocomp.Classes.PlotDataView();
+            Iocomp.Classes.PlotLegendBasic plotLegendBasic87 = new Iocomp.Classes.PlotLegendBasic();
+            Iocomp.Classes.PlotXAxis plotXAxis87 = new Iocomp.Classes.PlotXAxis();
+            Iocomp.Classes.PlotYAxis plotYAxis87 = new Iocomp.Classes.PlotYAxis();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace853 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace854 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace855 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace856 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace857 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace858 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace859 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY175 = new Iocomp.Classes.PlotDataCursorXY();
+            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY176 = new Iocomp.Classes.PlotDataCursorXY();
+            Iocomp.Classes.PlotDataView plotDataView88 = new Iocomp.Classes.PlotDataView();
+            Iocomp.Classes.PlotLegendBasic plotLegendBasic88 = new Iocomp.Classes.PlotLegendBasic();
+            Iocomp.Classes.PlotXAxis plotXAxis88 = new Iocomp.Classes.PlotXAxis();
+            Iocomp.Classes.PlotYAxis plotYAxis88 = new Iocomp.Classes.PlotYAxis();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace860 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace861 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace862 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace863 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY177 = new Iocomp.Classes.PlotDataCursorXY();
+            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY178 = new Iocomp.Classes.PlotDataCursorXY();
+            Iocomp.Classes.PlotDataView plotDataView89 = new Iocomp.Classes.PlotDataView();
+            Iocomp.Classes.PlotLegendBasic plotLegendBasic89 = new Iocomp.Classes.PlotLegendBasic();
+            Iocomp.Classes.PlotXAxis plotXAxis89 = new Iocomp.Classes.PlotXAxis();
+            Iocomp.Classes.PlotYAxis plotYAxis89 = new Iocomp.Classes.PlotYAxis();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace864 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace865 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace866 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace867 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace868 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace869 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotChannelTrace plotChannelTrace870 = new Iocomp.Classes.PlotChannelTrace();
+            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY179 = new Iocomp.Classes.PlotDataCursorXY();
+            Iocomp.Classes.PlotDataCursorXY plotDataCursorXY180 = new Iocomp.Classes.PlotDataCursorXY();
+            Iocomp.Classes.PlotDataView plotDataView90 = new Iocomp.Classes.PlotDataView();
+            Iocomp.Classes.PlotLegendBasic plotLegendBasic90 = new Iocomp.Classes.PlotLegendBasic();
+            Iocomp.Classes.PlotXAxis plotXAxis90 = new Iocomp.Classes.PlotXAxis();
+            Iocomp.Classes.PlotYAxis plotYAxis90 = new Iocomp.Classes.PlotYAxis();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.txtStatus3 = new System.Windows.Forms.ToolStripStatusLabel();
             this.txtStatus2 = new System.Windows.Forms.ToolStripStatusLabel();
@@ -463,10 +463,9 @@
             this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.txtStatus3,
             this.txtStatus2});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 813);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 621);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Padding = new System.Windows.Forms.Padding(1, 0, 19, 0);
-            this.statusStrip1.Size = new System.Drawing.Size(1381, 25);
+            this.statusStrip1.Size = new System.Drawing.Size(1008, 22);
             this.statusStrip1.TabIndex = 18;
             this.statusStrip1.Text = "statusStrip1";
             // 
@@ -474,14 +473,14 @@
             // 
             this.txtStatus3.AutoToolTip = true;
             this.txtStatus3.Name = "txtStatus3";
-            this.txtStatus3.Size = new System.Drawing.Size(680, 20);
+            this.txtStatus3.Size = new System.Drawing.Size(496, 17);
             this.txtStatus3.Spring = true;
             this.txtStatus3.Text = "xxxxx";
             // 
             // txtStatus2
             // 
             this.txtStatus2.Name = "txtStatus2";
-            this.txtStatus2.Size = new System.Drawing.Size(680, 20);
+            this.txtStatus2.Size = new System.Drawing.Size(496, 17);
             this.txtStatus2.Spring = true;
             // 
             // toolStrip1
@@ -493,10 +492,10 @@
             this.toolStrip1.GripStyle = System.Windows.Forms.ToolStripGripStyle.Hidden;
             this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.txtNowTime});
-            this.toolStrip1.Location = new System.Drawing.Point(1256, 14);
+            this.toolStrip1.Location = new System.Drawing.Point(885, 11);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Padding = new System.Windows.Forms.Padding(11, 10, 11, 0);
-            this.toolStrip1.Size = new System.Drawing.Size(24, 25);
+            this.toolStrip1.Padding = new System.Windows.Forms.Padding(8, 8, 8, 0);
+            this.toolStrip1.Size = new System.Drawing.Size(18, 25);
             this.toolStrip1.TabIndex = 19;
             this.toolStrip1.Text = "toolStrip1";
             // 
@@ -504,7 +503,7 @@
             // 
             this.txtNowTime.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
             this.txtNowTime.Name = "txtNowTime";
-            this.txtNowTime.Size = new System.Drawing.Size(0, 12);
+            this.txtNowTime.Size = new System.Drawing.Size(0, 14);
             // 
             // timer1
             // 
@@ -519,10 +518,9 @@
             this.panel1.Controls.Add(this.toolStrip1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
             this.panel1.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.panel1.Size = new System.Drawing.Size(1381, 64);
+            this.panel1.Size = new System.Drawing.Size(1008, 52);
             this.panel1.TabIndex = 29;
             // 
             // label6
@@ -530,10 +528,9 @@
             this.label6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
                         | System.Windows.Forms.AnchorStyles.Right)));
             this.label6.Image = global::上位机服务器.Properties.Resources.configuation2;
-            this.label6.Location = new System.Drawing.Point(1299, 14);
-            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label6.Location = new System.Drawing.Point(946, 11);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(65, 44);
+            this.label6.Size = new System.Drawing.Size(49, 35);
             this.label6.TabIndex = 21;
             this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.label6.Click += new System.EventHandler(this.label6_Click);
@@ -546,10 +543,9 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("宋体", 22F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label5.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label5.Location = new System.Drawing.Point(405, 10);
-            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label5.Location = new System.Drawing.Point(304, 8);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(359, 37);
+            this.label5.Size = new System.Drawing.Size(292, 30);
             this.label5.TabIndex = 0;
             this.label5.Text = "氢钟智能化监控系统";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -561,21 +557,21 @@
             // tabPage7
             // 
             this.tabPage7.BackColor = System.Drawing.SystemColors.Control;
-            this.tabPage7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tabPage7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.tabPage7.Controls.Add(this.groupBox6);
             this.tabPage7.Controls.Add(this.groupBox5);
             this.tabPage7.Controls.Add(this.groupBox3);
             this.tabPage7.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.tabPage7.Location = new System.Drawing.Point(4, 35);
-            this.tabPage7.Margin = new System.Windows.Forms.Padding(4);
+            this.tabPage7.Location = new System.Drawing.Point(4, 31);
             this.tabPage7.Name = "tabPage7";
-            this.tabPage7.Padding = new System.Windows.Forms.Padding(4);
-            this.tabPage7.Size = new System.Drawing.Size(1389, 727);
+            this.tabPage7.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage7.Size = new System.Drawing.Size(1012, 551);
             this.tabPage7.TabIndex = 6;
             this.tabPage7.Text = "  系统设置  ";
             // 
             // groupBox6
             // 
+            this.groupBox6.AutoSize = true;
             this.groupBox6.Controls.Add(this.groupBox9);
             this.groupBox6.Controls.Add(this.groupBox8);
             this.groupBox6.Controls.Add(this.groupBox7);
@@ -583,11 +579,9 @@
             this.groupBox6.Controls.Add(this.groupBox2);
             this.groupBox6.Controls.Add(this.groupBox1);
             this.groupBox6.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.groupBox6.Location = new System.Drawing.Point(56, -1);
-            this.groupBox6.Margin = new System.Windows.Forms.Padding(4);
+            this.groupBox6.Location = new System.Drawing.Point(42, -1);
             this.groupBox6.Name = "groupBox6";
-            this.groupBox6.Padding = new System.Windows.Forms.Padding(4);
-            this.groupBox6.Size = new System.Drawing.Size(845, 499);
+            this.groupBox6.Size = new System.Drawing.Size(634, 399);
             this.groupBox6.TabIndex = 35;
             this.groupBox6.TabStop = false;
             this.groupBox6.Text = "在线实时数据";
@@ -596,11 +590,9 @@
             // 
             this.groupBox9.Controls.Add(this.sys_zong_value);
             this.groupBox9.Controls.Add(this.sys_la_zongheqi_xianshi);
-            this.groupBox9.Location = new System.Drawing.Point(161, 289);
-            this.groupBox9.Margin = new System.Windows.Forms.Padding(4);
+            this.groupBox9.Location = new System.Drawing.Point(121, 231);
             this.groupBox9.Name = "groupBox9";
-            this.groupBox9.Padding = new System.Windows.Forms.Padding(4);
-            this.groupBox9.Size = new System.Drawing.Size(151, 169);
+            this.groupBox9.Size = new System.Drawing.Size(120, 135);
             this.groupBox9.TabIndex = 165;
             this.groupBox9.TabStop = false;
             this.groupBox9.Text = "综合器";
@@ -608,10 +600,9 @@
             // sys_zong_value
             // 
             this.sys_zong_value.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.sys_zong_value.Location = new System.Drawing.Point(60, 49);
-            this.sys_zong_value.Margin = new System.Windows.Forms.Padding(4);
+            this.sys_zong_value.Location = new System.Drawing.Point(45, 39);
             this.sys_zong_value.Name = "sys_zong_value";
-            this.sys_zong_value.Size = new System.Drawing.Size(84, 27);
+            this.sys_zong_value.Size = new System.Drawing.Size(69, 23);
             this.sys_zong_value.TabIndex = 68;
             this.sys_zong_value.Text = "405700";
             // 
@@ -619,10 +610,9 @@
             // 
             this.sys_la_zongheqi_xianshi.AutoSize = true;
             this.sys_la_zongheqi_xianshi.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.sys_la_zongheqi_xianshi.Location = new System.Drawing.Point(5, 52);
-            this.sys_la_zongheqi_xianshi.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.sys_la_zongheqi_xianshi.Location = new System.Drawing.Point(4, 42);
             this.sys_la_zongheqi_xianshi.Name = "sys_la_zongheqi_xianshi";
-            this.sys_la_zongheqi_xianshi.Size = new System.Drawing.Size(54, 20);
+            this.sys_la_zongheqi_xianshi.Size = new System.Drawing.Size(44, 17);
             this.sys_la_zongheqi_xianshi.TabIndex = 69;
             this.sys_la_zongheqi_xianshi.Text = "频率：";
             // 
@@ -644,156 +634,138 @@
             this.groupBox8.Controls.Add(this.label72);
             this.groupBox8.Controls.Add(this.label70);
             this.groupBox8.Controls.Add(this.label68);
-            this.groupBox8.Location = new System.Drawing.Point(655, 25);
-            this.groupBox8.Margin = new System.Windows.Forms.Padding(4);
+            this.groupBox8.Location = new System.Drawing.Point(491, 20);
             this.groupBox8.Name = "groupBox8";
-            this.groupBox8.Padding = new System.Windows.Forms.Padding(4);
-            this.groupBox8.Size = new System.Drawing.Size(161, 431);
+            this.groupBox8.Size = new System.Drawing.Size(121, 345);
             this.groupBox8.TabIndex = 164;
             this.groupBox8.TabStop = false;
             this.groupBox8.Text = "隔离器";
             // 
             // textBox60
             // 
-            this.textBox60.Location = new System.Drawing.Point(76, 234);
-            this.textBox60.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox60.Location = new System.Drawing.Point(57, 187);
             this.textBox60.Name = "textBox60";
-            this.textBox60.Size = new System.Drawing.Size(65, 29);
+            this.textBox60.Size = new System.Drawing.Size(50, 25);
             this.textBox60.TabIndex = 148;
             // 
             // label69
             // 
             this.label69.AutoSize = true;
-            this.label69.Location = new System.Drawing.Point(12, 238);
-            this.label69.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label69.Location = new System.Drawing.Point(9, 190);
             this.label69.Name = "label69";
-            this.label69.Size = new System.Drawing.Size(61, 23);
+            this.label69.Size = new System.Drawing.Size(51, 20);
             this.label69.TabIndex = 147;
             this.label69.Text = "CH5：";
             // 
             // textBox61
             // 
-            this.textBox61.Location = new System.Drawing.Point(76, 184);
-            this.textBox61.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox61.Location = new System.Drawing.Point(57, 147);
             this.textBox61.Name = "textBox61";
-            this.textBox61.Size = new System.Drawing.Size(65, 29);
+            this.textBox61.Size = new System.Drawing.Size(50, 25);
             this.textBox61.TabIndex = 146;
             // 
             // textBox62
             // 
-            this.textBox62.Location = new System.Drawing.Point(76, 134);
-            this.textBox62.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox62.Location = new System.Drawing.Point(57, 107);
             this.textBox62.Name = "textBox62";
-            this.textBox62.Size = new System.Drawing.Size(65, 29);
+            this.textBox62.Size = new System.Drawing.Size(50, 25);
             this.textBox62.TabIndex = 144;
             // 
             // label71
             // 
             this.label71.AutoSize = true;
-            this.label71.Location = new System.Drawing.Point(12, 138);
-            this.label71.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label71.Location = new System.Drawing.Point(9, 110);
             this.label71.Name = "label71";
-            this.label71.Size = new System.Drawing.Size(61, 23);
+            this.label71.Size = new System.Drawing.Size(51, 20);
             this.label71.TabIndex = 143;
             this.label71.Text = "CH3：";
             // 
             // textBox57
             // 
-            this.textBox57.Location = new System.Drawing.Point(76, 384);
-            this.textBox57.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox57.Location = new System.Drawing.Point(57, 307);
             this.textBox57.Name = "textBox57";
-            this.textBox57.Size = new System.Drawing.Size(65, 29);
+            this.textBox57.Size = new System.Drawing.Size(50, 25);
             this.textBox57.TabIndex = 154;
             // 
             // label66
             // 
             this.label66.AutoSize = true;
-            this.label66.Location = new System.Drawing.Point(12, 388);
-            this.label66.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label66.Location = new System.Drawing.Point(9, 310);
             this.label66.Name = "label66";
-            this.label66.Size = new System.Drawing.Size(61, 23);
+            this.label66.Size = new System.Drawing.Size(51, 20);
             this.label66.TabIndex = 153;
             this.label66.Text = "CH8：";
             // 
             // textBox64
             // 
-            this.textBox64.Location = new System.Drawing.Point(76, 34);
-            this.textBox64.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox64.Location = new System.Drawing.Point(57, 27);
             this.textBox64.Name = "textBox64";
-            this.textBox64.Size = new System.Drawing.Size(65, 29);
+            this.textBox64.Size = new System.Drawing.Size(50, 25);
             this.textBox64.TabIndex = 140;
             // 
             // textBox58
             // 
-            this.textBox58.Location = new System.Drawing.Point(76, 334);
-            this.textBox58.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox58.Location = new System.Drawing.Point(57, 267);
             this.textBox58.Name = "textBox58";
-            this.textBox58.Size = new System.Drawing.Size(65, 29);
+            this.textBox58.Size = new System.Drawing.Size(50, 25);
             this.textBox58.TabIndex = 152;
             // 
             // label73
             // 
             this.label73.AutoSize = true;
-            this.label73.Location = new System.Drawing.Point(12, 38);
-            this.label73.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label73.Location = new System.Drawing.Point(9, 30);
             this.label73.Name = "label73";
-            this.label73.Size = new System.Drawing.Size(61, 23);
+            this.label73.Size = new System.Drawing.Size(51, 20);
             this.label73.TabIndex = 139;
             this.label73.Text = "CH1：";
             // 
             // textBox59
             // 
-            this.textBox59.Location = new System.Drawing.Point(76, 284);
-            this.textBox59.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox59.Location = new System.Drawing.Point(57, 227);
             this.textBox59.Name = "textBox59";
-            this.textBox59.Size = new System.Drawing.Size(65, 29);
+            this.textBox59.Size = new System.Drawing.Size(50, 25);
             this.textBox59.TabIndex = 150;
             // 
             // label67
             // 
             this.label67.AutoSize = true;
-            this.label67.Location = new System.Drawing.Point(12, 338);
-            this.label67.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label67.Location = new System.Drawing.Point(9, 270);
             this.label67.Name = "label67";
-            this.label67.Size = new System.Drawing.Size(61, 23);
+            this.label67.Size = new System.Drawing.Size(51, 20);
             this.label67.TabIndex = 151;
             this.label67.Text = "CH7：";
             // 
             // textBox63
             // 
-            this.textBox63.Location = new System.Drawing.Point(76, 84);
-            this.textBox63.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox63.Location = new System.Drawing.Point(57, 67);
             this.textBox63.Name = "textBox63";
-            this.textBox63.Size = new System.Drawing.Size(65, 29);
+            this.textBox63.Size = new System.Drawing.Size(50, 25);
             this.textBox63.TabIndex = 142;
             // 
             // label72
             // 
             this.label72.AutoSize = true;
-            this.label72.Location = new System.Drawing.Point(12, 88);
-            this.label72.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label72.Location = new System.Drawing.Point(9, 70);
             this.label72.Name = "label72";
-            this.label72.Size = new System.Drawing.Size(61, 23);
+            this.label72.Size = new System.Drawing.Size(51, 20);
             this.label72.TabIndex = 141;
             this.label72.Text = "CH2：";
             // 
             // label70
             // 
             this.label70.AutoSize = true;
-            this.label70.Location = new System.Drawing.Point(12, 188);
-            this.label70.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label70.Location = new System.Drawing.Point(9, 150);
             this.label70.Name = "label70";
-            this.label70.Size = new System.Drawing.Size(61, 23);
+            this.label70.Size = new System.Drawing.Size(51, 20);
             this.label70.TabIndex = 145;
             this.label70.Text = "CH4：";
             // 
             // label68
             // 
             this.label68.AutoSize = true;
-            this.label68.Location = new System.Drawing.Point(12, 288);
-            this.label68.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label68.Location = new System.Drawing.Point(9, 230);
             this.label68.Name = "label68";
-            this.label68.Size = new System.Drawing.Size(61, 23);
+            this.label68.Size = new System.Drawing.Size(51, 20);
             this.label68.TabIndex = 149;
             this.label68.Text = "CH6：";
             // 
@@ -805,47 +777,41 @@
             this.groupBox7.Controls.Add(this.label65);
             this.groupBox7.Controls.Add(this.label64);
             this.groupBox7.Controls.Add(this.label63);
-            this.groupBox7.Location = new System.Drawing.Point(491, 25);
-            this.groupBox7.Margin = new System.Windows.Forms.Padding(4);
+            this.groupBox7.Location = new System.Drawing.Point(368, 20);
             this.groupBox7.Name = "groupBox7";
-            this.groupBox7.Padding = new System.Windows.Forms.Padding(4);
-            this.groupBox7.Size = new System.Drawing.Size(145, 431);
+            this.groupBox7.Size = new System.Drawing.Size(109, 345);
             this.groupBox7.TabIndex = 163;
             this.groupBox7.TabStop = false;
             this.groupBox7.Text = "接收机";
             // 
             // textBox54
             // 
-            this.textBox54.Location = new System.Drawing.Point(69, 134);
-            this.textBox54.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox54.Location = new System.Drawing.Point(52, 107);
             this.textBox54.Name = "textBox54";
-            this.textBox54.Size = new System.Drawing.Size(61, 29);
+            this.textBox54.Size = new System.Drawing.Size(47, 25);
             this.textBox54.TabIndex = 138;
             // 
             // textBox55
             // 
-            this.textBox55.Location = new System.Drawing.Point(69, 84);
-            this.textBox55.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox55.Location = new System.Drawing.Point(52, 67);
             this.textBox55.Name = "textBox55";
-            this.textBox55.Size = new System.Drawing.Size(61, 29);
+            this.textBox55.Size = new System.Drawing.Size(47, 25);
             this.textBox55.TabIndex = 136;
             // 
             // textBox56
             // 
-            this.textBox56.Location = new System.Drawing.Point(69, 34);
-            this.textBox56.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox56.Location = new System.Drawing.Point(52, 27);
             this.textBox56.Name = "textBox56";
-            this.textBox56.Size = new System.Drawing.Size(61, 29);
+            this.textBox56.Size = new System.Drawing.Size(47, 25);
             this.textBox56.TabIndex = 134;
             // 
             // label65
             // 
             this.label65.AutoSize = true;
             this.label65.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.label65.Location = new System.Drawing.Point(25, 38);
-            this.label65.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label65.Location = new System.Drawing.Point(19, 30);
             this.label65.Name = "label65";
-            this.label65.Size = new System.Drawing.Size(44, 20);
+            this.label65.Size = new System.Drawing.Size(36, 17);
             this.label65.TabIndex = 133;
             this.label65.Text = "IFL：";
             // 
@@ -853,10 +819,9 @@
             // 
             this.label64.AutoSize = true;
             this.label64.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.label64.Location = new System.Drawing.Point(7, 88);
-            this.label64.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label64.Location = new System.Drawing.Point(5, 70);
             this.label64.Name = "label64";
-            this.label64.Size = new System.Drawing.Size(64, 20);
+            this.label64.Size = new System.Drawing.Size(53, 17);
             this.label64.TabIndex = 135;
             this.label64.Text = "TUNE：";
             // 
@@ -864,10 +829,9 @@
             // 
             this.label63.AutoSize = true;
             this.label63.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.label63.Location = new System.Drawing.Point(19, 138);
-            this.label63.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label63.Location = new System.Drawing.Point(14, 110);
             this.label63.Name = "label63";
-            this.label63.Size = new System.Drawing.Size(51, 20);
+            this.label63.Size = new System.Drawing.Size(43, 17);
             this.label63.TabIndex = 137;
             this.label63.Text = "DIO：";
             // 
@@ -887,63 +851,55 @@
             this.groupBox4.Controls.Add(this.label57);
             this.groupBox4.Controls.Add(this.textBox47);
             this.groupBox4.Controls.Add(this.label56);
-            this.groupBox4.Location = new System.Drawing.Point(329, 25);
-            this.groupBox4.Margin = new System.Windows.Forms.Padding(4);
+            this.groupBox4.Location = new System.Drawing.Point(247, 20);
             this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Padding = new System.Windows.Forms.Padding(4);
-            this.groupBox4.Size = new System.Drawing.Size(143, 431);
+            this.groupBox4.Size = new System.Drawing.Size(107, 345);
             this.groupBox4.TabIndex = 162;
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "恒 温";
             // 
             // textBox48
             // 
-            this.textBox48.Location = new System.Drawing.Point(63, 284);
-            this.textBox48.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox48.Location = new System.Drawing.Point(47, 227);
             this.textBox48.Name = "textBox48";
-            this.textBox48.Size = new System.Drawing.Size(63, 29);
+            this.textBox48.Size = new System.Drawing.Size(48, 25);
             this.textBox48.TabIndex = 130;
             // 
             // textBox49
             // 
-            this.textBox49.Location = new System.Drawing.Point(63, 234);
-            this.textBox49.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox49.Location = new System.Drawing.Point(47, 187);
             this.textBox49.Name = "textBox49";
-            this.textBox49.Size = new System.Drawing.Size(63, 29);
+            this.textBox49.Size = new System.Drawing.Size(48, 25);
             this.textBox49.TabIndex = 128;
             // 
             // textBox50
             // 
-            this.textBox50.Location = new System.Drawing.Point(63, 185);
-            this.textBox50.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox50.Location = new System.Drawing.Point(47, 148);
             this.textBox50.Name = "textBox50";
-            this.textBox50.Size = new System.Drawing.Size(63, 29);
+            this.textBox50.Size = new System.Drawing.Size(48, 25);
             this.textBox50.TabIndex = 126;
             // 
             // textBox53
             // 
-            this.textBox53.Location = new System.Drawing.Point(63, 34);
-            this.textBox53.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox53.Location = new System.Drawing.Point(47, 27);
             this.textBox53.Name = "textBox53";
-            this.textBox53.Size = new System.Drawing.Size(63, 29);
+            this.textBox53.Size = new System.Drawing.Size(48, 25);
             this.textBox53.TabIndex = 120;
             // 
             // textBox52
             // 
-            this.textBox52.Location = new System.Drawing.Point(63, 82);
-            this.textBox52.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox52.Location = new System.Drawing.Point(47, 66);
             this.textBox52.Name = "textBox52";
-            this.textBox52.Size = new System.Drawing.Size(63, 29);
+            this.textBox52.Size = new System.Drawing.Size(48, 25);
             this.textBox52.TabIndex = 122;
             // 
             // label62
             // 
             this.label62.AutoSize = true;
             this.label62.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.label62.Location = new System.Drawing.Point(12, 38);
-            this.label62.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label62.Location = new System.Drawing.Point(9, 30);
             this.label62.Name = "label62";
-            this.label62.Size = new System.Drawing.Size(54, 20);
+            this.label62.Size = new System.Drawing.Size(44, 17);
             this.label62.TabIndex = 119;
             this.label62.Text = "THB：";
             // 
@@ -951,29 +907,26 @@
             // 
             this.label61.AutoSize = true;
             this.label61.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.label61.Location = new System.Drawing.Point(12, 88);
-            this.label61.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label61.Location = new System.Drawing.Point(9, 70);
             this.label61.Name = "label61";
-            this.label61.Size = new System.Drawing.Size(55, 20);
+            this.label61.Size = new System.Drawing.Size(44, 17);
             this.label61.TabIndex = 121;
             this.label61.Text = "THC：";
             // 
             // textBox51
             // 
-            this.textBox51.Location = new System.Drawing.Point(63, 134);
-            this.textBox51.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox51.Location = new System.Drawing.Point(47, 107);
             this.textBox51.Name = "textBox51";
-            this.textBox51.Size = new System.Drawing.Size(63, 29);
+            this.textBox51.Size = new System.Drawing.Size(48, 25);
             this.textBox51.TabIndex = 124;
             // 
             // label60
             // 
             this.label60.AutoSize = true;
             this.label60.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.label60.Location = new System.Drawing.Point(12, 138);
-            this.label60.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label60.Location = new System.Drawing.Point(9, 110);
             this.label60.Name = "label60";
-            this.label60.Size = new System.Drawing.Size(56, 20);
+            this.label60.Size = new System.Drawing.Size(45, 17);
             this.label60.TabIndex = 123;
             this.label60.Text = "THD：";
             // 
@@ -981,10 +934,9 @@
             // 
             this.label59.AutoSize = true;
             this.label59.Font = new System.Drawing.Font("微软雅黑", 8F);
-            this.label59.Location = new System.Drawing.Point(5, 188);
-            this.label59.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label59.Location = new System.Drawing.Point(4, 150);
             this.label59.Name = "label59";
-            this.label59.Size = new System.Drawing.Size(60, 20);
+            this.label59.Size = new System.Drawing.Size(48, 16);
             this.label59.TabIndex = 125;
             this.label59.Text = "NECK：";
             // 
@@ -992,10 +944,9 @@
             // 
             this.label58.AutoSize = true;
             this.label58.Font = new System.Drawing.Font("微软雅黑", 8F);
-            this.label58.Location = new System.Drawing.Point(5, 238);
-            this.label58.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label58.Location = new System.Drawing.Point(4, 190);
             this.label58.Name = "label58";
-            this.label58.Size = new System.Drawing.Size(62, 20);
+            this.label58.Size = new System.Drawing.Size(50, 16);
             this.label58.TabIndex = 127;
             this.label58.Text = "OVN1：";
             // 
@@ -1003,29 +954,26 @@
             // 
             this.label57.AutoSize = true;
             this.label57.Font = new System.Drawing.Font("微软雅黑", 8F);
-            this.label57.Location = new System.Drawing.Point(5, 288);
-            this.label57.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label57.Location = new System.Drawing.Point(4, 230);
             this.label57.Name = "label57";
-            this.label57.Size = new System.Drawing.Size(62, 20);
+            this.label57.Size = new System.Drawing.Size(50, 16);
             this.label57.TabIndex = 129;
             this.label57.Text = "OVN2：";
             // 
             // textBox47
             // 
-            this.textBox47.Location = new System.Drawing.Point(63, 331);
-            this.textBox47.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox47.Location = new System.Drawing.Point(47, 265);
             this.textBox47.Name = "textBox47";
-            this.textBox47.Size = new System.Drawing.Size(63, 29);
+            this.textBox47.Size = new System.Drawing.Size(48, 25);
             this.textBox47.TabIndex = 132;
             // 
             // label56
             // 
             this.label56.AutoSize = true;
             this.label56.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.label56.Location = new System.Drawing.Point(12, 338);
-            this.label56.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label56.Location = new System.Drawing.Point(9, 270);
             this.label56.Name = "label56";
-            this.label56.Size = new System.Drawing.Size(57, 20);
+            this.label56.Size = new System.Drawing.Size(47, 17);
             this.label56.TabIndex = 131;
             this.label56.Text = "ISOL：";
             // 
@@ -1039,55 +987,48 @@
             this.groupBox2.Controls.Add(this.label54);
             this.groupBox2.Controls.Add(this.label53);
             this.groupBox2.Controls.Add(this.label52);
-            this.groupBox2.Location = new System.Drawing.Point(161, 28);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(4);
+            this.groupBox2.Location = new System.Drawing.Point(121, 22);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(4);
-            this.groupBox2.Size = new System.Drawing.Size(151, 244);
+            this.groupBox2.Size = new System.Drawing.Size(120, 195);
             this.groupBox2.TabIndex = 161;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "离子泵";
             // 
             // textBox43
             // 
-            this.textBox43.Location = new System.Drawing.Point(75, 181);
-            this.textBox43.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox43.Location = new System.Drawing.Point(56, 145);
             this.textBox43.Name = "textBox43";
-            this.textBox43.Size = new System.Drawing.Size(64, 29);
+            this.textBox43.Size = new System.Drawing.Size(49, 25);
             this.textBox43.TabIndex = 118;
             // 
             // textBox44
             // 
-            this.textBox44.Location = new System.Drawing.Point(75, 129);
-            this.textBox44.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox44.Location = new System.Drawing.Point(56, 103);
             this.textBox44.Name = "textBox44";
-            this.textBox44.Size = new System.Drawing.Size(64, 29);
+            this.textBox44.Size = new System.Drawing.Size(49, 25);
             this.textBox44.TabIndex = 116;
             // 
             // textBox45
             // 
-            this.textBox45.Location = new System.Drawing.Point(75, 78);
-            this.textBox45.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox45.Location = new System.Drawing.Point(56, 62);
             this.textBox45.Name = "textBox45";
-            this.textBox45.Size = new System.Drawing.Size(64, 29);
+            this.textBox45.Size = new System.Drawing.Size(49, 25);
             this.textBox45.TabIndex = 114;
             // 
             // textBox46
             // 
-            this.textBox46.Location = new System.Drawing.Point(75, 34);
-            this.textBox46.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox46.Location = new System.Drawing.Point(56, 27);
             this.textBox46.Name = "textBox46";
-            this.textBox46.Size = new System.Drawing.Size(64, 29);
+            this.textBox46.Size = new System.Drawing.Size(49, 25);
             this.textBox46.TabIndex = 112;
             // 
             // label55
             // 
             this.label55.AutoSize = true;
             this.label55.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.label55.Location = new System.Drawing.Point(12, 38);
-            this.label55.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label55.Location = new System.Drawing.Point(9, 30);
             this.label55.Name = "label55";
-            this.label55.Size = new System.Drawing.Size(62, 20);
+            this.label55.Size = new System.Drawing.Size(52, 17);
             this.label55.TabIndex = 111;
             this.label55.Text = "IONV：";
             // 
@@ -1095,10 +1036,9 @@
             // 
             this.label54.AutoSize = true;
             this.label54.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.label54.Location = new System.Drawing.Point(9, 84);
-            this.label54.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label54.Location = new System.Drawing.Point(7, 67);
             this.label54.Name = "label54";
-            this.label54.Size = new System.Drawing.Size(56, 20);
+            this.label54.Size = new System.Drawing.Size(48, 17);
             this.label54.TabIndex = 113;
             this.label54.Text = "IONI：";
             // 
@@ -1106,10 +1046,9 @@
             // 
             this.label53.AutoSize = true;
             this.label53.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.label53.Location = new System.Drawing.Point(8, 135);
-            this.label53.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label53.Location = new System.Drawing.Point(6, 108);
             this.label53.Name = "label53";
-            this.label53.Size = new System.Drawing.Size(61, 20);
+            this.label53.Size = new System.Drawing.Size(49, 17);
             this.label53.TabIndex = 115;
             this.label53.Text = "FLUX：";
             // 
@@ -1117,10 +1056,9 @@
             // 
             this.label52.AutoSize = true;
             this.label52.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.label52.Location = new System.Drawing.Point(17, 185);
-            this.label52.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label52.Location = new System.Drawing.Point(13, 148);
             this.label52.Name = "label52";
-            this.label52.Size = new System.Drawing.Size(50, 20);
+            this.label52.Size = new System.Drawing.Size(40, 17);
             this.label52.TabIndex = 117;
             this.label52.Text = "FLR：";
             // 
@@ -1140,80 +1078,69 @@
             this.groupBox1.Controls.Add(this.label47);
             this.groupBox1.Controls.Add(this.label46);
             this.groupBox1.Controls.Add(this.label45);
-            this.groupBox1.Location = new System.Drawing.Point(8, 26);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.groupBox1.Location = new System.Drawing.Point(6, 21);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
-            this.groupBox1.Size = new System.Drawing.Size(141, 431);
+            this.groupBox1.Size = new System.Drawing.Size(106, 345);
             this.groupBox1.TabIndex = 160;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "电压";
             // 
             // textBox36
             // 
-            this.textBox36.Location = new System.Drawing.Point(57, 334);
-            this.textBox36.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox36.Location = new System.Drawing.Point(43, 267);
             this.textBox36.Name = "textBox36";
-            this.textBox36.Size = new System.Drawing.Size(65, 29);
+            this.textBox36.Size = new System.Drawing.Size(50, 25);
             this.textBox36.TabIndex = 110;
             // 
             // textBox37
             // 
-            this.textBox37.Location = new System.Drawing.Point(57, 284);
-            this.textBox37.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox37.Location = new System.Drawing.Point(43, 227);
             this.textBox37.Name = "textBox37";
-            this.textBox37.Size = new System.Drawing.Size(65, 29);
+            this.textBox37.Size = new System.Drawing.Size(50, 25);
             this.textBox37.TabIndex = 108;
             // 
             // textBox38
             // 
-            this.textBox38.Location = new System.Drawing.Point(57, 234);
-            this.textBox38.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox38.Location = new System.Drawing.Point(43, 187);
             this.textBox38.Name = "textBox38";
-            this.textBox38.Size = new System.Drawing.Size(65, 29);
+            this.textBox38.Size = new System.Drawing.Size(50, 25);
             this.textBox38.TabIndex = 106;
             // 
             // textBox39
             // 
-            this.textBox39.Location = new System.Drawing.Point(57, 184);
-            this.textBox39.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox39.Location = new System.Drawing.Point(43, 147);
             this.textBox39.Name = "textBox39";
-            this.textBox39.Size = new System.Drawing.Size(65, 29);
+            this.textBox39.Size = new System.Drawing.Size(50, 25);
             this.textBox39.TabIndex = 104;
             // 
             // textBox40
             // 
-            this.textBox40.Location = new System.Drawing.Point(57, 134);
-            this.textBox40.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox40.Location = new System.Drawing.Point(43, 107);
             this.textBox40.Name = "textBox40";
-            this.textBox40.Size = new System.Drawing.Size(65, 29);
+            this.textBox40.Size = new System.Drawing.Size(50, 25);
             this.textBox40.TabIndex = 102;
-          
             // 
             // textBox41
             // 
-            this.textBox41.Location = new System.Drawing.Point(57, 84);
-            this.textBox41.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox41.Location = new System.Drawing.Point(43, 67);
             this.textBox41.Name = "textBox41";
-            this.textBox41.Size = new System.Drawing.Size(64, 29);
+            this.textBox41.Size = new System.Drawing.Size(49, 25);
             this.textBox41.TabIndex = 100;
             // 
             // textBox42
             // 
-            this.textBox42.Location = new System.Drawing.Point(57, 34);
-            this.textBox42.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox42.Location = new System.Drawing.Point(43, 27);
             this.textBox42.Name = "textBox42";
-            this.textBox42.Size = new System.Drawing.Size(65, 29);
+            this.textBox42.Size = new System.Drawing.Size(50, 25);
             this.textBox42.TabIndex = 98;
             // 
             // sys_la_V1
             // 
             this.sys_la_V1.AutoSize = true;
             this.sys_la_V1.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.sys_la_V1.Location = new System.Drawing.Point(12, 38);
-            this.sys_la_V1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.sys_la_V1.Location = new System.Drawing.Point(9, 30);
             this.sys_la_V1.Name = "sys_la_V1";
-            this.sys_la_V1.Size = new System.Drawing.Size(49, 23);
+            this.sys_la_V1.Size = new System.Drawing.Size(40, 20);
             this.sys_la_V1.TabIndex = 97;
             this.sys_la_V1.Text = "V1：";
             // 
@@ -1221,10 +1148,9 @@
             // 
             this.label50.AutoSize = true;
             this.label50.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.label50.Location = new System.Drawing.Point(12, 88);
-            this.label50.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label50.Location = new System.Drawing.Point(9, 70);
             this.label50.Name = "label50";
-            this.label50.Size = new System.Drawing.Size(49, 23);
+            this.label50.Size = new System.Drawing.Size(40, 20);
             this.label50.TabIndex = 99;
             this.label50.Text = "V2：";
             // 
@@ -1232,10 +1158,9 @@
             // 
             this.label49.AutoSize = true;
             this.label49.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.label49.Location = new System.Drawing.Point(12, 138);
-            this.label49.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label49.Location = new System.Drawing.Point(9, 110);
             this.label49.Name = "label49";
-            this.label49.Size = new System.Drawing.Size(49, 23);
+            this.label49.Size = new System.Drawing.Size(40, 20);
             this.label49.TabIndex = 101;
             this.label49.Text = "V3：";
             // 
@@ -1243,10 +1168,9 @@
             // 
             this.label48.AutoSize = true;
             this.label48.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.label48.Location = new System.Drawing.Point(12, 188);
-            this.label48.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label48.Location = new System.Drawing.Point(9, 150);
             this.label48.Name = "label48";
-            this.label48.Size = new System.Drawing.Size(49, 23);
+            this.label48.Size = new System.Drawing.Size(40, 20);
             this.label48.TabIndex = 103;
             this.label48.Text = "V4：";
             // 
@@ -1254,10 +1178,9 @@
             // 
             this.label47.AutoSize = true;
             this.label47.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.label47.Location = new System.Drawing.Point(5, 238);
-            this.label47.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label47.Location = new System.Drawing.Point(4, 190);
             this.label47.Name = "label47";
-            this.label47.Size = new System.Drawing.Size(52, 20);
+            this.label47.Size = new System.Drawing.Size(42, 17);
             this.label47.TabIndex = 105;
             this.label47.Text = "CFV：";
             // 
@@ -1265,10 +1188,9 @@
             // 
             this.label46.AutoSize = true;
             this.label46.Font = new System.Drawing.Font("微软雅黑", 8F);
-            this.label46.Location = new System.Drawing.Point(5, 288);
-            this.label46.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label46.Location = new System.Drawing.Point(4, 230);
             this.label46.Name = "label46";
-            this.label46.Size = new System.Drawing.Size(47, 20);
+            this.label46.Size = new System.Drawing.Size(39, 16);
             this.label46.TabIndex = 107;
             this.label46.Text = "OSCF:";
             // 
@@ -1276,17 +1198,17 @@
             // 
             this.label45.AutoSize = true;
             this.label45.Font = new System.Drawing.Font("微软雅黑", 8F);
-            this.label45.Location = new System.Drawing.Point(7, 338);
-            this.label45.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label45.Location = new System.Drawing.Point(5, 270);
             this.label45.Name = "label45";
-            this.label45.Size = new System.Drawing.Size(55, 20);
+            this.label45.Size = new System.Drawing.Size(44, 16);
             this.label45.TabIndex = 109;
             this.label45.Text = "OSCI：";
             // 
             // groupBox5
             // 
-            this.groupBox5.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
+            this.groupBox5.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
                         | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox5.AutoSize = true;
             this.groupBox5.Controls.Add(this.textBox70);
             this.groupBox5.Controls.Add(this.label79);
             this.groupBox5.Controls.Add(this.textBox69);
@@ -1330,85 +1252,87 @@
             this.groupBox5.Controls.Add(this.label7);
             this.groupBox5.Controls.Add(this.label3);
             this.groupBox5.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.groupBox5.Location = new System.Drawing.Point(931, -1);
-            this.groupBox5.Margin = new System.Windows.Forms.Padding(4);
+            this.groupBox5.Location = new System.Drawing.Point(698, -1);
             this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Padding = new System.Windows.Forms.Padding(4);
-            this.groupBox5.Size = new System.Drawing.Size(431, 711);
+            this.groupBox5.Size = new System.Drawing.Size(308, 578);
             this.groupBox5.TabIndex = 34;
             this.groupBox5.TabStop = false;
             this.groupBox5.Text = "设备配置";
             // 
             // textBox70
             // 
-            this.textBox70.Location = new System.Drawing.Point(228, 601);
-            this.textBox70.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox70.Location = new System.Drawing.Point(171, 481);
+            this.textBox70.Margin = new System.Windows.Forms.Padding(2);
             this.textBox70.Name = "textBox70";
-            this.textBox70.Size = new System.Drawing.Size(31, 29);
+            this.textBox70.Size = new System.Drawing.Size(24, 25);
             this.textBox70.TabIndex = 89;
             this.textBox70.Text = "19";
             // 
             // label79
             // 
             this.label79.AutoSize = true;
-            this.label79.Location = new System.Drawing.Point(257, 602);
+            this.label79.Location = new System.Drawing.Point(193, 482);
+            this.label79.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label79.Name = "label79";
-            this.label79.Size = new System.Drawing.Size(27, 23);
+            this.label79.Size = new System.Drawing.Size(23, 20);
             this.label79.TabIndex = 88;
             this.label79.Text = "秒";
             // 
             // textBox69
             // 
-            this.textBox69.Location = new System.Drawing.Point(176, 601);
-            this.textBox69.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox69.Location = new System.Drawing.Point(132, 481);
+            this.textBox69.Margin = new System.Windows.Forms.Padding(2);
             this.textBox69.Name = "textBox69";
-            this.textBox69.Size = new System.Drawing.Size(31, 29);
+            this.textBox69.Size = new System.Drawing.Size(24, 25);
             this.textBox69.TabIndex = 87;
             this.textBox69.Text = "19";
             // 
             // label78
             // 
             this.label78.AutoSize = true;
-            this.label78.Location = new System.Drawing.Point(205, 602);
+            this.label78.Location = new System.Drawing.Point(154, 482);
+            this.label78.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label78.Name = "label78";
-            this.label78.Size = new System.Drawing.Size(27, 23);
+            this.label78.Size = new System.Drawing.Size(23, 20);
             this.label78.TabIndex = 86;
             this.label78.Text = "分";
             // 
             // label77
             // 
             this.label77.AutoSize = true;
-            this.label77.Location = new System.Drawing.Point(151, 602);
+            this.label77.Location = new System.Drawing.Point(113, 482);
+            this.label77.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label77.Name = "label77";
-            this.label77.Size = new System.Drawing.Size(27, 23);
+            this.label77.Size = new System.Drawing.Size(23, 20);
             this.label77.TabIndex = 85;
             this.label77.Text = "时";
             // 
             // label76
             // 
             this.label76.AutoSize = true;
-            this.label76.Location = new System.Drawing.Point(93, 602);
+            this.label76.Location = new System.Drawing.Point(70, 482);
+            this.label76.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label76.Name = "label76";
-            this.label76.Size = new System.Drawing.Size(27, 23);
+            this.label76.Size = new System.Drawing.Size(23, 20);
             this.label76.TabIndex = 84;
             this.label76.Text = "天";
             // 
             // label75
             // 
             this.label75.AutoSize = true;
-            this.label75.Location = new System.Drawing.Point(247, 662);
+            this.label75.Location = new System.Drawing.Point(185, 530);
+            this.label75.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label75.Name = "label75";
-            this.label75.Size = new System.Drawing.Size(18, 23);
+            this.label75.Size = new System.Drawing.Size(15, 20);
             this.label75.TabIndex = 83;
             this.label75.Text = "s";
             // 
             // textBox68
             // 
             this.textBox68.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox68.Location = new System.Drawing.Point(83, 432);
-            this.textBox68.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox68.Location = new System.Drawing.Point(62, 346);
             this.textBox68.Name = "textBox68";
-            this.textBox68.Size = new System.Drawing.Size(43, 27);
+            this.textBox68.Size = new System.Drawing.Size(33, 23);
             this.textBox68.TabIndex = 82;
             this.textBox68.Text = "4057";
             this.textBox68.TextChanged += new System.EventHandler(this.textBox68_TextChanged);
@@ -1416,10 +1340,9 @@
             // button20
             // 
             this.button20.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button20.Location = new System.Drawing.Point(311, 664);
-            this.button20.Margin = new System.Windows.Forms.Padding(4);
+            this.button20.Location = new System.Drawing.Point(233, 531);
             this.button20.Name = "button20";
-            this.button20.Size = new System.Drawing.Size(81, 29);
+            this.button20.Size = new System.Drawing.Size(61, 23);
             this.button20.TabIndex = 81;
             this.button20.Text = "设置";
             this.button20.UseVisualStyleBackColor = true;
@@ -1428,20 +1351,18 @@
             // label74
             // 
             this.label74.AutoSize = true;
-            this.label74.Location = new System.Drawing.Point(79, 664);
-            this.label74.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label74.Location = new System.Drawing.Point(59, 531);
             this.label74.Name = "label74";
-            this.label74.Size = new System.Drawing.Size(44, 23);
+            this.label74.Size = new System.Drawing.Size(37, 20);
             this.label74.TabIndex = 80;
             this.label74.Text = "周期";
             // 
             // textBox67
             // 
-            this.textBox67.Location = new System.Drawing.Point(169, 660);
-            this.textBox67.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox67.Location = new System.Drawing.Point(127, 528);
             this.textBox67.MaxLength = 3;
             this.textBox67.Name = "textBox67";
-            this.textBox67.Size = new System.Drawing.Size(76, 29);
+            this.textBox67.Size = new System.Drawing.Size(58, 25);
             this.textBox67.TabIndex = 79;
             this.textBox67.Text = "10";
             this.textBox67.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox67_KeyPress);
@@ -1449,30 +1370,27 @@
             // label51
             // 
             this.label51.AutoSize = true;
-            this.label51.Location = new System.Drawing.Point(9, 635);
-            this.label51.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label51.Location = new System.Drawing.Point(7, 508);
             this.label51.Name = "label51";
-            this.label51.Size = new System.Drawing.Size(122, 23);
+            this.label51.Size = new System.Drawing.Size(101, 20);
             this.label51.TabIndex = 78;
             this.label51.Text = "6采样周期设置";
             // 
             // textBox66
             // 
-            this.textBox66.Location = new System.Drawing.Point(119, 600);
-            this.textBox66.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox66.Location = new System.Drawing.Point(89, 480);
             this.textBox66.MaxLength = 8;
             this.textBox66.Name = "textBox66";
-            this.textBox66.Size = new System.Drawing.Size(33, 29);
+            this.textBox66.Size = new System.Drawing.Size(26, 25);
             this.textBox66.TabIndex = 77;
             this.textBox66.Text = "19";
             // 
             // button10
             // 
             this.button10.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button10.Location = new System.Drawing.Point(63, 268);
-            this.button10.Margin = new System.Windows.Forms.Padding(4);
+            this.button10.Location = new System.Drawing.Point(47, 214);
             this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(80, 29);
+            this.button10.Size = new System.Drawing.Size(60, 23);
             this.button10.TabIndex = 76;
             this.button10.Text = "打开";
             this.button10.UseVisualStyleBackColor = true;
@@ -1481,10 +1399,9 @@
             // radioButton2
             // 
             this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(268, 198);
-            this.radioButton2.Margin = new System.Windows.Forms.Padding(4);
+            this.radioButton2.Location = new System.Drawing.Point(201, 158);
             this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(65, 27);
+            this.radioButton2.Size = new System.Drawing.Size(55, 24);
             this.radioButton2.TabIndex = 75;
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "手动";
@@ -1494,10 +1411,9 @@
             // radioButton1
             // 
             this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(69, 198);
-            this.radioButton1.Margin = new System.Windows.Forms.Padding(4);
+            this.radioButton1.Location = new System.Drawing.Point(52, 158);
             this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(65, 27);
+            this.radioButton1.Size = new System.Drawing.Size(55, 24);
             this.radioButton1.TabIndex = 74;
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "自动";
@@ -1512,21 +1428,18 @@
             this.groupBox10.Controls.Add(this.sys_la_relay1);
             this.groupBox10.Controls.Add(this.sys_la_relay3);
             this.groupBox10.Controls.Add(this.sys_la_relay5);
-            this.groupBox10.Location = new System.Drawing.Point(209, 214);
-            this.groupBox10.Margin = new System.Windows.Forms.Padding(4);
+            this.groupBox10.Location = new System.Drawing.Point(157, 171);
             this.groupBox10.Name = "groupBox10";
-            this.groupBox10.Padding = new System.Windows.Forms.Padding(4);
-            this.groupBox10.Size = new System.Drawing.Size(171, 125);
+            this.groupBox10.Size = new System.Drawing.Size(128, 100);
             this.groupBox10.TabIndex = 73;
             this.groupBox10.TabStop = false;
             // 
             // button16
             // 
             this.button16.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button16.Location = new System.Drawing.Point(89, 94);
-            this.button16.Margin = new System.Windows.Forms.Padding(4);
+            this.button16.Location = new System.Drawing.Point(67, 75);
             this.button16.Name = "button16";
-            this.button16.Size = new System.Drawing.Size(61, 29);
+            this.button16.Size = new System.Drawing.Size(46, 23);
             this.button16.TabIndex = 70;
             this.button16.Text = "打开";
             this.button16.UseVisualStyleBackColor = true;
@@ -1535,10 +1448,9 @@
             // button15
             // 
             this.button15.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button15.Location = new System.Drawing.Point(89, 61);
-            this.button15.Margin = new System.Windows.Forms.Padding(4);
+            this.button15.Location = new System.Drawing.Point(67, 49);
             this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(61, 29);
+            this.button15.Size = new System.Drawing.Size(46, 23);
             this.button15.TabIndex = 69;
             this.button15.Text = "打开";
             this.button15.UseVisualStyleBackColor = true;
@@ -1547,10 +1459,9 @@
             // button12
             // 
             this.button12.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button12.Location = new System.Drawing.Point(89, 26);
-            this.button12.Margin = new System.Windows.Forms.Padding(4);
+            this.button12.Location = new System.Drawing.Point(67, 21);
             this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(61, 29);
+            this.button12.Size = new System.Drawing.Size(46, 23);
             this.button12.TabIndex = 68;
             this.button12.Text = "打开";
             this.button12.UseVisualStyleBackColor = true;
@@ -1559,40 +1470,36 @@
             // sys_la_relay1
             // 
             this.sys_la_relay1.AutoSize = true;
-            this.sys_la_relay1.Location = new System.Drawing.Point(13, 26);
-            this.sys_la_relay1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.sys_la_relay1.Location = new System.Drawing.Point(10, 21);
             this.sys_la_relay1.Name = "sys_la_relay1";
-            this.sys_la_relay1.Size = new System.Drawing.Size(61, 23);
+            this.sys_la_relay1.Size = new System.Drawing.Size(51, 20);
             this.sys_la_relay1.TabIndex = 62;
             this.sys_la_relay1.Text = "离子泵";
             // 
             // sys_la_relay3
             // 
             this.sys_la_relay3.AutoSize = true;
-            this.sys_la_relay3.Location = new System.Drawing.Point(20, 62);
-            this.sys_la_relay3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.sys_la_relay3.Location = new System.Drawing.Point(15, 50);
             this.sys_la_relay3.Name = "sys_la_relay3";
-            this.sys_la_relay3.Size = new System.Drawing.Size(44, 23);
+            this.sys_la_relay3.Size = new System.Drawing.Size(37, 20);
             this.sys_la_relay3.TabIndex = 64;
             this.sys_la_relay3.Text = "恒温";
             // 
             // sys_la_relay5
             // 
             this.sys_la_relay5.AutoSize = true;
-            this.sys_la_relay5.Location = new System.Drawing.Point(21, 96);
-            this.sys_la_relay5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.sys_la_relay5.Location = new System.Drawing.Point(16, 77);
             this.sys_la_relay5.Name = "sys_la_relay5";
-            this.sys_la_relay5.Size = new System.Drawing.Size(44, 23);
+            this.sys_la_relay5.Size = new System.Drawing.Size(37, 20);
             this.sys_la_relay5.TabIndex = 66;
             this.sys_la_relay5.Text = "流量";
             // 
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.button1.Location = new System.Drawing.Point(311, 600);
-            this.button1.Margin = new System.Windows.Forms.Padding(4);
+            this.button1.Location = new System.Drawing.Point(233, 480);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(79, 30);
+            this.button1.Size = new System.Drawing.Size(59, 24);
             this.button1.TabIndex = 70;
             this.button1.Text = "校正";
             this.button1.UseVisualStyleBackColor = true;
@@ -1601,21 +1508,19 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(4, 569);
-            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label4.Location = new System.Drawing.Point(3, 455);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(127, 23);
+            this.label4.Size = new System.Drawing.Size(105, 20);
             this.label4.TabIndex = 69;
             this.label4.Text = "5 计时时间校正";
             this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // textBox65
             // 
-            this.textBox65.Location = new System.Drawing.Point(48, 599);
-            this.textBox65.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox65.Location = new System.Drawing.Point(36, 479);
             this.textBox65.MaxLength = 4;
             this.textBox65.Name = "textBox65";
-            this.textBox65.Size = new System.Drawing.Size(49, 29);
+            this.textBox65.Size = new System.Drawing.Size(38, 25);
             this.textBox65.TabIndex = 68;
             this.textBox65.Text = "365";
             this.textBox65.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox65_KeyPress);
@@ -1623,29 +1528,26 @@
             // textBox5
             // 
             this.textBox5.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox5.Location = new System.Drawing.Point(123, 432);
-            this.textBox5.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox5.Location = new System.Drawing.Point(92, 346);
             this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(83, 27);
+            this.textBox5.Size = new System.Drawing.Size(71, 23);
             this.textBox5.TabIndex = 17;
             this.textBox5.Text = "45.6";
             // 
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(25, 430);
-            this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label10.Location = new System.Drawing.Point(19, 344);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(61, 23);
+            this.label10.Size = new System.Drawing.Size(51, 20);
             this.label10.TabIndex = 61;
             this.label10.Text = "频率：";
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(69, 525);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox2.Location = new System.Drawing.Point(52, 420);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(199, 29);
+            this.textBox2.Size = new System.Drawing.Size(150, 25);
             this.textBox2.TabIndex = 60;
             this.textBox2.Text = "2016-11-18 19:10:20";
             // 
@@ -1657,10 +1559,9 @@
             this.comboBox1.Items.AddRange(new object[] {
             "us",
             "ms"});
-            this.comboBox1.Location = new System.Drawing.Point(188, 98);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.comboBox1.Location = new System.Drawing.Point(141, 78);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(57, 28);
+            this.comboBox1.Size = new System.Drawing.Size(44, 25);
             this.comboBox1.TabIndex = 59;
             // 
             // PortName_ComboBox
@@ -1671,20 +1572,18 @@
             this.PortName_ComboBox.Items.AddRange(new object[] {
             "us",
             "ms"});
-            this.PortName_ComboBox.Location = new System.Drawing.Point(188, 61);
-            this.PortName_ComboBox.Margin = new System.Windows.Forms.Padding(4);
+            this.PortName_ComboBox.Location = new System.Drawing.Point(141, 49);
             this.PortName_ComboBox.Name = "PortName_ComboBox";
-            this.PortName_ComboBox.Size = new System.Drawing.Size(57, 28);
+            this.PortName_ComboBox.Size = new System.Drawing.Size(44, 25);
             this.PortName_ComboBox.TabIndex = 58;
             // 
             // panel2
             // 
             this.panel2.Controls.Add(this.radioButton3);
             this.panel2.Controls.Add(this.radioButton4);
-            this.panel2.Location = new System.Drawing.Point(45, 372);
-            this.panel2.Margin = new System.Windows.Forms.Padding(4);
+            this.panel2.Location = new System.Drawing.Point(34, 298);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(305, 46);
+            this.panel2.Size = new System.Drawing.Size(229, 37);
             this.panel2.TabIndex = 33;
             // 
             // radioButton3
@@ -1692,10 +1591,10 @@
             this.radioButton3.AutoSize = true;
             this.radioButton3.Checked = true;
             this.radioButton3.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.radioButton3.Location = new System.Drawing.Point(20, 12);
-            this.radioButton3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 4);
+            this.radioButton3.Location = new System.Drawing.Point(15, 10);
+            this.radioButton3.Margin = new System.Windows.Forms.Padding(3, 0, 3, 3);
             this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(84, 24);
+            this.radioButton3.Size = new System.Drawing.Size(69, 21);
             this.radioButton3.TabIndex = 31;
             this.radioButton3.TabStop = true;
             this.radioButton3.Text = "6位精度";
@@ -1706,23 +1605,23 @@
             // 
             this.radioButton4.AutoSize = true;
             this.radioButton4.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.radioButton4.Location = new System.Drawing.Point(148, 12);
-            this.radioButton4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 4);
+            this.radioButton4.Location = new System.Drawing.Point(111, 10);
+            this.radioButton4.Margin = new System.Windows.Forms.Padding(3, 0, 3, 3);
             this.radioButton4.Name = "radioButton4";
-            this.radioButton4.Size = new System.Drawing.Size(84, 24);
+            this.radioButton4.Size = new System.Drawing.Size(69, 21);
             this.radioButton4.TabIndex = 32;
             this.radioButton4.Text = "4位精度";
             this.radioButton4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.radioButton4.UseVisualStyleBackColor = true;
+            this.radioButton4.CheckedChanged += new System.EventHandler(this.radioButton4_CheckedChanged);
             // 
             // checkBox36
             // 
             this.checkBox36.AutoSize = true;
             this.checkBox36.Enabled = false;
-            this.checkBox36.Location = new System.Drawing.Point(45, 130);
-            this.checkBox36.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox36.Location = new System.Drawing.Point(34, 104);
             this.checkBox36.Name = "checkBox36";
-            this.checkBox36.Size = new System.Drawing.Size(100, 27);
+            this.checkBox36.Size = new System.Drawing.Size(84, 24);
             this.checkBox36.TabIndex = 29;
             this.checkBox36.Text = "信号同步";
             this.checkBox36.UseVisualStyleBackColor = true;
@@ -1731,30 +1630,27 @@
             // label44
             // 
             this.label44.AutoSize = true;
-            this.label44.Location = new System.Drawing.Point(40, 100);
-            this.label44.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label44.Location = new System.Drawing.Point(30, 80);
             this.label44.Name = "label44";
-            this.label44.Size = new System.Drawing.Size(61, 23);
+            this.label44.Size = new System.Drawing.Size(51, 20);
             this.label44.TabIndex = 26;
             this.label44.Text = "脉宽：";
             // 
             // label43
             // 
             this.label43.AutoSize = true;
-            this.label43.Location = new System.Drawing.Point(40, 65);
-            this.label43.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label43.Location = new System.Drawing.Point(30, 52);
             this.label43.Name = "label43";
-            this.label43.Size = new System.Drawing.Size(61, 23);
+            this.label43.Size = new System.Drawing.Size(51, 20);
             this.label43.TabIndex = 25;
             this.label43.Text = "移相：";
             // 
             // button9
             // 
             this.button9.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.button9.Location = new System.Drawing.Point(308, 470);
-            this.button9.Margin = new System.Windows.Forms.Padding(4);
+            this.button9.Location = new System.Drawing.Point(231, 376);
             this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(81, 29);
+            this.button9.Size = new System.Drawing.Size(61, 23);
             this.button9.TabIndex = 22;
             this.button9.Text = "设置";
             this.button9.UseVisualStyleBackColor = true;
@@ -1763,20 +1659,18 @@
             // textBox6
             // 
             this.textBox6.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox6.Location = new System.Drawing.Point(84, 468);
-            this.textBox6.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox6.Location = new System.Drawing.Point(63, 374);
             this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(83, 27);
+            this.textBox6.Size = new System.Drawing.Size(63, 23);
             this.textBox6.TabIndex = 21;
             this.textBox6.Text = "-123";
             // 
             // button8
             // 
             this.button8.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.button8.Location = new System.Drawing.Point(308, 430);
-            this.button8.Margin = new System.Windows.Forms.Padding(4);
+            this.button8.Location = new System.Drawing.Point(231, 344);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(80, 30);
+            this.button8.Size = new System.Drawing.Size(60, 24);
             this.button8.TabIndex = 18;
             this.button8.Text = "设置";
             this.button8.UseVisualStyleBackColor = true;
@@ -1785,10 +1679,9 @@
             // button7
             // 
             this.button7.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.button7.Location = new System.Drawing.Point(324, 100);
-            this.button7.Margin = new System.Windows.Forms.Padding(4);
+            this.button7.Location = new System.Drawing.Point(243, 80);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(79, 29);
+            this.button7.Size = new System.Drawing.Size(59, 23);
             this.button7.TabIndex = 10;
             this.button7.Text = "设置";
             this.button7.UseVisualStyleBackColor = true;
@@ -1797,10 +1690,9 @@
             // button6
             // 
             this.button6.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.button6.Location = new System.Drawing.Point(324, 60);
-            this.button6.Margin = new System.Windows.Forms.Padding(4);
+            this.button6.Location = new System.Drawing.Point(243, 48);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(79, 29);
+            this.button6.Size = new System.Drawing.Size(59, 23);
             this.button6.TabIndex = 9;
             this.button6.Text = "设置";
             this.button6.UseVisualStyleBackColor = true;
@@ -1809,30 +1701,27 @@
             // textBox4
             // 
             this.textBox4.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox4.Location = new System.Drawing.Point(108, 99);
-            this.textBox4.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox4.Location = new System.Drawing.Point(81, 79);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(67, 27);
+            this.textBox4.Size = new System.Drawing.Size(51, 23);
             this.textBox4.TabIndex = 8;
             this.textBox4.Text = "134000";
             // 
             // textBox3
             // 
             this.textBox3.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox3.Location = new System.Drawing.Point(108, 62);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox3.Location = new System.Drawing.Point(81, 50);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(67, 27);
+            this.textBox3.Size = new System.Drawing.Size(51, 23);
             this.textBox3.TabIndex = 7;
             this.textBox3.Text = "120000";
             // 
             // button5
             // 
             this.button5.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.button5.Location = new System.Drawing.Point(308, 524);
-            this.button5.Margin = new System.Windows.Forms.Padding(4);
+            this.button5.Location = new System.Drawing.Point(231, 419);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(81, 29);
+            this.button5.Size = new System.Drawing.Size(61, 23);
             this.button5.TabIndex = 6;
             this.button5.Text = "校正";
             this.button5.UseVisualStyleBackColor = true;
@@ -1841,67 +1730,58 @@
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(25, 468);
-            this.label11.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label11.Location = new System.Drawing.Point(19, 374);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(61, 23);
+            this.label11.Size = new System.Drawing.Size(51, 20);
             this.label11.TabIndex = 5;
             this.label11.Text = "相位：";
             // 
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(8, 496);
-            this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label9.Location = new System.Drawing.Point(6, 397);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(144, 23);
+            this.label9.Size = new System.Drawing.Size(119, 20);
             this.label9.TabIndex = 3;
             this.label9.Text = "4 系统时间校正：";
             // 
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(8, 345);
-            this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label8.Location = new System.Drawing.Point(6, 276);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(127, 23);
+            this.label8.Size = new System.Drawing.Size(105, 20);
             this.label8.TabIndex = 2;
             this.label8.Text = "3 综合器设置：";
             // 
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(9, 164);
-            this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label7.Location = new System.Drawing.Point(7, 131);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(161, 23);
+            this.label7.Size = new System.Drawing.Size(133, 20);
             this.label7.TabIndex = 1;
             this.label7.Text = "2 六路继电器配置：";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(9, 34);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Location = new System.Drawing.Point(7, 27);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(161, 23);
+            this.label3.Size = new System.Drawing.Size(133, 20);
             this.label3.TabIndex = 0;
             this.label3.Text = "1 两路秒信号配置：";
             // 
             // groupBox3
             // 
-            this.groupBox3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
             this.groupBox3.Controls.Add(this.label1);
             this.groupBox3.Controls.Add(this.textBox1);
             this.groupBox3.Controls.Add(this.button3);
             this.groupBox3.Controls.Add(this.button2);
             this.groupBox3.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.groupBox3.Location = new System.Drawing.Point(56, 524);
-            this.groupBox3.Margin = new System.Windows.Forms.Padding(4);
+            this.groupBox3.Location = new System.Drawing.Point(42, 419);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Padding = new System.Windows.Forms.Padding(4);
-            this.groupBox3.Size = new System.Drawing.Size(843, 81);
+            this.groupBox3.Size = new System.Drawing.Size(603, 65);
             this.groupBox3.TabIndex = 31;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "离线数据导入";
@@ -1909,10 +1789,9 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 31);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(9, 25);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(112, 23);
+            this.label1.Size = new System.Drawing.Size(93, 20);
             this.label1.TabIndex = 3;
             this.label1.Text = "数据源路径：";
             // 
@@ -1921,20 +1800,18 @@
             this.textBox1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
                         | System.Windows.Forms.AnchorStyles.Right)));
             this.textBox1.Enabled = false;
-            this.textBox1.Location = new System.Drawing.Point(151, 26);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox1.Location = new System.Drawing.Point(113, 21);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(420, 29);
+            this.textBox1.Size = new System.Drawing.Size(287, 25);
             this.textBox1.TabIndex = 2;
             // 
             // button3
             // 
             this.button3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.button3.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.button3.Location = new System.Drawing.Point(705, 25);
-            this.button3.Margin = new System.Windows.Forms.Padding(4);
+            this.button3.Location = new System.Drawing.Point(500, 20);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(124, 29);
+            this.button3.Size = new System.Drawing.Size(93, 23);
             this.button3.TabIndex = 1;
             this.button3.Text = "导入数据库";
             this.button3.UseVisualStyleBackColor = true;
@@ -1944,10 +1821,9 @@
             // 
             this.button2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.button2.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.button2.Location = new System.Drawing.Point(580, 25);
-            this.button2.Margin = new System.Windows.Forms.Padding(4);
+            this.button2.Location = new System.Drawing.Point(406, 20);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(112, 29);
+            this.button2.Size = new System.Drawing.Size(84, 23);
             this.button2.TabIndex = 0;
             this.button2.Text = "打开文件";
             this.button2.UseVisualStyleBackColor = true;
@@ -1999,11 +1875,10 @@
             this.tabPage8.Controls.Add(this.label12);
             this.tabPage8.Controls.Add(this.plot5);
             this.tabPage8.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.tabPage8.Location = new System.Drawing.Point(4, 35);
-            this.tabPage8.Margin = new System.Windows.Forms.Padding(4);
+            this.tabPage8.Location = new System.Drawing.Point(4, 31);
             this.tabPage8.Name = "tabPage8";
-            this.tabPage8.Padding = new System.Windows.Forms.Padding(4);
-            this.tabPage8.Size = new System.Drawing.Size(1389, 727);
+            this.tabPage8.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage8.Size = new System.Drawing.Size(1012, 551);
             this.tabPage8.TabIndex = 7;
             this.tabPage8.Text = "  历史查看  ";
             // 
@@ -2046,13 +1921,12 @@
             this.CH6,
             this.CH7,
             this.CH8});
-            this.dataGridView1.Location = new System.Drawing.Point(3, 38);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4);
+            this.dataGridView1.Location = new System.Drawing.Point(2, 30);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.RowHeadersVisible = false;
             this.dataGridView1.RowTemplate.Height = 23;
-            this.dataGridView1.Size = new System.Drawing.Size(1380, 665);
+            this.dataGridView1.Size = new System.Drawing.Size(1004, 532);
             this.dataGridView1.TabIndex = 21;
             // 
             // date
@@ -2238,10 +2112,9 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(87, 56);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(65, 45);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(95, 23);
+            this.label2.Size = new System.Drawing.Size(79, 20);
             this.label2.TabIndex = 63;
             this.label2.Text = "页面选择：";
             // 
@@ -2256,10 +2129,9 @@
             "恒温页",
             "接收机页",
             "隔离器页"});
-            this.ComboBox.Location = new System.Drawing.Point(199, 51);
-            this.ComboBox.Margin = new System.Windows.Forms.Padding(4);
+            this.ComboBox.Location = new System.Drawing.Point(149, 41);
             this.ComboBox.Name = "ComboBox";
-            this.ComboBox.Size = new System.Drawing.Size(133, 28);
+            this.ComboBox.Size = new System.Drawing.Size(101, 25);
             this.ComboBox.TabIndex = 62;
             this.ComboBox.SelectedIndexChanged += new System.EventHandler(this.ComboBox_SelectedIndexChanged);
             // 
@@ -2267,10 +2139,9 @@
             // 
             this.checkBox10.AutoSize = true;
             this.checkBox10.BackColor = System.Drawing.Color.White;
-            this.checkBox10.Location = new System.Drawing.Point(887, 56);
-            this.checkBox10.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox10.Location = new System.Drawing.Point(665, 45);
             this.checkBox10.Name = "checkBox10";
-            this.checkBox10.Size = new System.Drawing.Size(66, 27);
+            this.checkBox10.Size = new System.Drawing.Size(56, 24);
             this.checkBox10.TabIndex = 61;
             this.checkBox10.Text = "CH8";
             this.checkBox10.UseVisualStyleBackColor = false;
@@ -2280,10 +2151,9 @@
             // 
             this.checkBox11.AutoSize = true;
             this.checkBox11.BackColor = System.Drawing.Color.White;
-            this.checkBox11.Location = new System.Drawing.Point(807, 56);
-            this.checkBox11.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox11.Location = new System.Drawing.Point(605, 45);
             this.checkBox11.Name = "checkBox11";
-            this.checkBox11.Size = new System.Drawing.Size(66, 27);
+            this.checkBox11.Size = new System.Drawing.Size(56, 24);
             this.checkBox11.TabIndex = 60;
             this.checkBox11.Text = "CH7";
             this.checkBox11.UseVisualStyleBackColor = false;
@@ -2293,10 +2163,9 @@
             // 
             this.checkBox12.AutoSize = true;
             this.checkBox12.BackColor = System.Drawing.Color.White;
-            this.checkBox12.Location = new System.Drawing.Point(725, 56);
-            this.checkBox12.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox12.Location = new System.Drawing.Point(544, 45);
             this.checkBox12.Name = "checkBox12";
-            this.checkBox12.Size = new System.Drawing.Size(66, 27);
+            this.checkBox12.Size = new System.Drawing.Size(56, 24);
             this.checkBox12.TabIndex = 59;
             this.checkBox12.Text = "CH6";
             this.checkBox12.UseVisualStyleBackColor = false;
@@ -2306,10 +2175,9 @@
             // 
             this.checkBox13.AutoSize = true;
             this.checkBox13.BackColor = System.Drawing.Color.White;
-            this.checkBox13.Location = new System.Drawing.Point(651, 56);
-            this.checkBox13.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox13.Location = new System.Drawing.Point(488, 45);
             this.checkBox13.Name = "checkBox13";
-            this.checkBox13.Size = new System.Drawing.Size(66, 27);
+            this.checkBox13.Size = new System.Drawing.Size(56, 24);
             this.checkBox13.TabIndex = 58;
             this.checkBox13.Text = "CH5";
             this.checkBox13.UseVisualStyleBackColor = false;
@@ -2319,10 +2187,9 @@
             // 
             this.checkBox32.AutoSize = true;
             this.checkBox32.BackColor = System.Drawing.Color.White;
-            this.checkBox32.Location = new System.Drawing.Point(572, 56);
-            this.checkBox32.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox32.Location = new System.Drawing.Point(429, 45);
             this.checkBox32.Name = "checkBox32";
-            this.checkBox32.Size = new System.Drawing.Size(66, 27);
+            this.checkBox32.Size = new System.Drawing.Size(56, 24);
             this.checkBox32.TabIndex = 57;
             this.checkBox32.Text = "CH4";
             this.checkBox32.UseVisualStyleBackColor = false;
@@ -2332,10 +2199,9 @@
             // 
             this.checkBox33.AutoSize = true;
             this.checkBox33.BackColor = System.Drawing.Color.White;
-            this.checkBox33.Location = new System.Drawing.Point(496, 56);
-            this.checkBox33.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox33.Location = new System.Drawing.Point(372, 45);
             this.checkBox33.Name = "checkBox33";
-            this.checkBox33.Size = new System.Drawing.Size(66, 27);
+            this.checkBox33.Size = new System.Drawing.Size(56, 24);
             this.checkBox33.TabIndex = 56;
             this.checkBox33.Text = "CH3";
             this.checkBox33.UseVisualStyleBackColor = false;
@@ -2345,10 +2211,9 @@
             // 
             this.checkBox34.AutoSize = true;
             this.checkBox34.BackColor = System.Drawing.Color.White;
-            this.checkBox34.Location = new System.Drawing.Point(417, 56);
-            this.checkBox34.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox34.Location = new System.Drawing.Point(313, 45);
             this.checkBox34.Name = "checkBox34";
-            this.checkBox34.Size = new System.Drawing.Size(66, 27);
+            this.checkBox34.Size = new System.Drawing.Size(56, 24);
             this.checkBox34.TabIndex = 55;
             this.checkBox34.Text = "CH2";
             this.checkBox34.UseVisualStyleBackColor = false;
@@ -2358,10 +2223,9 @@
             // 
             this.checkBox35.AutoSize = true;
             this.checkBox35.BackColor = System.Drawing.Color.White;
-            this.checkBox35.Location = new System.Drawing.Point(341, 56);
-            this.checkBox35.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox35.Location = new System.Drawing.Point(256, 45);
             this.checkBox35.Name = "checkBox35";
-            this.checkBox35.Size = new System.Drawing.Size(66, 27);
+            this.checkBox35.Size = new System.Drawing.Size(56, 24);
             this.checkBox35.TabIndex = 54;
             this.checkBox35.Text = "CH1";
             this.checkBox35.UseVisualStyleBackColor = false;
@@ -2371,10 +2235,9 @@
             // 
             this.checkBox7.AutoSize = true;
             this.checkBox7.BackColor = System.Drawing.Color.White;
-            this.checkBox7.Location = new System.Drawing.Point(503, 55);
-            this.checkBox7.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox7.Location = new System.Drawing.Point(377, 44);
             this.checkBox7.Name = "checkBox7";
-            this.checkBox7.Size = new System.Drawing.Size(64, 27);
+            this.checkBox7.Size = new System.Drawing.Size(54, 24);
             this.checkBox7.TabIndex = 53;
             this.checkBox7.Text = "DIO";
             this.checkBox7.UseVisualStyleBackColor = false;
@@ -2384,10 +2247,9 @@
             // 
             this.checkBox8.AutoSize = true;
             this.checkBox8.BackColor = System.Drawing.Color.White;
-            this.checkBox8.Location = new System.Drawing.Point(409, 56);
-            this.checkBox8.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox8.Location = new System.Drawing.Point(307, 45);
             this.checkBox8.Name = "checkBox8";
-            this.checkBox8.Size = new System.Drawing.Size(78, 27);
+            this.checkBox8.Size = new System.Drawing.Size(65, 24);
             this.checkBox8.TabIndex = 52;
             this.checkBox8.Text = "TUNE";
             this.checkBox8.UseVisualStyleBackColor = false;
@@ -2397,10 +2259,9 @@
             // 
             this.checkBox9.AutoSize = true;
             this.checkBox9.BackColor = System.Drawing.Color.White;
-            this.checkBox9.Location = new System.Drawing.Point(341, 56);
-            this.checkBox9.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox9.Location = new System.Drawing.Point(256, 45);
             this.checkBox9.Name = "checkBox9";
-            this.checkBox9.Size = new System.Drawing.Size(55, 27);
+            this.checkBox9.Size = new System.Drawing.Size(46, 24);
             this.checkBox9.TabIndex = 51;
             this.checkBox9.Text = "IFL";
             this.checkBox9.UseVisualStyleBackColor = false;
@@ -2410,10 +2271,9 @@
             // 
             this.checkBox18.AutoSize = true;
             this.checkBox18.BackColor = System.Drawing.Color.White;
-            this.checkBox18.Location = new System.Drawing.Point(861, 55);
-            this.checkBox18.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox18.Location = new System.Drawing.Point(646, 44);
             this.checkBox18.Name = "checkBox18";
-            this.checkBox18.Size = new System.Drawing.Size(70, 27);
+            this.checkBox18.Size = new System.Drawing.Size(58, 24);
             this.checkBox18.TabIndex = 50;
             this.checkBox18.Text = "ISOL";
             this.checkBox18.UseVisualStyleBackColor = false;
@@ -2423,10 +2283,9 @@
             // 
             this.checkBox19.AutoSize = true;
             this.checkBox19.BackColor = System.Drawing.Color.White;
-            this.checkBox19.Location = new System.Drawing.Point(765, 55);
-            this.checkBox19.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox19.Location = new System.Drawing.Point(574, 44);
             this.checkBox19.Name = "checkBox19";
-            this.checkBox19.Size = new System.Drawing.Size(82, 27);
+            this.checkBox19.Size = new System.Drawing.Size(67, 24);
             this.checkBox19.TabIndex = 49;
             this.checkBox19.Text = "OVN2";
             this.checkBox19.UseVisualStyleBackColor = false;
@@ -2436,10 +2295,9 @@
             // 
             this.checkBox20.AutoSize = true;
             this.checkBox20.BackColor = System.Drawing.Color.White;
-            this.checkBox20.Location = new System.Drawing.Point(673, 55);
-            this.checkBox20.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox20.Location = new System.Drawing.Point(505, 44);
             this.checkBox20.Name = "checkBox20";
-            this.checkBox20.Size = new System.Drawing.Size(82, 27);
+            this.checkBox20.Size = new System.Drawing.Size(67, 24);
             this.checkBox20.TabIndex = 48;
             this.checkBox20.Text = "OVN1";
             this.checkBox20.UseVisualStyleBackColor = false;
@@ -2449,10 +2307,9 @@
             // 
             this.checkBox21.AutoSize = true;
             this.checkBox21.BackColor = System.Drawing.Color.White;
-            this.checkBox21.Location = new System.Drawing.Point(579, 55);
-            this.checkBox21.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox21.Location = new System.Drawing.Point(434, 44);
             this.checkBox21.Name = "checkBox21";
-            this.checkBox21.Size = new System.Drawing.Size(77, 27);
+            this.checkBox21.Size = new System.Drawing.Size(65, 24);
             this.checkBox21.TabIndex = 47;
             this.checkBox21.Text = "NECK";
             this.checkBox21.UseVisualStyleBackColor = false;
@@ -2462,10 +2319,9 @@
             // 
             this.checkBox22.AutoSize = true;
             this.checkBox22.BackColor = System.Drawing.Color.White;
-            this.checkBox22.Location = new System.Drawing.Point(496, 55);
-            this.checkBox22.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox22.Location = new System.Drawing.Point(372, 44);
             this.checkBox22.Name = "checkBox22";
-            this.checkBox22.Size = new System.Drawing.Size(68, 27);
+            this.checkBox22.Size = new System.Drawing.Size(58, 24);
             this.checkBox22.TabIndex = 46;
             this.checkBox22.Text = "THD";
             this.checkBox22.UseVisualStyleBackColor = false;
@@ -2475,10 +2331,9 @@
             // 
             this.checkBox23.AutoSize = true;
             this.checkBox23.BackColor = System.Drawing.Color.White;
-            this.checkBox23.Location = new System.Drawing.Point(416, 55);
-            this.checkBox23.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox23.Location = new System.Drawing.Point(312, 44);
             this.checkBox23.Name = "checkBox23";
-            this.checkBox23.Size = new System.Drawing.Size(66, 27);
+            this.checkBox23.Size = new System.Drawing.Size(56, 24);
             this.checkBox23.TabIndex = 45;
             this.checkBox23.Text = "THC";
             this.checkBox23.UseVisualStyleBackColor = false;
@@ -2488,10 +2343,9 @@
             // 
             this.checkBox24.AutoSize = true;
             this.checkBox24.BackColor = System.Drawing.Color.White;
-            this.checkBox24.Location = new System.Drawing.Point(341, 55);
-            this.checkBox24.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox24.Location = new System.Drawing.Point(256, 44);
             this.checkBox24.Name = "checkBox24";
-            this.checkBox24.Size = new System.Drawing.Size(66, 27);
+            this.checkBox24.Size = new System.Drawing.Size(56, 24);
             this.checkBox24.TabIndex = 44;
             this.checkBox24.Text = "THB";
             this.checkBox24.UseVisualStyleBackColor = false;
@@ -2501,10 +2355,9 @@
             // 
             this.checkBox14.AutoSize = true;
             this.checkBox14.BackColor = System.Drawing.Color.White;
-            this.checkBox14.Location = new System.Drawing.Point(611, 54);
-            this.checkBox14.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox14.Location = new System.Drawing.Point(458, 43);
             this.checkBox14.Name = "checkBox14";
-            this.checkBox14.Size = new System.Drawing.Size(61, 27);
+            this.checkBox14.Size = new System.Drawing.Size(51, 24);
             this.checkBox14.TabIndex = 43;
             this.checkBox14.Text = "FLR";
             this.checkBox14.UseVisualStyleBackColor = false;
@@ -2514,10 +2367,9 @@
             // 
             this.checkBox15.AutoSize = true;
             this.checkBox15.BackColor = System.Drawing.Color.White;
-            this.checkBox15.Location = new System.Drawing.Point(519, 54);
-            this.checkBox15.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox15.Location = new System.Drawing.Point(389, 43);
             this.checkBox15.Name = "checkBox15";
-            this.checkBox15.Size = new System.Drawing.Size(74, 27);
+            this.checkBox15.Size = new System.Drawing.Size(61, 24);
             this.checkBox15.TabIndex = 42;
             this.checkBox15.Text = "FLUX";
             this.checkBox15.UseVisualStyleBackColor = false;
@@ -2527,10 +2379,9 @@
             // 
             this.checkBox16.AutoSize = true;
             this.checkBox16.BackColor = System.Drawing.Color.White;
-            this.checkBox16.Location = new System.Drawing.Point(433, 54);
-            this.checkBox16.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox16.Location = new System.Drawing.Point(325, 43);
             this.checkBox16.Name = "checkBox16";
-            this.checkBox16.Size = new System.Drawing.Size(70, 27);
+            this.checkBox16.Size = new System.Drawing.Size(58, 24);
             this.checkBox16.TabIndex = 41;
             this.checkBox16.Text = "IONI";
             this.checkBox16.UseVisualStyleBackColor = false;
@@ -2540,10 +2391,9 @@
             // 
             this.checkBox17.AutoSize = true;
             this.checkBox17.BackColor = System.Drawing.Color.White;
-            this.checkBox17.Location = new System.Drawing.Point(341, 54);
-            this.checkBox17.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox17.Location = new System.Drawing.Point(256, 43);
             this.checkBox17.Name = "checkBox17";
-            this.checkBox17.Size = new System.Drawing.Size(77, 27);
+            this.checkBox17.Size = new System.Drawing.Size(63, 24);
             this.checkBox17.TabIndex = 40;
             this.checkBox17.Text = "IONV";
             this.checkBox17.UseVisualStyleBackColor = false;
@@ -2555,10 +2405,9 @@
             this.checkBox31.BackColor = System.Drawing.Color.White;
             this.checkBox31.Checked = true;
             this.checkBox31.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.checkBox31.Location = new System.Drawing.Point(775, 55);
-            this.checkBox31.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox31.Location = new System.Drawing.Point(581, 44);
             this.checkBox31.Name = "checkBox31";
-            this.checkBox31.Size = new System.Drawing.Size(72, 27);
+            this.checkBox31.Size = new System.Drawing.Size(60, 24);
             this.checkBox31.TabIndex = 39;
             this.checkBox31.Text = "OSCI";
             this.checkBox31.UseVisualStyleBackColor = false;
@@ -2570,10 +2419,9 @@
             this.checkBox30.BackColor = System.Drawing.Color.White;
             this.checkBox30.Checked = true;
             this.checkBox30.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.checkBox30.Location = new System.Drawing.Point(683, 56);
-            this.checkBox30.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox30.Location = new System.Drawing.Point(512, 45);
             this.checkBox30.Name = "checkBox30";
-            this.checkBox30.Size = new System.Drawing.Size(76, 27);
+            this.checkBox30.Size = new System.Drawing.Size(63, 24);
             this.checkBox30.TabIndex = 38;
             this.checkBox30.Text = "OSCF";
             this.checkBox30.UseVisualStyleBackColor = false;
@@ -2585,10 +2433,9 @@
             this.checkBox29.BackColor = System.Drawing.Color.White;
             this.checkBox29.Checked = true;
             this.checkBox29.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.checkBox29.Location = new System.Drawing.Point(607, 56);
-            this.checkBox29.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox29.Location = new System.Drawing.Point(455, 45);
             this.checkBox29.Name = "checkBox29";
-            this.checkBox29.Size = new System.Drawing.Size(64, 27);
+            this.checkBox29.Size = new System.Drawing.Size(53, 24);
             this.checkBox29.TabIndex = 37;
             this.checkBox29.Text = "CFV";
             this.checkBox29.UseVisualStyleBackColor = false;
@@ -2600,10 +2447,9 @@
             this.checkBox28.BackColor = System.Drawing.Color.White;
             this.checkBox28.Checked = true;
             this.checkBox28.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.checkBox28.Location = new System.Drawing.Point(543, 58);
-            this.checkBox28.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox28.Location = new System.Drawing.Point(407, 46);
             this.checkBox28.Name = "checkBox28";
-            this.checkBox28.Size = new System.Drawing.Size(54, 27);
+            this.checkBox28.Size = new System.Drawing.Size(45, 24);
             this.checkBox28.TabIndex = 36;
             this.checkBox28.Text = "V4";
             this.checkBox28.UseVisualStyleBackColor = false;
@@ -2615,10 +2461,9 @@
             this.checkBox27.BackColor = System.Drawing.Color.White;
             this.checkBox27.Checked = true;
             this.checkBox27.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.checkBox27.Location = new System.Drawing.Point(476, 56);
-            this.checkBox27.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox27.Location = new System.Drawing.Point(357, 45);
             this.checkBox27.Name = "checkBox27";
-            this.checkBox27.Size = new System.Drawing.Size(54, 27);
+            this.checkBox27.Size = new System.Drawing.Size(45, 24);
             this.checkBox27.TabIndex = 35;
             this.checkBox27.Text = "V3";
             this.checkBox27.UseVisualStyleBackColor = false;
@@ -2630,10 +2475,9 @@
             this.checkBox26.BackColor = System.Drawing.Color.White;
             this.checkBox26.Checked = true;
             this.checkBox26.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.checkBox26.Location = new System.Drawing.Point(409, 56);
-            this.checkBox26.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox26.Location = new System.Drawing.Point(307, 45);
             this.checkBox26.Name = "checkBox26";
-            this.checkBox26.Size = new System.Drawing.Size(54, 27);
+            this.checkBox26.Size = new System.Drawing.Size(45, 24);
             this.checkBox26.TabIndex = 34;
             this.checkBox26.Text = "V2";
             this.checkBox26.UseVisualStyleBackColor = false;
@@ -2645,10 +2489,9 @@
             this.checkBox25.BackColor = System.Drawing.Color.White;
             this.checkBox25.Checked = true;
             this.checkBox25.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.checkBox25.Location = new System.Drawing.Point(343, 56);
-            this.checkBox25.Margin = new System.Windows.Forms.Padding(4);
+            this.checkBox25.Location = new System.Drawing.Point(257, 45);
             this.checkBox25.Name = "checkBox25";
-            this.checkBox25.Size = new System.Drawing.Size(54, 27);
+            this.checkBox25.Size = new System.Drawing.Size(45, 24);
             this.checkBox25.TabIndex = 33;
             this.checkBox25.Text = "V1";
             this.checkBox25.UseVisualStyleBackColor = false;
@@ -2657,10 +2500,9 @@
             // button4
             // 
             this.button4.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.button4.Location = new System.Drawing.Point(11, 9);
-            this.button4.Margin = new System.Windows.Forms.Padding(4);
+            this.button4.Location = new System.Drawing.Point(8, 7);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(91, 29);
+            this.button4.Size = new System.Drawing.Size(68, 23);
             this.button4.TabIndex = 31;
             this.button4.Text = " 列表";
             this.button4.UseVisualStyleBackColor = true;
@@ -2669,10 +2511,9 @@
             // button14
             // 
             this.button14.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.button14.Location = new System.Drawing.Point(1055, 9);
-            this.button14.Margin = new System.Windows.Forms.Padding(4);
+            this.button14.Location = new System.Drawing.Point(791, 7);
             this.button14.Name = "button14";
-            this.button14.Size = new System.Drawing.Size(117, 29);
+            this.button14.Size = new System.Drawing.Size(88, 23);
             this.button14.TabIndex = 30;
             this.button14.Text = "删除全部";
             this.button14.UseVisualStyleBackColor = true;
@@ -2681,10 +2522,9 @@
             // button13
             // 
             this.button13.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.button13.Location = new System.Drawing.Point(935, 9);
-            this.button13.Margin = new System.Windows.Forms.Padding(4);
+            this.button13.Location = new System.Drawing.Point(701, 7);
             this.button13.Name = "button13";
-            this.button13.Size = new System.Drawing.Size(100, 29);
+            this.button13.Size = new System.Drawing.Size(75, 23);
             this.button13.TabIndex = 29;
             this.button13.Text = "删除";
             this.button13.UseVisualStyleBackColor = true;
@@ -2693,10 +2533,9 @@
             // button11
             // 
             this.button11.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.button11.Location = new System.Drawing.Point(809, 9);
-            this.button11.Margin = new System.Windows.Forms.Padding(4);
+            this.button11.Location = new System.Drawing.Point(607, 7);
             this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(100, 29);
+            this.button11.Size = new System.Drawing.Size(75, 23);
             this.button11.TabIndex = 28;
             this.button11.Text = "查询";
             this.button11.UseVisualStyleBackColor = true;
@@ -2707,20 +2546,18 @@
             this.dateTimePicker2.CustomFormat = "yyyy-MM-dd HH:mm:ss";
             this.dateTimePicker2.Font = new System.Drawing.Font("微软雅黑", 10F);
             this.dateTimePicker2.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dateTimePicker2.Location = new System.Drawing.Point(549, 6);
-            this.dateTimePicker2.Margin = new System.Windows.Forms.Padding(4);
+            this.dateTimePicker2.Location = new System.Drawing.Point(412, 5);
             this.dateTimePicker2.Name = "dateTimePicker2";
-            this.dateTimePicker2.Size = new System.Drawing.Size(224, 29);
+            this.dateTimePicker2.Size = new System.Drawing.Size(169, 25);
             this.dateTimePicker2.TabIndex = 27;
             // 
             // label13
             // 
             this.label13.AutoSize = true;
             this.label13.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.label13.Location = new System.Drawing.Point(444, 12);
-            this.label13.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label13.Location = new System.Drawing.Point(333, 10);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(84, 20);
+            this.label13.Size = new System.Drawing.Size(68, 17);
             this.label13.TabIndex = 26;
             this.label13.Text = "截止日期：";
             // 
@@ -2729,20 +2566,18 @@
             this.dateTimePicker1.CustomFormat = "yyyy-MM-dd HH:mm:ss";
             this.dateTimePicker1.Font = new System.Drawing.Font("微软雅黑", 10F);
             this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.dateTimePicker1.Location = new System.Drawing.Point(208, 6);
-            this.dateTimePicker1.Margin = new System.Windows.Forms.Padding(4);
+            this.dateTimePicker1.Location = new System.Drawing.Point(156, 5);
             this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(229, 29);
+            this.dateTimePicker1.Size = new System.Drawing.Size(173, 25);
             this.dateTimePicker1.TabIndex = 25;
             // 
             // label12
             // 
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.label12.Location = new System.Drawing.Point(104, 12);
-            this.label12.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label12.Location = new System.Drawing.Point(78, 10);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(84, 20);
+            this.label12.Size = new System.Drawing.Size(68, 17);
             this.label12.TabIndex = 22;
             this.label12.Text = "起始日期：";
             // 
@@ -2756,314 +2591,313 @@
             this.plot5.Background.GradientStartColor = System.Drawing.Color.Transparent;
             this.plot5.Background.GradientStopColor = System.Drawing.Color.Empty;
             this.plot5.Background.Visible = true;
-            plotChannelTrace1.CanFocus = false;
-            plotChannelTrace1.Color = System.Drawing.Color.Red;
-            plotChannelTrace1.Fill.Brush.Style = Iocomp.Types.PlotBrushStyle.GradientBackwardDiagonal;
-            plotChannelTrace1.Markers.Size = 2;
-            plotChannelTrace1.Name = "V1";
-            plotChannelTrace1.OPCXValueSource = Iocomp.Types.OPCXValueType.SystemClock;
-            plotChannelTrace1.TitleText = "V1";
-            plotChannelTrace1.Trace.Thickness = 2D;
-            plotChannelTrace1.XAxisName = "Tempelate";
-            plotChannelTrace1.YAxisName = "Temperature";
-            plotChannelTrace2.CanFocus = false;
-            plotChannelTrace2.Color = System.Drawing.Color.Blue;
-            plotChannelTrace2.Name = "V2";
-            plotChannelTrace2.TitleText = "V2";
-            plotChannelTrace2.Trace.Thickness = 2D;
-            plotChannelTrace2.XAxisName = "Tempelate";
-            plotChannelTrace2.YAxisName = "Temperature";
-            plotChannelTrace3.CanFocus = false;
-            plotChannelTrace3.Color = System.Drawing.Color.Lime;
-            plotChannelTrace3.Name = "V3";
-            plotChannelTrace3.TitleText = "V3";
-            plotChannelTrace3.Trace.Thickness = 2D;
-            plotChannelTrace3.XAxisName = "Tempelate";
-            plotChannelTrace3.YAxisName = "Temperature";
-            plotChannelTrace4.CanFocus = false;
-            plotChannelTrace4.Color = System.Drawing.Color.Yellow;
-            plotChannelTrace4.Name = "V4";
-            plotChannelTrace4.TitleText = "V4";
-            plotChannelTrace4.Trace.Color = System.Drawing.Color.Olive;
-            plotChannelTrace4.Trace.Thickness = 2D;
-            plotChannelTrace4.XAxisName = "Tempelate";
-            plotChannelTrace4.YAxisName = "Temperature";
-            plotChannelTrace5.CanFocus = false;
-            plotChannelTrace5.Color = System.Drawing.Color.Aqua;
-            plotChannelTrace5.Name = "CFV";
-            plotChannelTrace5.TitleText = "CFV";
-            plotChannelTrace5.Trace.Color = System.Drawing.Color.DarkSlateGray;
-            plotChannelTrace5.Trace.Thickness = 2D;
-            plotChannelTrace5.XAxisName = "Tempelate";
-            plotChannelTrace5.YAxisName = "Temperature";
-            plotChannelTrace6.CanFocus = false;
-            plotChannelTrace6.Color = System.Drawing.Color.White;
-            plotChannelTrace6.Name = "OSCV";
-            plotChannelTrace6.TitleText = "OSCV";
-            plotChannelTrace6.Trace.Color = System.Drawing.Color.Brown;
-            plotChannelTrace6.Trace.Thickness = 2D;
-            plotChannelTrace6.XAxisName = "Tempelate";
-            plotChannelTrace6.YAxisName = "Temperature";
-            plotChannelTrace7.CanFocus = false;
-            plotChannelTrace7.Color = System.Drawing.Color.Red;
-            plotChannelTrace7.Name = "OSCI";
-            plotChannelTrace7.TitleText = "OSCI";
-            plotChannelTrace7.Trace.Color = System.Drawing.Color.RosyBrown;
-            plotChannelTrace7.Trace.Thickness = 2D;
-            plotChannelTrace7.XAxisName = "Tempelate";
-            plotChannelTrace7.YAxisName = "Temperature";
-            plotChannelTrace8.CanFocus = false;
-            plotChannelTrace8.Color = System.Drawing.Color.Red;
-            plotChannelTrace8.Name = "IONV";
-            plotChannelTrace8.TitleText = "IONV";
-            plotChannelTrace8.Trace.Color = System.Drawing.Color.DarkKhaki;
-            plotChannelTrace8.Trace.Thickness = 2D;
-            plotChannelTrace8.XAxisName = "Tempelate";
-            plotChannelTrace8.YAxisName = "Temperature";
-            plotChannelTrace9.CanFocus = false;
-            plotChannelTrace9.Color = System.Drawing.Color.Red;
-            plotChannelTrace9.Name = "IONI";
-            plotChannelTrace9.TitleText = "IONI";
-            plotChannelTrace9.Trace.Thickness = 2D;
-            plotChannelTrace9.XAxisName = "Tempelate";
-            plotChannelTrace9.YAxisName = "Temperature";
-            plotChannelTrace10.CanFocus = false;
-            plotChannelTrace10.Color = System.Drawing.Color.Blue;
-            plotChannelTrace10.Name = "FLUX";
-            plotChannelTrace10.TitleText = "FLUX";
-            plotChannelTrace10.Trace.Thickness = 2D;
-            plotChannelTrace10.XAxisName = "Tempelate";
-            plotChannelTrace10.YAxisName = "Temperature";
-            plotChannelTrace11.CanFocus = false;
-            plotChannelTrace11.Color = System.Drawing.Color.Lime;
-            plotChannelTrace11.Name = "FLR";
-            plotChannelTrace11.TitleText = "FLR";
-            plotChannelTrace11.Trace.Thickness = 2D;
-            plotChannelTrace11.XAxisName = "Tempelate";
-            plotChannelTrace11.YAxisName = "Temperature";
-            plotChannelTrace12.CanFocus = false;
-            plotChannelTrace12.Color = System.Drawing.Color.Yellow;
-            plotChannelTrace12.Name = "THB";
-            plotChannelTrace12.TitleText = "THB";
-            plotChannelTrace12.Trace.Color = System.Drawing.Color.Olive;
-            plotChannelTrace12.Trace.Thickness = 2D;
-            plotChannelTrace12.XAxisName = "Tempelate";
-            plotChannelTrace12.YAxisName = "Temperature";
-            plotChannelTrace13.CanFocus = false;
-            plotChannelTrace13.Color = System.Drawing.Color.Aqua;
-            plotChannelTrace13.Name = "THC";
-            plotChannelTrace13.TitleText = "THC";
-            plotChannelTrace13.Trace.Color = System.Drawing.Color.DarkSlateGray;
-            plotChannelTrace13.Trace.Thickness = 2D;
-            plotChannelTrace13.XAxisName = "Tempelate";
-            plotChannelTrace13.YAxisName = "Temperature";
-            plotChannelTrace14.CanFocus = false;
-            plotChannelTrace14.Color = System.Drawing.Color.White;
-            plotChannelTrace14.Name = "THD";
-            plotChannelTrace14.TitleText = "THD";
-            plotChannelTrace14.Trace.Color = System.Drawing.Color.Brown;
-            plotChannelTrace14.Trace.Thickness = 2D;
-            plotChannelTrace14.XAxisName = "Tempelate";
-            plotChannelTrace14.YAxisName = "Temperature";
-            plotChannelTrace15.CanFocus = false;
-            plotChannelTrace15.Color = System.Drawing.Color.Red;
-            plotChannelTrace15.Name = "NECK";
-            plotChannelTrace15.TitleText = "NECK";
-            plotChannelTrace15.Trace.Color = System.Drawing.Color.RosyBrown;
-            plotChannelTrace15.Trace.Thickness = 2D;
-            plotChannelTrace15.XAxisName = "Tempelate";
-            plotChannelTrace15.YAxisName = "Temperature";
-            plotChannelTrace16.CanFocus = false;
-            plotChannelTrace16.Color = System.Drawing.Color.Red;
-            plotChannelTrace16.Name = "OVN1";
-            plotChannelTrace16.TitleText = "OVN1";
-            plotChannelTrace16.Trace.Color = System.Drawing.Color.DarkKhaki;
-            plotChannelTrace16.Trace.Thickness = 2D;
-            plotChannelTrace16.XAxisName = "Tempelate";
-            plotChannelTrace16.YAxisName = "Temperature";
-            plotChannelTrace17.CanFocus = false;
-            plotChannelTrace17.Color = System.Drawing.Color.Red;
-            plotChannelTrace17.Name = "OVN2";
-            plotChannelTrace17.TitleText = "OVN2";
-            plotChannelTrace17.Trace.Thickness = 2D;
-            plotChannelTrace17.XAxisName = "Tempelate";
-            plotChannelTrace17.YAxisName = "Temperature";
-            plotChannelTrace18.CanFocus = false;
-            plotChannelTrace18.Color = System.Drawing.Color.Blue;
-            plotChannelTrace18.Name = "ISOL";
-            plotChannelTrace18.TitleText = "ISOL";
-            plotChannelTrace18.Trace.Thickness = 2D;
-            plotChannelTrace18.XAxisName = "Tempelate";
-            plotChannelTrace18.YAxisName = "Temperature";
-            plotChannelTrace19.CanFocus = false;
-            plotChannelTrace19.Color = System.Drawing.Color.Lime;
-            plotChannelTrace19.Name = "IFL";
-            plotChannelTrace19.TitleText = "IFL";
-            plotChannelTrace19.Trace.Thickness = 2D;
-            plotChannelTrace19.XAxisName = "Tempelate";
-            plotChannelTrace19.YAxisName = "Temperature";
-            plotChannelTrace20.CanFocus = false;
-            plotChannelTrace20.Color = System.Drawing.Color.Yellow;
-            plotChannelTrace20.Name = "TUNE";
-            plotChannelTrace20.TitleText = "TUNE";
-            plotChannelTrace20.Trace.Color = System.Drawing.Color.Olive;
-            plotChannelTrace20.Trace.Thickness = 2D;
-            plotChannelTrace20.XAxisName = "Tempelate";
-            plotChannelTrace20.YAxisName = "Temperature";
-            plotChannelTrace21.CanFocus = false;
-            plotChannelTrace21.Color = System.Drawing.Color.Aqua;
-            plotChannelTrace21.Name = "DIO";
-            plotChannelTrace21.TitleText = "DIO";
-            plotChannelTrace21.Trace.Color = System.Drawing.Color.DarkSlateGray;
-            plotChannelTrace21.Trace.Thickness = 2D;
-            plotChannelTrace21.XAxisName = "Tempelate";
-            plotChannelTrace21.YAxisName = "Temperature";
-            plotChannelTrace22.CanFocus = false;
-            plotChannelTrace22.Color = System.Drawing.Color.White;
-            plotChannelTrace22.Name = "CH1";
-            plotChannelTrace22.TitleText = "CH1";
-            plotChannelTrace22.Trace.Color = System.Drawing.Color.Brown;
-            plotChannelTrace22.Trace.Thickness = 2D;
-            plotChannelTrace22.XAxisName = "Tempelate";
-            plotChannelTrace22.YAxisName = "Temperature";
-            plotChannelTrace23.CanFocus = false;
-            plotChannelTrace23.Color = System.Drawing.Color.Red;
-            plotChannelTrace23.Name = "CH2";
-            plotChannelTrace23.TitleText = "CH2";
-            plotChannelTrace23.Trace.Color = System.Drawing.Color.RosyBrown;
-            plotChannelTrace23.Trace.Thickness = 2D;
-            plotChannelTrace23.XAxisName = "Tempelate";
-            plotChannelTrace23.YAxisName = "Temperature";
-            plotChannelTrace24.CanFocus = false;
-            plotChannelTrace24.Color = System.Drawing.Color.Red;
-            plotChannelTrace24.Name = "CH3";
-            plotChannelTrace24.TitleText = "CH3";
-            plotChannelTrace24.Trace.Color = System.Drawing.Color.DarkKhaki;
-            plotChannelTrace24.Trace.Thickness = 2D;
-            plotChannelTrace24.XAxisName = "Tempelate";
-            plotChannelTrace24.YAxisName = "Temperature";
-            plotChannelTrace25.CanFocus = false;
-            plotChannelTrace25.Color = System.Drawing.Color.Red;
-            plotChannelTrace25.Name = "CH4";
-            plotChannelTrace25.TitleText = "CH4";
-            plotChannelTrace25.Trace.Thickness = 2D;
-            plotChannelTrace25.XAxisName = "Tempelate";
-            plotChannelTrace25.YAxisName = "Temperature";
-            plotChannelTrace26.CanFocus = false;
-            plotChannelTrace26.Color = System.Drawing.Color.Blue;
-            plotChannelTrace26.Name = "CH5";
-            plotChannelTrace26.TitleText = "CH5";
-            plotChannelTrace26.Trace.Thickness = 2D;
-            plotChannelTrace26.XAxisName = "Tempelate";
-            plotChannelTrace26.YAxisName = "Temperature";
-            plotChannelTrace27.CanFocus = false;
-            plotChannelTrace27.Color = System.Drawing.Color.Lime;
-            plotChannelTrace27.Name = "CH6";
-            plotChannelTrace27.TitleText = "CH6";
-            plotChannelTrace27.Trace.Thickness = 2D;
-            plotChannelTrace27.XAxisName = "Tempelate";
-            plotChannelTrace27.YAxisName = "Temperature";
-            plotChannelTrace28.CanFocus = false;
-            plotChannelTrace28.Color = System.Drawing.Color.Yellow;
-            plotChannelTrace28.Name = "CH7";
-            plotChannelTrace28.TitleText = "CH7";
-            plotChannelTrace28.Trace.Color = System.Drawing.Color.Olive;
-            plotChannelTrace28.Trace.Thickness = 2D;
-            plotChannelTrace28.XAxisName = "Tempelate";
-            plotChannelTrace28.YAxisName = "Temperature";
-            plotChannelTrace29.CanFocus = false;
-            plotChannelTrace29.Color = System.Drawing.Color.Aqua;
-            plotChannelTrace29.Name = "CH8";
-            plotChannelTrace29.TitleText = "CH8";
-            plotChannelTrace29.Trace.Color = System.Drawing.Color.DarkSlateGray;
-            plotChannelTrace29.Trace.Thickness = 2D;
-            plotChannelTrace29.XAxisName = "Tempelate";
-            plotChannelTrace29.YAxisName = "Temperature";
-            this.plot5.Channels.Add(plotChannelTrace1);
-            this.plot5.Channels.Add(plotChannelTrace2);
-            this.plot5.Channels.Add(plotChannelTrace3);
-            this.plot5.Channels.Add(plotChannelTrace4);
-            this.plot5.Channels.Add(plotChannelTrace5);
-            this.plot5.Channels.Add(plotChannelTrace6);
-            this.plot5.Channels.Add(plotChannelTrace7);
-            this.plot5.Channels.Add(plotChannelTrace8);
-            this.plot5.Channels.Add(plotChannelTrace9);
-            this.plot5.Channels.Add(plotChannelTrace10);
-            this.plot5.Channels.Add(plotChannelTrace11);
-            this.plot5.Channels.Add(plotChannelTrace12);
-            this.plot5.Channels.Add(plotChannelTrace13);
-            this.plot5.Channels.Add(plotChannelTrace14);
-            this.plot5.Channels.Add(plotChannelTrace15);
-            this.plot5.Channels.Add(plotChannelTrace16);
-            this.plot5.Channels.Add(plotChannelTrace17);
-            this.plot5.Channels.Add(plotChannelTrace18);
-            this.plot5.Channels.Add(plotChannelTrace19);
-            this.plot5.Channels.Add(plotChannelTrace20);
-            this.plot5.Channels.Add(plotChannelTrace21);
-            this.plot5.Channels.Add(plotChannelTrace22);
-            this.plot5.Channels.Add(plotChannelTrace23);
-            this.plot5.Channels.Add(plotChannelTrace24);
-            this.plot5.Channels.Add(plotChannelTrace25);
-            this.plot5.Channels.Add(plotChannelTrace26);
-            this.plot5.Channels.Add(plotChannelTrace27);
-            this.plot5.Channels.Add(plotChannelTrace28);
-            this.plot5.Channels.Add(plotChannelTrace29);
-            plotDataCursorXY1.CanFocus = false;
-            plotDataCursorXY1.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
-            plotDataCursorXY1.MasterControl = true;
-            plotDataCursorXY1.Name = "Data-Cursor 1";
-            plotDataCursorXY1.TitleText = "Data-Cursor 1";
-            plotDataCursorXY1.XAxisName = "Tempelate";
-            plotDataCursorXY1.YAxisName = "Temperature";
-            plotDataCursorXY2.CanFocus = false;
-            plotDataCursorXY2.Color = System.Drawing.Color.Black;
-            plotDataCursorXY2.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
-            plotDataCursorXY2.Line.Style = Iocomp.Types.PlotPenStyle.Dash;
-            plotDataCursorXY2.MasterControl = true;
-            plotDataCursorXY2.Name = "Data-Cursor 2";
-            plotDataCursorXY2.TitleText = "Data-Cursor 2";
-            plotDataCursorXY2.Window.Visible = false;
-            plotDataCursorXY2.XAxisName = "Tempelate";
-            plotDataCursorXY2.YAxisName = "Humidity";
-            this.plot5.DataCursors.Add(plotDataCursorXY1);
-            this.plot5.DataCursors.Add(plotDataCursorXY2);
-            plotDataView1.CanFocus = false;
-            plotDataView1.Name = "Data-View 1";
-            plotDataView1.TitleText = "Data-View 1";
-            this.plot5.DataViews.Add(plotDataView1);
+            plotChannelTrace813.CanFocus = false;
+            plotChannelTrace813.Color = System.Drawing.Color.Red;
+            plotChannelTrace813.Fill.Brush.Style = Iocomp.Types.PlotBrushStyle.GradientBackwardDiagonal;
+            plotChannelTrace813.Markers.Size = 2;
+            plotChannelTrace813.Name = "V1";
+            plotChannelTrace813.OPCXValueSource = Iocomp.Types.OPCXValueType.SystemClock;
+            plotChannelTrace813.TitleText = "V1";
+            plotChannelTrace813.Trace.Thickness = 2D;
+            plotChannelTrace813.XAxisName = "Tempelate";
+            plotChannelTrace813.YAxisName = "Temperature";
+            plotChannelTrace814.CanFocus = false;
+            plotChannelTrace814.Color = System.Drawing.Color.Blue;
+            plotChannelTrace814.Name = "V2";
+            plotChannelTrace814.TitleText = "V2";
+            plotChannelTrace814.Trace.Thickness = 2D;
+            plotChannelTrace814.XAxisName = "Tempelate";
+            plotChannelTrace814.YAxisName = "Temperature";
+            plotChannelTrace815.CanFocus = false;
+            plotChannelTrace815.Color = System.Drawing.Color.Lime;
+            plotChannelTrace815.Name = "V3";
+            plotChannelTrace815.TitleText = "V3";
+            plotChannelTrace815.Trace.Thickness = 2D;
+            plotChannelTrace815.XAxisName = "Tempelate";
+            plotChannelTrace815.YAxisName = "Temperature";
+            plotChannelTrace816.CanFocus = false;
+            plotChannelTrace816.Color = System.Drawing.Color.Yellow;
+            plotChannelTrace816.Name = "V4";
+            plotChannelTrace816.TitleText = "V4";
+            plotChannelTrace816.Trace.Color = System.Drawing.Color.Olive;
+            plotChannelTrace816.Trace.Thickness = 2D;
+            plotChannelTrace816.XAxisName = "Tempelate";
+            plotChannelTrace816.YAxisName = "Temperature";
+            plotChannelTrace817.CanFocus = false;
+            plotChannelTrace817.Color = System.Drawing.Color.Aqua;
+            plotChannelTrace817.Name = "CFV";
+            plotChannelTrace817.TitleText = "CFV";
+            plotChannelTrace817.Trace.Color = System.Drawing.Color.DarkSlateGray;
+            plotChannelTrace817.Trace.Thickness = 2D;
+            plotChannelTrace817.XAxisName = "Tempelate";
+            plotChannelTrace817.YAxisName = "Temperature";
+            plotChannelTrace818.CanFocus = false;
+            plotChannelTrace818.Color = System.Drawing.Color.White;
+            plotChannelTrace818.Name = "OSCV";
+            plotChannelTrace818.TitleText = "OSCV";
+            plotChannelTrace818.Trace.Color = System.Drawing.Color.Brown;
+            plotChannelTrace818.Trace.Thickness = 2D;
+            plotChannelTrace818.XAxisName = "Tempelate";
+            plotChannelTrace818.YAxisName = "Temperature";
+            plotChannelTrace819.CanFocus = false;
+            plotChannelTrace819.Color = System.Drawing.Color.Red;
+            plotChannelTrace819.Name = "OSCI";
+            plotChannelTrace819.TitleText = "OSCI";
+            plotChannelTrace819.Trace.Color = System.Drawing.Color.RosyBrown;
+            plotChannelTrace819.Trace.Thickness = 2D;
+            plotChannelTrace819.XAxisName = "Tempelate";
+            plotChannelTrace819.YAxisName = "Temperature";
+            plotChannelTrace820.CanFocus = false;
+            plotChannelTrace820.Color = System.Drawing.Color.Red;
+            plotChannelTrace820.Name = "IONV";
+            plotChannelTrace820.TitleText = "IONV";
+            plotChannelTrace820.Trace.Color = System.Drawing.Color.DarkKhaki;
+            plotChannelTrace820.Trace.Thickness = 2D;
+            plotChannelTrace820.XAxisName = "Tempelate";
+            plotChannelTrace820.YAxisName = "Temperature";
+            plotChannelTrace821.CanFocus = false;
+            plotChannelTrace821.Color = System.Drawing.Color.Red;
+            plotChannelTrace821.Name = "IONI";
+            plotChannelTrace821.TitleText = "IONI";
+            plotChannelTrace821.Trace.Thickness = 2D;
+            plotChannelTrace821.XAxisName = "Tempelate";
+            plotChannelTrace821.YAxisName = "Temperature";
+            plotChannelTrace822.CanFocus = false;
+            plotChannelTrace822.Color = System.Drawing.Color.Blue;
+            plotChannelTrace822.Name = "FLUX";
+            plotChannelTrace822.TitleText = "FLUX";
+            plotChannelTrace822.Trace.Thickness = 2D;
+            plotChannelTrace822.XAxisName = "Tempelate";
+            plotChannelTrace822.YAxisName = "Temperature";
+            plotChannelTrace823.CanFocus = false;
+            plotChannelTrace823.Color = System.Drawing.Color.Lime;
+            plotChannelTrace823.Name = "FLR";
+            plotChannelTrace823.TitleText = "FLR";
+            plotChannelTrace823.Trace.Thickness = 2D;
+            plotChannelTrace823.XAxisName = "Tempelate";
+            plotChannelTrace823.YAxisName = "Temperature";
+            plotChannelTrace824.CanFocus = false;
+            plotChannelTrace824.Color = System.Drawing.Color.Yellow;
+            plotChannelTrace824.Name = "THB";
+            plotChannelTrace824.TitleText = "THB";
+            plotChannelTrace824.Trace.Color = System.Drawing.Color.Olive;
+            plotChannelTrace824.Trace.Thickness = 2D;
+            plotChannelTrace824.XAxisName = "Tempelate";
+            plotChannelTrace824.YAxisName = "Temperature";
+            plotChannelTrace825.CanFocus = false;
+            plotChannelTrace825.Color = System.Drawing.Color.Aqua;
+            plotChannelTrace825.Name = "THC";
+            plotChannelTrace825.TitleText = "THC";
+            plotChannelTrace825.Trace.Color = System.Drawing.Color.DarkSlateGray;
+            plotChannelTrace825.Trace.Thickness = 2D;
+            plotChannelTrace825.XAxisName = "Tempelate";
+            plotChannelTrace825.YAxisName = "Temperature";
+            plotChannelTrace826.CanFocus = false;
+            plotChannelTrace826.Color = System.Drawing.Color.White;
+            plotChannelTrace826.Name = "THD";
+            plotChannelTrace826.TitleText = "THD";
+            plotChannelTrace826.Trace.Color = System.Drawing.Color.Brown;
+            plotChannelTrace826.Trace.Thickness = 2D;
+            plotChannelTrace826.XAxisName = "Tempelate";
+            plotChannelTrace826.YAxisName = "Temperature";
+            plotChannelTrace827.CanFocus = false;
+            plotChannelTrace827.Color = System.Drawing.Color.Red;
+            plotChannelTrace827.Name = "NECK";
+            plotChannelTrace827.TitleText = "NECK";
+            plotChannelTrace827.Trace.Color = System.Drawing.Color.RosyBrown;
+            plotChannelTrace827.Trace.Thickness = 2D;
+            plotChannelTrace827.XAxisName = "Tempelate";
+            plotChannelTrace827.YAxisName = "Temperature";
+            plotChannelTrace828.CanFocus = false;
+            plotChannelTrace828.Color = System.Drawing.Color.Red;
+            plotChannelTrace828.Name = "OVN1";
+            plotChannelTrace828.TitleText = "OVN1";
+            plotChannelTrace828.Trace.Color = System.Drawing.Color.DarkKhaki;
+            plotChannelTrace828.Trace.Thickness = 2D;
+            plotChannelTrace828.XAxisName = "Tempelate";
+            plotChannelTrace828.YAxisName = "Temperature";
+            plotChannelTrace829.CanFocus = false;
+            plotChannelTrace829.Color = System.Drawing.Color.Red;
+            plotChannelTrace829.Name = "OVN2";
+            plotChannelTrace829.TitleText = "OVN2";
+            plotChannelTrace829.Trace.Thickness = 2D;
+            plotChannelTrace829.XAxisName = "Tempelate";
+            plotChannelTrace829.YAxisName = "Temperature";
+            plotChannelTrace830.CanFocus = false;
+            plotChannelTrace830.Color = System.Drawing.Color.Blue;
+            plotChannelTrace830.Name = "ISOL";
+            plotChannelTrace830.TitleText = "ISOL";
+            plotChannelTrace830.Trace.Thickness = 2D;
+            plotChannelTrace830.XAxisName = "Tempelate";
+            plotChannelTrace830.YAxisName = "Temperature";
+            plotChannelTrace831.CanFocus = false;
+            plotChannelTrace831.Color = System.Drawing.Color.Lime;
+            plotChannelTrace831.Name = "IFL";
+            plotChannelTrace831.TitleText = "IFL";
+            plotChannelTrace831.Trace.Thickness = 2D;
+            plotChannelTrace831.XAxisName = "Tempelate";
+            plotChannelTrace831.YAxisName = "Temperature";
+            plotChannelTrace832.CanFocus = false;
+            plotChannelTrace832.Color = System.Drawing.Color.Yellow;
+            plotChannelTrace832.Name = "TUNE";
+            plotChannelTrace832.TitleText = "TUNE";
+            plotChannelTrace832.Trace.Color = System.Drawing.Color.Olive;
+            plotChannelTrace832.Trace.Thickness = 2D;
+            plotChannelTrace832.XAxisName = "Tempelate";
+            plotChannelTrace832.YAxisName = "Temperature";
+            plotChannelTrace833.CanFocus = false;
+            plotChannelTrace833.Color = System.Drawing.Color.Aqua;
+            plotChannelTrace833.Name = "DIO";
+            plotChannelTrace833.TitleText = "DIO";
+            plotChannelTrace833.Trace.Color = System.Drawing.Color.DarkSlateGray;
+            plotChannelTrace833.Trace.Thickness = 2D;
+            plotChannelTrace833.XAxisName = "Tempelate";
+            plotChannelTrace833.YAxisName = "Temperature";
+            plotChannelTrace834.CanFocus = false;
+            plotChannelTrace834.Color = System.Drawing.Color.White;
+            plotChannelTrace834.Name = "CH1";
+            plotChannelTrace834.TitleText = "CH1";
+            plotChannelTrace834.Trace.Color = System.Drawing.Color.Brown;
+            plotChannelTrace834.Trace.Thickness = 2D;
+            plotChannelTrace834.XAxisName = "Tempelate";
+            plotChannelTrace834.YAxisName = "Temperature";
+            plotChannelTrace835.CanFocus = false;
+            plotChannelTrace835.Color = System.Drawing.Color.Red;
+            plotChannelTrace835.Name = "CH2";
+            plotChannelTrace835.TitleText = "CH2";
+            plotChannelTrace835.Trace.Color = System.Drawing.Color.RosyBrown;
+            plotChannelTrace835.Trace.Thickness = 2D;
+            plotChannelTrace835.XAxisName = "Tempelate";
+            plotChannelTrace835.YAxisName = "Temperature";
+            plotChannelTrace836.CanFocus = false;
+            plotChannelTrace836.Color = System.Drawing.Color.Red;
+            plotChannelTrace836.Name = "CH3";
+            plotChannelTrace836.TitleText = "CH3";
+            plotChannelTrace836.Trace.Color = System.Drawing.Color.DarkKhaki;
+            plotChannelTrace836.Trace.Thickness = 2D;
+            plotChannelTrace836.XAxisName = "Tempelate";
+            plotChannelTrace836.YAxisName = "Temperature";
+            plotChannelTrace837.CanFocus = false;
+            plotChannelTrace837.Color = System.Drawing.Color.Red;
+            plotChannelTrace837.Name = "CH4";
+            plotChannelTrace837.TitleText = "CH4";
+            plotChannelTrace837.Trace.Thickness = 2D;
+            plotChannelTrace837.XAxisName = "Tempelate";
+            plotChannelTrace837.YAxisName = "Temperature";
+            plotChannelTrace838.CanFocus = false;
+            plotChannelTrace838.Color = System.Drawing.Color.Blue;
+            plotChannelTrace838.Name = "CH5";
+            plotChannelTrace838.TitleText = "CH5";
+            plotChannelTrace838.Trace.Thickness = 2D;
+            plotChannelTrace838.XAxisName = "Tempelate";
+            plotChannelTrace838.YAxisName = "Temperature";
+            plotChannelTrace839.CanFocus = false;
+            plotChannelTrace839.Color = System.Drawing.Color.Lime;
+            plotChannelTrace839.Name = "CH6";
+            plotChannelTrace839.TitleText = "CH6";
+            plotChannelTrace839.Trace.Thickness = 2D;
+            plotChannelTrace839.XAxisName = "Tempelate";
+            plotChannelTrace839.YAxisName = "Temperature";
+            plotChannelTrace840.CanFocus = false;
+            plotChannelTrace840.Color = System.Drawing.Color.Yellow;
+            plotChannelTrace840.Name = "CH7";
+            plotChannelTrace840.TitleText = "CH7";
+            plotChannelTrace840.Trace.Color = System.Drawing.Color.Olive;
+            plotChannelTrace840.Trace.Thickness = 2D;
+            plotChannelTrace840.XAxisName = "Tempelate";
+            plotChannelTrace840.YAxisName = "Temperature";
+            plotChannelTrace841.CanFocus = false;
+            plotChannelTrace841.Color = System.Drawing.Color.Aqua;
+            plotChannelTrace841.Name = "CH8";
+            plotChannelTrace841.TitleText = "CH8";
+            plotChannelTrace841.Trace.Color = System.Drawing.Color.DarkSlateGray;
+            plotChannelTrace841.Trace.Thickness = 2D;
+            plotChannelTrace841.XAxisName = "Tempelate";
+            plotChannelTrace841.YAxisName = "Temperature";
+            this.plot5.Channels.Add(plotChannelTrace813);
+            this.plot5.Channels.Add(plotChannelTrace814);
+            this.plot5.Channels.Add(plotChannelTrace815);
+            this.plot5.Channels.Add(plotChannelTrace816);
+            this.plot5.Channels.Add(plotChannelTrace817);
+            this.plot5.Channels.Add(plotChannelTrace818);
+            this.plot5.Channels.Add(plotChannelTrace819);
+            this.plot5.Channels.Add(plotChannelTrace820);
+            this.plot5.Channels.Add(plotChannelTrace821);
+            this.plot5.Channels.Add(plotChannelTrace822);
+            this.plot5.Channels.Add(plotChannelTrace823);
+            this.plot5.Channels.Add(plotChannelTrace824);
+            this.plot5.Channels.Add(plotChannelTrace825);
+            this.plot5.Channels.Add(plotChannelTrace826);
+            this.plot5.Channels.Add(plotChannelTrace827);
+            this.plot5.Channels.Add(plotChannelTrace828);
+            this.plot5.Channels.Add(plotChannelTrace829);
+            this.plot5.Channels.Add(plotChannelTrace830);
+            this.plot5.Channels.Add(plotChannelTrace831);
+            this.plot5.Channels.Add(plotChannelTrace832);
+            this.plot5.Channels.Add(plotChannelTrace833);
+            this.plot5.Channels.Add(plotChannelTrace834);
+            this.plot5.Channels.Add(plotChannelTrace835);
+            this.plot5.Channels.Add(plotChannelTrace836);
+            this.plot5.Channels.Add(plotChannelTrace837);
+            this.plot5.Channels.Add(plotChannelTrace838);
+            this.plot5.Channels.Add(plotChannelTrace839);
+            this.plot5.Channels.Add(plotChannelTrace840);
+            this.plot5.Channels.Add(plotChannelTrace841);
+            plotDataCursorXY169.CanFocus = false;
+            plotDataCursorXY169.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
+            plotDataCursorXY169.MasterControl = true;
+            plotDataCursorXY169.Name = "Data-Cursor 1";
+            plotDataCursorXY169.TitleText = "Data-Cursor 1";
+            plotDataCursorXY169.XAxisName = "Tempelate";
+            plotDataCursorXY169.YAxisName = "Temperature";
+            plotDataCursorXY170.CanFocus = false;
+            plotDataCursorXY170.Color = System.Drawing.Color.Black;
+            plotDataCursorXY170.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
+            plotDataCursorXY170.Line.Style = Iocomp.Types.PlotPenStyle.Dash;
+            plotDataCursorXY170.MasterControl = true;
+            plotDataCursorXY170.Name = "Data-Cursor 2";
+            plotDataCursorXY170.TitleText = "Data-Cursor 2";
+            plotDataCursorXY170.Window.Visible = false;
+            plotDataCursorXY170.XAxisName = "Tempelate";
+            plotDataCursorXY170.YAxisName = "Humidity";
+            this.plot5.DataCursors.Add(plotDataCursorXY169);
+            this.plot5.DataCursors.Add(plotDataCursorXY170);
+            plotDataView85.CanFocus = false;
+            plotDataView85.Name = "Data-View 1";
+            plotDataView85.TitleText = "Data-View 1";
+            this.plot5.DataViews.Add(plotDataView85);
             this.plot5.DefaultGridLineColor = System.Drawing.SystemColors.ActiveBorder;
             this.plot5.DefaultSaveImagePath = "C:\\Users\\Administrator\\Desktop";
             this.plot5.ForeColor = System.Drawing.Color.Black;
-            plotLegendBasic1.CanFocus = false;
-            plotLegendBasic1.DockOrder = 2;
-            plotLegendBasic1.DockStyle = Iocomp.Types.PlotDockStyleAll.DataView;
-            plotLegendBasic1.Name = "Legend 1";
-            plotLegendBasic1.TitleText = "Legend 1";
-            this.plot5.Legends.Add(plotLegendBasic1);
-            this.plot5.Location = new System.Drawing.Point(3, 48);
-            this.plot5.Margin = new System.Windows.Forms.Padding(4);
+            plotLegendBasic85.CanFocus = false;
+            plotLegendBasic85.DockOrder = 2;
+            plotLegendBasic85.DockStyle = Iocomp.Types.PlotDockStyleAll.DataView;
+            plotLegendBasic85.Name = "Legend 1";
+            plotLegendBasic85.TitleText = "Legend 1";
+            this.plot5.Legends.Add(plotLegendBasic85);
+            this.plot5.Location = new System.Drawing.Point(2, 38);
             this.plot5.Name = "plot5";
             this.plot5.PrintAdapter.MarginLeft = 0D;
             this.plot5.PrintAdapter.MarginTop = 0D;
             this.plot5.PrintAdapter.SizingStyle = Iocomp.Types.PlotPrintSizingStyle.Stretch;
-            this.plot5.Size = new System.Drawing.Size(1383, 664);
+            this.plot5.Size = new System.Drawing.Size(1006, 531);
             this.plot5.TabIndex = 32;
             this.plot5.UpdateFrameRate = 10D;
-            plotXAxis1.CanFocus = false;
-            plotXAxis1.DockOrder = 0;
-            plotXAxis1.Name = "Tempelate";
-            plotXAxis1.ScaleDisplay.GeneratorAuto.MinorCount = 10;
-            plotXAxis1.ScaleDisplay.TextFormatting.DateTimeFormat = "yyyy-MM-dd HH:mm:ss";
-            plotXAxis1.ScaleDisplay.TextFormatting.Style = Iocomp.Types.TextFormatDoubleStyle.DateTime;
-            plotXAxis1.ScaleRange.Span = 0.000694444446708076D;
-            plotXAxis1.Title.Text = "time";
-            this.plot5.XAxes.Add(plotXAxis1);
-            plotYAxis1.CanFocus = false;
-            plotYAxis1.DockOrder = 0;
-            plotYAxis1.Name = "Temperature";
-            plotYAxis1.ScaleRange.Span = 50D;
-            plotYAxis1.Title.Text = "Temperature";
-            this.plot5.YAxes.Add(plotYAxis1);
+            plotXAxis85.CanFocus = false;
+            plotXAxis85.DockOrder = 0;
+            plotXAxis85.Name = "Tempelate";
+            plotXAxis85.ScaleDisplay.GeneratorAuto.MinorCount = 10;
+            plotXAxis85.ScaleDisplay.TextFormatting.DateTimeFormat = "yyyy-MM-dd HH:mm:ss";
+            plotXAxis85.ScaleDisplay.TextFormatting.Style = Iocomp.Types.TextFormatDoubleStyle.DateTime;
+            plotXAxis85.ScaleRange.Span = 0.000694444446708076D;
+            plotXAxis85.Title.Text = "time";
+            this.plot5.XAxes.Add(plotXAxis85);
+            plotYAxis85.CanFocus = false;
+            plotYAxis85.DockOrder = 0;
+            plotYAxis85.Name = "Temperature";
+            plotYAxis85.ScaleRange.Span = 50D;
+            plotYAxis85.Title.Text = "Temperature";
+            this.plot5.YAxes.Add(plotYAxis85);
             this.plot5.LoadingEnd();
             // 
             // tabPage6
@@ -3096,11 +2930,10 @@
             this.tabPage6.Controls.Add(this.CH_CH1);
             this.tabPage6.Controls.Add(this.plot4);
             this.tabPage6.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.tabPage6.Location = new System.Drawing.Point(4, 35);
-            this.tabPage6.Margin = new System.Windows.Forms.Padding(4);
+            this.tabPage6.Location = new System.Drawing.Point(4, 31);
             this.tabPage6.Name = "tabPage6";
-            this.tabPage6.Padding = new System.Windows.Forms.Padding(4);
-            this.tabPage6.Size = new System.Drawing.Size(1389, 727);
+            this.tabPage6.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage6.Size = new System.Drawing.Size(1012, 551);
             this.tabPage6.TabIndex = 5;
             this.tabPage6.Text = "  隔离器页  ";
             // 
@@ -3108,40 +2941,36 @@
             // 
             this.textBox22.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox22.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox22.Location = new System.Drawing.Point(1027, 669);
-            this.textBox22.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox22.Location = new System.Drawing.Point(770, 535);
             this.textBox22.Name = "textBox22";
-            this.textBox22.Size = new System.Drawing.Size(64, 27);
+            this.textBox22.Size = new System.Drawing.Size(49, 23);
             this.textBox22.TabIndex = 45;
             // 
             // textBox23
             // 
             this.textBox23.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox23.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox23.Location = new System.Drawing.Point(893, 669);
-            this.textBox23.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox23.Location = new System.Drawing.Point(670, 535);
             this.textBox23.Name = "textBox23";
-            this.textBox23.Size = new System.Drawing.Size(64, 27);
+            this.textBox23.Size = new System.Drawing.Size(49, 23);
             this.textBox23.TabIndex = 43;
             // 
             // textBox33
             // 
             this.textBox33.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox33.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox33.Location = new System.Drawing.Point(760, 669);
-            this.textBox33.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox33.Location = new System.Drawing.Point(570, 535);
             this.textBox33.Name = "textBox33";
-            this.textBox33.Size = new System.Drawing.Size(64, 27);
+            this.textBox33.Size = new System.Drawing.Size(49, 23);
             this.textBox33.TabIndex = 41;
             // 
             // label29
             // 
             this.label29.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label29.AutoSize = true;
-            this.label29.Location = new System.Drawing.Point(980, 671);
-            this.label29.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label29.Location = new System.Drawing.Point(735, 537);
             this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(61, 23);
+            this.label29.Size = new System.Drawing.Size(51, 20);
             this.label29.TabIndex = 44;
             this.label29.Text = "CH8：";
             // 
@@ -3149,10 +2978,9 @@
             // 
             this.label30.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label30.AutoSize = true;
-            this.label30.Location = new System.Drawing.Point(844, 671);
-            this.label30.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label30.Location = new System.Drawing.Point(633, 537);
             this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(61, 23);
+            this.label30.Size = new System.Drawing.Size(51, 20);
             this.label30.TabIndex = 42;
             this.label30.Text = "CH7：";
             // 
@@ -3160,10 +2988,9 @@
             // 
             this.label40.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label40.AutoSize = true;
-            this.label40.Location = new System.Drawing.Point(709, 671);
-            this.label40.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label40.Location = new System.Drawing.Point(532, 537);
             this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(61, 23);
+            this.label40.Size = new System.Drawing.Size(51, 20);
             this.label40.TabIndex = 40;
             this.label40.Text = "CH6：";
             // 
@@ -3171,60 +2998,54 @@
             // 
             this.textBox27.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox27.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox27.Location = new System.Drawing.Point(627, 669);
-            this.textBox27.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox27.Location = new System.Drawing.Point(470, 535);
             this.textBox27.Name = "textBox27";
-            this.textBox27.Size = new System.Drawing.Size(64, 27);
+            this.textBox27.Size = new System.Drawing.Size(49, 23);
             this.textBox27.TabIndex = 39;
             // 
             // textBox28
             // 
             this.textBox28.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox28.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox28.Location = new System.Drawing.Point(493, 669);
-            this.textBox28.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox28.Location = new System.Drawing.Point(370, 535);
             this.textBox28.Name = "textBox28";
-            this.textBox28.Size = new System.Drawing.Size(64, 27);
+            this.textBox28.Size = new System.Drawing.Size(49, 23);
             this.textBox28.TabIndex = 37;
             // 
             // textBox29
             // 
             this.textBox29.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox29.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox29.Location = new System.Drawing.Point(360, 669);
-            this.textBox29.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox29.Location = new System.Drawing.Point(270, 535);
             this.textBox29.Name = "textBox29";
-            this.textBox29.Size = new System.Drawing.Size(64, 27);
+            this.textBox29.Size = new System.Drawing.Size(49, 23);
             this.textBox29.TabIndex = 35;
             // 
             // textBox30
             // 
             this.textBox30.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox30.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox30.Location = new System.Drawing.Point(227, 669);
-            this.textBox30.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox30.Location = new System.Drawing.Point(170, 535);
             this.textBox30.Name = "textBox30";
-            this.textBox30.Size = new System.Drawing.Size(64, 27);
+            this.textBox30.Size = new System.Drawing.Size(49, 23);
             this.textBox30.TabIndex = 33;
             // 
             // textBox31
             // 
             this.textBox31.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox31.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox31.Location = new System.Drawing.Point(93, 669);
-            this.textBox31.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox31.Location = new System.Drawing.Point(70, 535);
             this.textBox31.Name = "textBox31";
-            this.textBox31.Size = new System.Drawing.Size(64, 27);
+            this.textBox31.Size = new System.Drawing.Size(49, 23);
             this.textBox31.TabIndex = 31;
             // 
             // label34
             // 
             this.label34.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label34.AutoSize = true;
-            this.label34.Location = new System.Drawing.Point(579, 671);
-            this.label34.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label34.Location = new System.Drawing.Point(434, 537);
             this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(61, 23);
+            this.label34.Size = new System.Drawing.Size(51, 20);
             this.label34.TabIndex = 38;
             this.label34.Text = "CH5：";
             // 
@@ -3232,10 +3053,9 @@
             // 
             this.label35.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label35.AutoSize = true;
-            this.label35.Location = new System.Drawing.Point(444, 671);
-            this.label35.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label35.Location = new System.Drawing.Point(333, 537);
             this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(61, 23);
+            this.label35.Size = new System.Drawing.Size(51, 20);
             this.label35.TabIndex = 36;
             this.label35.Text = "CH4：";
             // 
@@ -3243,10 +3063,9 @@
             // 
             this.label36.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label36.AutoSize = true;
-            this.label36.Location = new System.Drawing.Point(309, 671);
-            this.label36.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label36.Location = new System.Drawing.Point(232, 537);
             this.label36.Name = "label36";
-            this.label36.Size = new System.Drawing.Size(61, 23);
+            this.label36.Size = new System.Drawing.Size(51, 20);
             this.label36.TabIndex = 34;
             this.label36.Text = "CH3：";
             // 
@@ -3254,10 +3073,9 @@
             // 
             this.label37.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label37.AutoSize = true;
-            this.label37.Location = new System.Drawing.Point(177, 671);
-            this.label37.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label37.Location = new System.Drawing.Point(133, 537);
             this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(61, 23);
+            this.label37.Size = new System.Drawing.Size(51, 20);
             this.label37.TabIndex = 32;
             this.label37.Text = "CH2：";
             // 
@@ -3265,10 +3083,9 @@
             // 
             this.label38.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label38.AutoSize = true;
-            this.label38.Location = new System.Drawing.Point(45, 671);
-            this.label38.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label38.Location = new System.Drawing.Point(34, 537);
             this.label38.Name = "label38";
-            this.label38.Size = new System.Drawing.Size(61, 23);
+            this.label38.Size = new System.Drawing.Size(51, 20);
             this.label38.TabIndex = 30;
             this.label38.Text = "CH1：";
             // 
@@ -3278,10 +3095,9 @@
             this.CH_CH8.BackColor = System.Drawing.Color.White;
             this.CH_CH8.Checked = true;
             this.CH_CH8.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_CH8.Location = new System.Drawing.Point(619, 8);
-            this.CH_CH8.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_CH8.Location = new System.Drawing.Point(464, 6);
             this.CH_CH8.Name = "CH_CH8";
-            this.CH_CH8.Size = new System.Drawing.Size(66, 27);
+            this.CH_CH8.Size = new System.Drawing.Size(56, 24);
             this.CH_CH8.TabIndex = 27;
             this.CH_CH8.Text = "CH8";
             this.CH_CH8.UseVisualStyleBackColor = false;
@@ -3293,10 +3109,9 @@
             this.CH_CH7.BackColor = System.Drawing.Color.White;
             this.CH_CH7.Checked = true;
             this.CH_CH7.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_CH7.Location = new System.Drawing.Point(541, 8);
-            this.CH_CH7.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_CH7.Location = new System.Drawing.Point(406, 6);
             this.CH_CH7.Name = "CH_CH7";
-            this.CH_CH7.Size = new System.Drawing.Size(66, 27);
+            this.CH_CH7.Size = new System.Drawing.Size(56, 24);
             this.CH_CH7.TabIndex = 26;
             this.CH_CH7.Text = "CH7";
             this.CH_CH7.UseVisualStyleBackColor = false;
@@ -3308,10 +3123,9 @@
             this.CH_CH6.BackColor = System.Drawing.Color.White;
             this.CH_CH6.Checked = true;
             this.CH_CH6.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_CH6.Location = new System.Drawing.Point(468, 8);
-            this.CH_CH6.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_CH6.Location = new System.Drawing.Point(351, 6);
             this.CH_CH6.Name = "CH_CH6";
-            this.CH_CH6.Size = new System.Drawing.Size(66, 27);
+            this.CH_CH6.Size = new System.Drawing.Size(56, 24);
             this.CH_CH6.TabIndex = 25;
             this.CH_CH6.Text = "CH6";
             this.CH_CH6.UseVisualStyleBackColor = false;
@@ -3323,10 +3137,9 @@
             this.CH_CH5.BackColor = System.Drawing.Color.White;
             this.CH_CH5.Checked = true;
             this.CH_CH5.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_CH5.Location = new System.Drawing.Point(393, 8);
-            this.CH_CH5.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_CH5.Location = new System.Drawing.Point(295, 6);
             this.CH_CH5.Name = "CH_CH5";
-            this.CH_CH5.Size = new System.Drawing.Size(66, 27);
+            this.CH_CH5.Size = new System.Drawing.Size(56, 24);
             this.CH_CH5.TabIndex = 24;
             this.CH_CH5.Text = "CH5";
             this.CH_CH5.UseVisualStyleBackColor = false;
@@ -3338,10 +3151,9 @@
             this.CH_CH4.BackColor = System.Drawing.Color.White;
             this.CH_CH4.Checked = true;
             this.CH_CH4.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_CH4.Location = new System.Drawing.Point(321, 8);
-            this.CH_CH4.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_CH4.Location = new System.Drawing.Point(241, 6);
             this.CH_CH4.Name = "CH_CH4";
-            this.CH_CH4.Size = new System.Drawing.Size(66, 27);
+            this.CH_CH4.Size = new System.Drawing.Size(56, 24);
             this.CH_CH4.TabIndex = 23;
             this.CH_CH4.Text = "CH4";
             this.CH_CH4.UseVisualStyleBackColor = false;
@@ -3353,10 +3165,9 @@
             this.CH_CH3.BackColor = System.Drawing.Color.White;
             this.CH_CH3.Checked = true;
             this.CH_CH3.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_CH3.Location = new System.Drawing.Point(249, 8);
-            this.CH_CH3.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_CH3.Location = new System.Drawing.Point(187, 6);
             this.CH_CH3.Name = "CH_CH3";
-            this.CH_CH3.Size = new System.Drawing.Size(66, 27);
+            this.CH_CH3.Size = new System.Drawing.Size(56, 24);
             this.CH_CH3.TabIndex = 22;
             this.CH_CH3.Text = "CH3";
             this.CH_CH3.UseVisualStyleBackColor = false;
@@ -3368,10 +3179,9 @@
             this.CH_CH2.BackColor = System.Drawing.Color.White;
             this.CH_CH2.Checked = true;
             this.CH_CH2.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_CH2.Location = new System.Drawing.Point(175, 8);
-            this.CH_CH2.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_CH2.Location = new System.Drawing.Point(131, 6);
             this.CH_CH2.Name = "CH_CH2";
-            this.CH_CH2.Size = new System.Drawing.Size(66, 27);
+            this.CH_CH2.Size = new System.Drawing.Size(56, 24);
             this.CH_CH2.TabIndex = 21;
             this.CH_CH2.Text = "CH2";
             this.CH_CH2.UseVisualStyleBackColor = false;
@@ -3383,10 +3193,9 @@
             this.CH_CH1.BackColor = System.Drawing.Color.White;
             this.CH_CH1.Checked = true;
             this.CH_CH1.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_CH1.Location = new System.Drawing.Point(103, 8);
-            this.CH_CH1.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_CH1.Location = new System.Drawing.Point(77, 6);
             this.CH_CH1.Name = "CH_CH1";
-            this.CH_CH1.Size = new System.Drawing.Size(66, 27);
+            this.CH_CH1.Size = new System.Drawing.Size(56, 24);
             this.CH_CH1.TabIndex = 20;
             this.CH_CH1.Text = "CH1";
             this.CH_CH1.UseVisualStyleBackColor = false;
@@ -3402,134 +3211,133 @@
             this.plot4.Background.GradientStartColor = System.Drawing.Color.Transparent;
             this.plot4.Background.GradientStopColor = System.Drawing.Color.Empty;
             this.plot4.Background.Visible = true;
-            plotChannelTrace30.CanFocus = false;
-            plotChannelTrace30.Color = System.Drawing.Color.Red;
-            plotChannelTrace30.Fill.Brush.Style = Iocomp.Types.PlotBrushStyle.GradientBackwardDiagonal;
-            plotChannelTrace30.Markers.Size = 2;
-            plotChannelTrace30.Name = "CH1";
-            plotChannelTrace30.OPCXValueSource = Iocomp.Types.OPCXValueType.SystemClock;
-            plotChannelTrace30.TitleText = "CH1";
-            plotChannelTrace30.Trace.Thickness = 2D;
-            plotChannelTrace30.XAxisName = "Tempelate";
-            plotChannelTrace30.YAxisName = "Temperature";
-            plotChannelTrace31.CanFocus = false;
-            plotChannelTrace31.Color = System.Drawing.Color.Blue;
-            plotChannelTrace31.Name = "CH2";
-            plotChannelTrace31.TitleText = "CH2";
-            plotChannelTrace31.Trace.Thickness = 2D;
-            plotChannelTrace31.XAxisName = "Tempelate";
-            plotChannelTrace31.YAxisName = "Temperature";
-            plotChannelTrace32.CanFocus = false;
-            plotChannelTrace32.Color = System.Drawing.Color.Lime;
-            plotChannelTrace32.Name = "CH3";
-            plotChannelTrace32.TitleText = "CH3";
-            plotChannelTrace32.Trace.Thickness = 2D;
-            plotChannelTrace32.XAxisName = "Tempelate";
-            plotChannelTrace32.YAxisName = "Temperature";
-            plotChannelTrace33.CanFocus = false;
-            plotChannelTrace33.Color = System.Drawing.Color.Yellow;
-            plotChannelTrace33.Name = "CH4";
-            plotChannelTrace33.TitleText = "CH4";
-            plotChannelTrace33.Trace.Color = System.Drawing.Color.Olive;
-            plotChannelTrace33.Trace.Thickness = 2D;
-            plotChannelTrace33.XAxisName = "Tempelate";
-            plotChannelTrace33.YAxisName = "Temperature";
-            plotChannelTrace34.CanFocus = false;
-            plotChannelTrace34.Color = System.Drawing.Color.Aqua;
-            plotChannelTrace34.Name = "CH5";
-            plotChannelTrace34.TitleText = "CH5";
-            plotChannelTrace34.Trace.Color = System.Drawing.Color.DarkSlateGray;
-            plotChannelTrace34.Trace.Thickness = 2D;
-            plotChannelTrace34.XAxisName = "Tempelate";
-            plotChannelTrace34.YAxisName = "Temperature";
-            plotChannelTrace35.CanFocus = false;
-            plotChannelTrace35.Color = System.Drawing.Color.White;
-            plotChannelTrace35.Name = "CH6";
-            plotChannelTrace35.TitleText = "CH6";
-            plotChannelTrace35.Trace.Color = System.Drawing.Color.Brown;
-            plotChannelTrace35.Trace.Thickness = 2D;
-            plotChannelTrace35.XAxisName = "Tempelate";
-            plotChannelTrace35.YAxisName = "Temperature";
-            plotChannelTrace36.CanFocus = false;
-            plotChannelTrace36.Color = System.Drawing.Color.Red;
-            plotChannelTrace36.Name = "CH7";
-            plotChannelTrace36.TitleText = "CH7";
-            plotChannelTrace36.Trace.Color = System.Drawing.Color.RosyBrown;
-            plotChannelTrace36.Trace.Thickness = 2D;
-            plotChannelTrace36.XAxisName = "Tempelate";
-            plotChannelTrace36.YAxisName = "Temperature";
-            plotChannelTrace37.CanFocus = false;
-            plotChannelTrace37.Color = System.Drawing.Color.Red;
-            plotChannelTrace37.Name = "CH8";
-            plotChannelTrace37.TitleText = "CH8";
-            plotChannelTrace37.Trace.Color = System.Drawing.Color.DarkKhaki;
-            plotChannelTrace37.Trace.Thickness = 2D;
-            plotChannelTrace37.XAxisName = "Tempelate";
-            plotChannelTrace37.YAxisName = "Temperature";
-            this.plot4.Channels.Add(plotChannelTrace30);
-            this.plot4.Channels.Add(plotChannelTrace31);
-            this.plot4.Channels.Add(plotChannelTrace32);
-            this.plot4.Channels.Add(plotChannelTrace33);
-            this.plot4.Channels.Add(plotChannelTrace34);
-            this.plot4.Channels.Add(plotChannelTrace35);
-            this.plot4.Channels.Add(plotChannelTrace36);
-            this.plot4.Channels.Add(plotChannelTrace37);
-            plotDataCursorXY3.CanFocus = false;
-            plotDataCursorXY3.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
-            plotDataCursorXY3.MasterControl = true;
-            plotDataCursorXY3.Name = "Data-Cursor 1";
-            plotDataCursorXY3.TitleText = "Data-Cursor 1";
-            plotDataCursorXY3.XAxisName = "Tempelate";
-            plotDataCursorXY3.YAxisName = "Temperature";
-            plotDataCursorXY4.CanFocus = false;
-            plotDataCursorXY4.Color = System.Drawing.Color.Black;
-            plotDataCursorXY4.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
-            plotDataCursorXY4.Line.Style = Iocomp.Types.PlotPenStyle.Dash;
-            plotDataCursorXY4.MasterControl = true;
-            plotDataCursorXY4.Name = "Data-Cursor 2";
-            plotDataCursorXY4.TitleText = "Data-Cursor 2";
-            plotDataCursorXY4.Window.Visible = false;
-            plotDataCursorXY4.XAxisName = "Tempelate";
-            plotDataCursorXY4.YAxisName = "Humidity";
-            this.plot4.DataCursors.Add(plotDataCursorXY3);
-            this.plot4.DataCursors.Add(plotDataCursorXY4);
-            plotDataView2.CanFocus = false;
-            plotDataView2.Name = "Data-View 1";
-            plotDataView2.TitleText = "Data-View 1";
-            this.plot4.DataViews.Add(plotDataView2);
+            plotChannelTrace842.CanFocus = false;
+            plotChannelTrace842.Color = System.Drawing.Color.Red;
+            plotChannelTrace842.Fill.Brush.Style = Iocomp.Types.PlotBrushStyle.GradientBackwardDiagonal;
+            plotChannelTrace842.Markers.Size = 2;
+            plotChannelTrace842.Name = "CH1";
+            plotChannelTrace842.OPCXValueSource = Iocomp.Types.OPCXValueType.SystemClock;
+            plotChannelTrace842.TitleText = "CH1";
+            plotChannelTrace842.Trace.Thickness = 2D;
+            plotChannelTrace842.XAxisName = "Tempelate";
+            plotChannelTrace842.YAxisName = "Temperature";
+            plotChannelTrace843.CanFocus = false;
+            plotChannelTrace843.Color = System.Drawing.Color.Blue;
+            plotChannelTrace843.Name = "CH2";
+            plotChannelTrace843.TitleText = "CH2";
+            plotChannelTrace843.Trace.Thickness = 2D;
+            plotChannelTrace843.XAxisName = "Tempelate";
+            plotChannelTrace843.YAxisName = "Temperature";
+            plotChannelTrace844.CanFocus = false;
+            plotChannelTrace844.Color = System.Drawing.Color.Lime;
+            plotChannelTrace844.Name = "CH3";
+            plotChannelTrace844.TitleText = "CH3";
+            plotChannelTrace844.Trace.Thickness = 2D;
+            plotChannelTrace844.XAxisName = "Tempelate";
+            plotChannelTrace844.YAxisName = "Temperature";
+            plotChannelTrace845.CanFocus = false;
+            plotChannelTrace845.Color = System.Drawing.Color.Yellow;
+            plotChannelTrace845.Name = "CH4";
+            plotChannelTrace845.TitleText = "CH4";
+            plotChannelTrace845.Trace.Color = System.Drawing.Color.Olive;
+            plotChannelTrace845.Trace.Thickness = 2D;
+            plotChannelTrace845.XAxisName = "Tempelate";
+            plotChannelTrace845.YAxisName = "Temperature";
+            plotChannelTrace846.CanFocus = false;
+            plotChannelTrace846.Color = System.Drawing.Color.Aqua;
+            plotChannelTrace846.Name = "CH5";
+            plotChannelTrace846.TitleText = "CH5";
+            plotChannelTrace846.Trace.Color = System.Drawing.Color.DarkSlateGray;
+            plotChannelTrace846.Trace.Thickness = 2D;
+            plotChannelTrace846.XAxisName = "Tempelate";
+            plotChannelTrace846.YAxisName = "Temperature";
+            plotChannelTrace847.CanFocus = false;
+            plotChannelTrace847.Color = System.Drawing.Color.White;
+            plotChannelTrace847.Name = "CH6";
+            plotChannelTrace847.TitleText = "CH6";
+            plotChannelTrace847.Trace.Color = System.Drawing.Color.Brown;
+            plotChannelTrace847.Trace.Thickness = 2D;
+            plotChannelTrace847.XAxisName = "Tempelate";
+            plotChannelTrace847.YAxisName = "Temperature";
+            plotChannelTrace848.CanFocus = false;
+            plotChannelTrace848.Color = System.Drawing.Color.Red;
+            plotChannelTrace848.Name = "CH7";
+            plotChannelTrace848.TitleText = "CH7";
+            plotChannelTrace848.Trace.Color = System.Drawing.Color.RosyBrown;
+            plotChannelTrace848.Trace.Thickness = 2D;
+            plotChannelTrace848.XAxisName = "Tempelate";
+            plotChannelTrace848.YAxisName = "Temperature";
+            plotChannelTrace849.CanFocus = false;
+            plotChannelTrace849.Color = System.Drawing.Color.Red;
+            plotChannelTrace849.Name = "CH8";
+            plotChannelTrace849.TitleText = "CH8";
+            plotChannelTrace849.Trace.Color = System.Drawing.Color.DarkKhaki;
+            plotChannelTrace849.Trace.Thickness = 2D;
+            plotChannelTrace849.XAxisName = "Tempelate";
+            plotChannelTrace849.YAxisName = "Temperature";
+            this.plot4.Channels.Add(plotChannelTrace842);
+            this.plot4.Channels.Add(plotChannelTrace843);
+            this.plot4.Channels.Add(plotChannelTrace844);
+            this.plot4.Channels.Add(plotChannelTrace845);
+            this.plot4.Channels.Add(plotChannelTrace846);
+            this.plot4.Channels.Add(plotChannelTrace847);
+            this.plot4.Channels.Add(plotChannelTrace848);
+            this.plot4.Channels.Add(plotChannelTrace849);
+            plotDataCursorXY171.CanFocus = false;
+            plotDataCursorXY171.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
+            plotDataCursorXY171.MasterControl = true;
+            plotDataCursorXY171.Name = "Data-Cursor 1";
+            plotDataCursorXY171.TitleText = "Data-Cursor 1";
+            plotDataCursorXY171.XAxisName = "Tempelate";
+            plotDataCursorXY171.YAxisName = "Temperature";
+            plotDataCursorXY172.CanFocus = false;
+            plotDataCursorXY172.Color = System.Drawing.Color.Black;
+            plotDataCursorXY172.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
+            plotDataCursorXY172.Line.Style = Iocomp.Types.PlotPenStyle.Dash;
+            plotDataCursorXY172.MasterControl = true;
+            plotDataCursorXY172.Name = "Data-Cursor 2";
+            plotDataCursorXY172.TitleText = "Data-Cursor 2";
+            plotDataCursorXY172.Window.Visible = false;
+            plotDataCursorXY172.XAxisName = "Tempelate";
+            plotDataCursorXY172.YAxisName = "Humidity";
+            this.plot4.DataCursors.Add(plotDataCursorXY171);
+            this.plot4.DataCursors.Add(plotDataCursorXY172);
+            plotDataView86.CanFocus = false;
+            plotDataView86.Name = "Data-View 1";
+            plotDataView86.TitleText = "Data-View 1";
+            this.plot4.DataViews.Add(plotDataView86);
             this.plot4.DefaultGridLineColor = System.Drawing.SystemColors.ActiveBorder;
             this.plot4.DefaultSaveImagePath = "C:\\Users\\Administrator\\Desktop";
             this.plot4.ForeColor = System.Drawing.Color.Black;
-            plotLegendBasic2.CanFocus = false;
-            plotLegendBasic2.DockOrder = 2;
-            plotLegendBasic2.DockStyle = Iocomp.Types.PlotDockStyleAll.DataView;
-            plotLegendBasic2.Name = "Legend 1";
-            plotLegendBasic2.TitleText = "Legend 1";
-            this.plot4.Legends.Add(plotLegendBasic2);
+            plotLegendBasic86.CanFocus = false;
+            plotLegendBasic86.DockOrder = 2;
+            plotLegendBasic86.DockStyle = Iocomp.Types.PlotDockStyleAll.DataView;
+            plotLegendBasic86.Name = "Legend 1";
+            plotLegendBasic86.TitleText = "Legend 1";
+            this.plot4.Legends.Add(plotLegendBasic86);
             this.plot4.Location = new System.Drawing.Point(0, -1);
-            this.plot4.Margin = new System.Windows.Forms.Padding(4);
             this.plot4.Name = "plot4";
             this.plot4.PrintAdapter.MarginLeft = 0D;
             this.plot4.PrintAdapter.MarginTop = 0D;
             this.plot4.PrintAdapter.SizingStyle = Iocomp.Types.PlotPrintSizingStyle.Stretch;
-            this.plot4.Size = new System.Drawing.Size(1385, 661);
+            this.plot4.Size = new System.Drawing.Size(1008, 529);
             this.plot4.TabIndex = 7;
             this.plot4.UpdateFrameRate = 10D;
-            plotXAxis2.CanFocus = false;
-            plotXAxis2.DockOrder = 0;
-            plotXAxis2.Name = "Tempelate";
-            plotXAxis2.ScaleDisplay.GeneratorAuto.MinorCount = 10;
-            plotXAxis2.ScaleDisplay.TextFormatting.DateTimeFormat = "yyyy-MM-dd HH:mm:ss";
-            plotXAxis2.ScaleDisplay.TextFormatting.Style = Iocomp.Types.TextFormatDoubleStyle.DateTime;
-            plotXAxis2.ScaleRange.Span = 0.000694444446708076D;
-            plotXAxis2.Title.Text = "time";
-            this.plot4.XAxes.Add(plotXAxis2);
-            plotYAxis2.CanFocus = false;
-            plotYAxis2.DockOrder = 0;
-            plotYAxis2.Name = "Temperature";
-            plotYAxis2.ScaleRange.Span = 50D;
-            plotYAxis2.Title.Text = "Temperature";
-            this.plot4.YAxes.Add(plotYAxis2);
+            plotXAxis86.CanFocus = false;
+            plotXAxis86.DockOrder = 0;
+            plotXAxis86.Name = "Tempelate";
+            plotXAxis86.ScaleDisplay.GeneratorAuto.MinorCount = 10;
+            plotXAxis86.ScaleDisplay.TextFormatting.DateTimeFormat = "yyyy-MM-dd HH:mm:ss";
+            plotXAxis86.ScaleDisplay.TextFormatting.Style = Iocomp.Types.TextFormatDoubleStyle.DateTime;
+            plotXAxis86.ScaleRange.Span = 0.000694444446708076D;
+            plotXAxis86.Title.Text = "time";
+            this.plot4.XAxes.Add(plotXAxis86);
+            plotYAxis86.CanFocus = false;
+            plotYAxis86.DockOrder = 0;
+            plotYAxis86.Name = "Temperature";
+            plotYAxis86.ScaleRange.Span = 50D;
+            plotYAxis86.Title.Text = "Temperature";
+            this.plot4.YAxes.Add(plotYAxis86);
             this.plot4.LoadingEnd();
             // 
             // tabPage5
@@ -3547,11 +3355,10 @@
             this.tabPage5.Controls.Add(this.CH_IFL);
             this.tabPage5.Controls.Add(this.plot3);
             this.tabPage5.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.tabPage5.Location = new System.Drawing.Point(4, 35);
-            this.tabPage5.Margin = new System.Windows.Forms.Padding(4);
+            this.tabPage5.Location = new System.Drawing.Point(4, 31);
             this.tabPage5.Name = "tabPage5";
-            this.tabPage5.Padding = new System.Windows.Forms.Padding(4);
-            this.tabPage5.Size = new System.Drawing.Size(1389, 727);
+            this.tabPage5.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage5.Size = new System.Drawing.Size(1012, 551);
             this.tabPage5.TabIndex = 4;
             this.tabPage5.Text = "  接收机页  ";
             // 
@@ -3559,40 +3366,36 @@
             // 
             this.textBox24.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox24.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox24.Location = new System.Drawing.Point(360, 668);
-            this.textBox24.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox24.Location = new System.Drawing.Point(270, 534);
             this.textBox24.Name = "textBox24";
-            this.textBox24.Size = new System.Drawing.Size(64, 27);
+            this.textBox24.Size = new System.Drawing.Size(49, 23);
             this.textBox24.TabIndex = 35;
             // 
             // textBox25
             // 
             this.textBox25.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox25.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox25.Location = new System.Drawing.Point(227, 668);
-            this.textBox25.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox25.Location = new System.Drawing.Point(170, 534);
             this.textBox25.Name = "textBox25";
-            this.textBox25.Size = new System.Drawing.Size(64, 27);
+            this.textBox25.Size = new System.Drawing.Size(49, 23);
             this.textBox25.TabIndex = 33;
             // 
             // textBox26
             // 
             this.textBox26.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox26.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox26.Location = new System.Drawing.Point(93, 668);
-            this.textBox26.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox26.Location = new System.Drawing.Point(70, 534);
             this.textBox26.Name = "textBox26";
-            this.textBox26.Size = new System.Drawing.Size(64, 27);
+            this.textBox26.Size = new System.Drawing.Size(49, 23);
             this.textBox26.TabIndex = 31;
             // 
             // label31
             // 
             this.label31.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label31.AutoSize = true;
-            this.label31.Location = new System.Drawing.Point(316, 670);
-            this.label31.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label31.Location = new System.Drawing.Point(237, 536);
             this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(59, 23);
+            this.label31.Size = new System.Drawing.Size(49, 20);
             this.label31.TabIndex = 34;
             this.label31.Text = "DIO：";
             // 
@@ -3600,10 +3403,9 @@
             // 
             this.label32.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label32.AutoSize = true;
-            this.label32.Location = new System.Drawing.Point(167, 669);
-            this.label32.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label32.Location = new System.Drawing.Point(125, 535);
             this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(73, 23);
+            this.label32.Size = new System.Drawing.Size(60, 20);
             this.label32.TabIndex = 32;
             this.label32.Text = "TUNE：";
             // 
@@ -3611,10 +3413,9 @@
             // 
             this.label33.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label33.AutoSize = true;
-            this.label33.Location = new System.Drawing.Point(57, 670);
-            this.label33.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label33.Location = new System.Drawing.Point(43, 536);
             this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(50, 23);
+            this.label33.Size = new System.Drawing.Size(41, 20);
             this.label33.TabIndex = 30;
             this.label33.Text = "IFL：";
             // 
@@ -3624,10 +3425,9 @@
             this.CH_DIO.BackColor = System.Drawing.Color.White;
             this.CH_DIO.Checked = true;
             this.CH_DIO.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_DIO.Location = new System.Drawing.Point(268, 9);
-            this.CH_DIO.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_DIO.Location = new System.Drawing.Point(201, 7);
             this.CH_DIO.Name = "CH_DIO";
-            this.CH_DIO.Size = new System.Drawing.Size(64, 27);
+            this.CH_DIO.Size = new System.Drawing.Size(54, 24);
             this.CH_DIO.TabIndex = 25;
             this.CH_DIO.Text = "DIO";
             this.CH_DIO.UseVisualStyleBackColor = false;
@@ -3639,10 +3439,9 @@
             this.CH_TUNE.BackColor = System.Drawing.Color.White;
             this.CH_TUNE.Checked = true;
             this.CH_TUNE.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_TUNE.Location = new System.Drawing.Point(172, 9);
-            this.CH_TUNE.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_TUNE.Location = new System.Drawing.Point(129, 7);
             this.CH_TUNE.Name = "CH_TUNE";
-            this.CH_TUNE.Size = new System.Drawing.Size(78, 27);
+            this.CH_TUNE.Size = new System.Drawing.Size(65, 24);
             this.CH_TUNE.TabIndex = 24;
             this.CH_TUNE.Text = "TUNE";
             this.CH_TUNE.UseVisualStyleBackColor = false;
@@ -3654,10 +3453,9 @@
             this.CH_IFL.BackColor = System.Drawing.Color.White;
             this.CH_IFL.Checked = true;
             this.CH_IFL.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_IFL.Location = new System.Drawing.Point(104, 8);
-            this.CH_IFL.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_IFL.Location = new System.Drawing.Point(78, 6);
             this.CH_IFL.Name = "CH_IFL";
-            this.CH_IFL.Size = new System.Drawing.Size(55, 27);
+            this.CH_IFL.Size = new System.Drawing.Size(46, 24);
             this.CH_IFL.TabIndex = 23;
             this.CH_IFL.Text = "IFL";
             this.CH_IFL.UseVisualStyleBackColor = false;
@@ -3673,89 +3471,88 @@
             this.plot3.Background.GradientStartColor = System.Drawing.Color.Transparent;
             this.plot3.Background.GradientStopColor = System.Drawing.Color.Empty;
             this.plot3.Background.Visible = true;
-            plotChannelTrace38.CanFocus = false;
-            plotChannelTrace38.Color = System.Drawing.Color.Red;
-            plotChannelTrace38.Fill.Brush.Style = Iocomp.Types.PlotBrushStyle.GradientBackwardDiagonal;
-            plotChannelTrace38.Markers.Size = 2;
-            plotChannelTrace38.Name = "IFL";
-            plotChannelTrace38.OPCXValueSource = Iocomp.Types.OPCXValueType.SystemClock;
-            plotChannelTrace38.TitleText = "IFL";
-            plotChannelTrace38.Trace.Thickness = 2D;
-            plotChannelTrace38.XAxisName = "Tempelate";
-            plotChannelTrace38.YAxisName = "Temperature";
-            plotChannelTrace39.CanFocus = false;
-            plotChannelTrace39.Color = System.Drawing.Color.Blue;
-            plotChannelTrace39.Name = "TUNE";
-            plotChannelTrace39.TitleText = "TUNE";
-            plotChannelTrace39.Trace.Thickness = 2D;
-            plotChannelTrace39.XAxisName = "Tempelate";
-            plotChannelTrace39.YAxisName = "Temperature";
-            plotChannelTrace40.CanFocus = false;
-            plotChannelTrace40.Color = System.Drawing.Color.Lime;
-            plotChannelTrace40.Name = "DIO";
-            plotChannelTrace40.TitleText = "DIO";
-            plotChannelTrace40.Trace.Thickness = 2D;
-            plotChannelTrace40.XAxisName = "Tempelate";
-            plotChannelTrace40.YAxisName = "Temperature";
-            this.plot3.Channels.Add(plotChannelTrace38);
-            this.plot3.Channels.Add(plotChannelTrace39);
-            this.plot3.Channels.Add(plotChannelTrace40);
-            plotDataCursorXY5.CanFocus = false;
-            plotDataCursorXY5.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
-            plotDataCursorXY5.MasterControl = true;
-            plotDataCursorXY5.Name = "Data-Cursor 1";
-            plotDataCursorXY5.TitleText = "Data-Cursor 1";
-            plotDataCursorXY5.XAxisName = "Tempelate";
-            plotDataCursorXY5.YAxisName = "Temperature";
-            plotDataCursorXY6.CanFocus = false;
-            plotDataCursorXY6.Color = System.Drawing.Color.Black;
-            plotDataCursorXY6.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
-            plotDataCursorXY6.Line.Style = Iocomp.Types.PlotPenStyle.Dash;
-            plotDataCursorXY6.MasterControl = true;
-            plotDataCursorXY6.Name = "Data-Cursor 2";
-            plotDataCursorXY6.TitleText = "Data-Cursor 2";
-            plotDataCursorXY6.Window.Visible = false;
-            plotDataCursorXY6.XAxisName = "Tempelate";
-            plotDataCursorXY6.YAxisName = "Humidity";
-            this.plot3.DataCursors.Add(plotDataCursorXY5);
-            this.plot3.DataCursors.Add(plotDataCursorXY6);
-            plotDataView3.CanFocus = false;
-            plotDataView3.Name = "Data-View 1";
-            plotDataView3.TitleText = "Data-View 1";
-            this.plot3.DataViews.Add(plotDataView3);
+            plotChannelTrace850.CanFocus = false;
+            plotChannelTrace850.Color = System.Drawing.Color.Red;
+            plotChannelTrace850.Fill.Brush.Style = Iocomp.Types.PlotBrushStyle.GradientBackwardDiagonal;
+            plotChannelTrace850.Markers.Size = 2;
+            plotChannelTrace850.Name = "IFL";
+            plotChannelTrace850.OPCXValueSource = Iocomp.Types.OPCXValueType.SystemClock;
+            plotChannelTrace850.TitleText = "IFL";
+            plotChannelTrace850.Trace.Thickness = 2D;
+            plotChannelTrace850.XAxisName = "Tempelate";
+            plotChannelTrace850.YAxisName = "Temperature";
+            plotChannelTrace851.CanFocus = false;
+            plotChannelTrace851.Color = System.Drawing.Color.Blue;
+            plotChannelTrace851.Name = "TUNE";
+            plotChannelTrace851.TitleText = "TUNE";
+            plotChannelTrace851.Trace.Thickness = 2D;
+            plotChannelTrace851.XAxisName = "Tempelate";
+            plotChannelTrace851.YAxisName = "Temperature";
+            plotChannelTrace852.CanFocus = false;
+            plotChannelTrace852.Color = System.Drawing.Color.Lime;
+            plotChannelTrace852.Name = "DIO";
+            plotChannelTrace852.TitleText = "DIO";
+            plotChannelTrace852.Trace.Thickness = 2D;
+            plotChannelTrace852.XAxisName = "Tempelate";
+            plotChannelTrace852.YAxisName = "Temperature";
+            this.plot3.Channels.Add(plotChannelTrace850);
+            this.plot3.Channels.Add(plotChannelTrace851);
+            this.plot3.Channels.Add(plotChannelTrace852);
+            plotDataCursorXY173.CanFocus = false;
+            plotDataCursorXY173.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
+            plotDataCursorXY173.MasterControl = true;
+            plotDataCursorXY173.Name = "Data-Cursor 1";
+            plotDataCursorXY173.TitleText = "Data-Cursor 1";
+            plotDataCursorXY173.XAxisName = "Tempelate";
+            plotDataCursorXY173.YAxisName = "Temperature";
+            plotDataCursorXY174.CanFocus = false;
+            plotDataCursorXY174.Color = System.Drawing.Color.Black;
+            plotDataCursorXY174.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
+            plotDataCursorXY174.Line.Style = Iocomp.Types.PlotPenStyle.Dash;
+            plotDataCursorXY174.MasterControl = true;
+            plotDataCursorXY174.Name = "Data-Cursor 2";
+            plotDataCursorXY174.TitleText = "Data-Cursor 2";
+            plotDataCursorXY174.Window.Visible = false;
+            plotDataCursorXY174.XAxisName = "Tempelate";
+            plotDataCursorXY174.YAxisName = "Humidity";
+            this.plot3.DataCursors.Add(plotDataCursorXY173);
+            this.plot3.DataCursors.Add(plotDataCursorXY174);
+            plotDataView87.CanFocus = false;
+            plotDataView87.Name = "Data-View 1";
+            plotDataView87.TitleText = "Data-View 1";
+            this.plot3.DataViews.Add(plotDataView87);
             this.plot3.DefaultGridLineColor = System.Drawing.SystemColors.ActiveBorder;
             this.plot3.DefaultSaveImagePath = "C:\\Users\\Administrator\\Desktop";
             this.plot3.ForeColor = System.Drawing.Color.Black;
-            plotLegendBasic3.CanFocus = false;
-            plotLegendBasic3.DockOrder = 2;
-            plotLegendBasic3.DockStyle = Iocomp.Types.PlotDockStyleAll.DataView;
-            plotLegendBasic3.Name = "Legend 1";
-            plotLegendBasic3.TitleText = "Legend 1";
-            this.plot3.Legends.Add(plotLegendBasic3);
+            plotLegendBasic87.CanFocus = false;
+            plotLegendBasic87.DockOrder = 2;
+            plotLegendBasic87.DockStyle = Iocomp.Types.PlotDockStyleAll.DataView;
+            plotLegendBasic87.Name = "Legend 1";
+            plotLegendBasic87.TitleText = "Legend 1";
+            this.plot3.Legends.Add(plotLegendBasic87);
             this.plot3.Location = new System.Drawing.Point(0, -1);
-            this.plot3.Margin = new System.Windows.Forms.Padding(4);
             this.plot3.Name = "plot3";
             this.plot3.PrintAdapter.MarginLeft = 0D;
             this.plot3.PrintAdapter.MarginTop = 0D;
             this.plot3.PrintAdapter.SizingStyle = Iocomp.Types.PlotPrintSizingStyle.Stretch;
-            this.plot3.Size = new System.Drawing.Size(1385, 661);
+            this.plot3.Size = new System.Drawing.Size(1008, 529);
             this.plot3.TabIndex = 7;
             this.plot3.UpdateFrameRate = 10D;
-            plotXAxis3.CanFocus = false;
-            plotXAxis3.DockOrder = 0;
-            plotXAxis3.Name = "Tempelate";
-            plotXAxis3.ScaleDisplay.GeneratorAuto.MinorCount = 10;
-            plotXAxis3.ScaleDisplay.TextFormatting.DateTimeFormat = "yyyy-MM-dd HH:mm:ss";
-            plotXAxis3.ScaleDisplay.TextFormatting.Style = Iocomp.Types.TextFormatDoubleStyle.DateTime;
-            plotXAxis3.ScaleRange.Span = 0.000694444446708076D;
-            plotXAxis3.Title.Text = "time";
-            this.plot3.XAxes.Add(plotXAxis3);
-            plotYAxis3.CanFocus = false;
-            plotYAxis3.DockOrder = 0;
-            plotYAxis3.Name = "Temperature";
-            plotYAxis3.ScaleRange.Span = 50D;
-            plotYAxis3.Title.Text = "Temperature";
-            this.plot3.YAxes.Add(plotYAxis3);
+            plotXAxis87.CanFocus = false;
+            plotXAxis87.DockOrder = 0;
+            plotXAxis87.Name = "Tempelate";
+            plotXAxis87.ScaleDisplay.GeneratorAuto.MinorCount = 10;
+            plotXAxis87.ScaleDisplay.TextFormatting.DateTimeFormat = "yyyy-MM-dd HH:mm:ss";
+            plotXAxis87.ScaleDisplay.TextFormatting.Style = Iocomp.Types.TextFormatDoubleStyle.DateTime;
+            plotXAxis87.ScaleRange.Span = 0.000694444446708076D;
+            plotXAxis87.Title.Text = "time";
+            this.plot3.XAxes.Add(plotXAxis87);
+            plotYAxis87.CanFocus = false;
+            plotYAxis87.DockOrder = 0;
+            plotYAxis87.Name = "Temperature";
+            plotYAxis87.ScaleRange.Span = 50D;
+            plotYAxis87.Title.Text = "Temperature";
+            this.plot3.YAxes.Add(plotYAxis87);
             this.plot3.LoadingEnd();
             // 
             // tabPage4
@@ -3785,11 +3582,10 @@
             this.tabPage4.Controls.Add(this.CH_THB);
             this.tabPage4.Controls.Add(this.plot2);
             this.tabPage4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.tabPage4.Location = new System.Drawing.Point(4, 35);
-            this.tabPage4.Margin = new System.Windows.Forms.Padding(4);
+            this.tabPage4.Location = new System.Drawing.Point(4, 31);
             this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Padding = new System.Windows.Forms.Padding(4);
-            this.tabPage4.Size = new System.Drawing.Size(1389, 727);
+            this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage4.Size = new System.Drawing.Size(1012, 551);
             this.tabPage4.TabIndex = 3;
             this.tabPage4.Text = "  恒温页  ";
             // 
@@ -3797,80 +3593,72 @@
             // 
             this.textBox15.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox15.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox15.Location = new System.Drawing.Point(893, 668);
-            this.textBox15.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox15.Location = new System.Drawing.Point(670, 534);
             this.textBox15.Name = "textBox15";
-            this.textBox15.Size = new System.Drawing.Size(64, 27);
+            this.textBox15.Size = new System.Drawing.Size(49, 23);
             this.textBox15.TabIndex = 43;
             // 
             // textBox32
             // 
             this.textBox32.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox32.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox32.Location = new System.Drawing.Point(760, 668);
-            this.textBox32.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox32.Location = new System.Drawing.Point(570, 534);
             this.textBox32.Name = "textBox32";
-            this.textBox32.Size = new System.Drawing.Size(64, 27);
+            this.textBox32.Size = new System.Drawing.Size(49, 23);
             this.textBox32.TabIndex = 41;
             // 
             // textBox17
             // 
             this.textBox17.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox17.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox17.Location = new System.Drawing.Point(627, 666);
-            this.textBox17.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox17.Location = new System.Drawing.Point(470, 533);
             this.textBox17.Name = "textBox17";
-            this.textBox17.Size = new System.Drawing.Size(64, 27);
+            this.textBox17.Size = new System.Drawing.Size(49, 23);
             this.textBox17.TabIndex = 39;
             // 
             // textBox18
             // 
             this.textBox18.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox18.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox18.Location = new System.Drawing.Point(493, 668);
-            this.textBox18.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox18.Location = new System.Drawing.Point(370, 534);
             this.textBox18.Name = "textBox18";
-            this.textBox18.Size = new System.Drawing.Size(64, 27);
+            this.textBox18.Size = new System.Drawing.Size(49, 23);
             this.textBox18.TabIndex = 37;
             // 
             // textBox19
             // 
             this.textBox19.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox19.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox19.Location = new System.Drawing.Point(360, 668);
-            this.textBox19.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox19.Location = new System.Drawing.Point(270, 534);
             this.textBox19.Name = "textBox19";
-            this.textBox19.Size = new System.Drawing.Size(64, 27);
+            this.textBox19.Size = new System.Drawing.Size(49, 23);
             this.textBox19.TabIndex = 35;
             // 
             // textBox20
             // 
             this.textBox20.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox20.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox20.Location = new System.Drawing.Point(227, 668);
-            this.textBox20.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox20.Location = new System.Drawing.Point(170, 534);
             this.textBox20.Name = "textBox20";
-            this.textBox20.Size = new System.Drawing.Size(64, 27);
+            this.textBox20.Size = new System.Drawing.Size(49, 23);
             this.textBox20.TabIndex = 33;
             // 
             // textBox21
             // 
             this.textBox21.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox21.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox21.Location = new System.Drawing.Point(93, 668);
-            this.textBox21.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox21.Location = new System.Drawing.Point(70, 534);
             this.textBox21.Name = "textBox21";
-            this.textBox21.Size = new System.Drawing.Size(64, 27);
+            this.textBox21.Size = new System.Drawing.Size(49, 23);
             this.textBox21.TabIndex = 31;
             // 
             // label22
             // 
             this.label22.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label22.AutoSize = true;
-            this.label22.Location = new System.Drawing.Point(843, 669);
-            this.label22.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label22.Location = new System.Drawing.Point(632, 535);
             this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(65, 23);
+            this.label22.Size = new System.Drawing.Size(53, 20);
             this.label22.TabIndex = 42;
             this.label22.Text = "ISOL：";
             // 
@@ -3878,10 +3666,9 @@
             // 
             this.label39.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label39.AutoSize = true;
-            this.label39.Location = new System.Drawing.Point(695, 669);
-            this.label39.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label39.Location = new System.Drawing.Point(521, 535);
             this.label39.Name = "label39";
-            this.label39.Size = new System.Drawing.Size(77, 23);
+            this.label39.Size = new System.Drawing.Size(62, 20);
             this.label39.TabIndex = 40;
             this.label39.Text = "OVN2：";
             // 
@@ -3889,10 +3676,9 @@
             // 
             this.label24.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label24.AutoSize = true;
-            this.label24.Location = new System.Drawing.Point(564, 669);
-            this.label24.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label24.Location = new System.Drawing.Point(423, 535);
             this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(77, 23);
+            this.label24.Size = new System.Drawing.Size(62, 20);
             this.label24.TabIndex = 38;
             this.label24.Text = "OVN1：";
             // 
@@ -3900,10 +3686,9 @@
             // 
             this.label25.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label25.AutoSize = true;
-            this.label25.Location = new System.Drawing.Point(432, 670);
-            this.label25.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label25.Location = new System.Drawing.Point(324, 536);
             this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(72, 23);
+            this.label25.Size = new System.Drawing.Size(60, 20);
             this.label25.TabIndex = 36;
             this.label25.Text = "NECK：";
             // 
@@ -3911,10 +3696,9 @@
             // 
             this.label26.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label26.AutoSize = true;
-            this.label26.Location = new System.Drawing.Point(309, 669);
-            this.label26.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label26.Location = new System.Drawing.Point(232, 535);
             this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(63, 23);
+            this.label26.Size = new System.Drawing.Size(53, 20);
             this.label26.TabIndex = 34;
             this.label26.Text = "THD：";
             // 
@@ -3922,10 +3706,9 @@
             // 
             this.label27.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label27.AutoSize = true;
-            this.label27.Location = new System.Drawing.Point(177, 669);
-            this.label27.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label27.Location = new System.Drawing.Point(133, 535);
             this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(61, 23);
+            this.label27.Size = new System.Drawing.Size(51, 20);
             this.label27.TabIndex = 32;
             this.label27.Text = "THC：";
             // 
@@ -3933,10 +3716,9 @@
             // 
             this.label28.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label28.AutoSize = true;
-            this.label28.Location = new System.Drawing.Point(43, 670);
-            this.label28.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label28.Location = new System.Drawing.Point(32, 536);
             this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(61, 23);
+            this.label28.Size = new System.Drawing.Size(51, 20);
             this.label28.TabIndex = 30;
             this.label28.Text = "THB：";
             // 
@@ -3946,10 +3728,9 @@
             this.CH_ISOL.BackColor = System.Drawing.Color.White;
             this.CH_ISOL.Checked = true;
             this.CH_ISOL.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_ISOL.Location = new System.Drawing.Point(599, 8);
-            this.CH_ISOL.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_ISOL.Location = new System.Drawing.Point(449, 6);
             this.CH_ISOL.Name = "CH_ISOL";
-            this.CH_ISOL.Size = new System.Drawing.Size(70, 27);
+            this.CH_ISOL.Size = new System.Drawing.Size(58, 24);
             this.CH_ISOL.TabIndex = 26;
             this.CH_ISOL.Text = "ISOL";
             this.CH_ISOL.UseVisualStyleBackColor = false;
@@ -3961,10 +3742,9 @@
             this.CH_OVN2.BackColor = System.Drawing.Color.White;
             this.CH_OVN2.Checked = true;
             this.CH_OVN2.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_OVN2.Location = new System.Drawing.Point(505, 8);
-            this.CH_OVN2.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_OVN2.Location = new System.Drawing.Point(379, 6);
             this.CH_OVN2.Name = "CH_OVN2";
-            this.CH_OVN2.Size = new System.Drawing.Size(82, 27);
+            this.CH_OVN2.Size = new System.Drawing.Size(67, 24);
             this.CH_OVN2.TabIndex = 25;
             this.CH_OVN2.Text = "OVN2";
             this.CH_OVN2.UseVisualStyleBackColor = false;
@@ -3976,10 +3756,9 @@
             this.CH_OVN1.BackColor = System.Drawing.Color.White;
             this.CH_OVN1.Checked = true;
             this.CH_OVN1.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_OVN1.Location = new System.Drawing.Point(413, 8);
-            this.CH_OVN1.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_OVN1.Location = new System.Drawing.Point(310, 6);
             this.CH_OVN1.Name = "CH_OVN1";
-            this.CH_OVN1.Size = new System.Drawing.Size(82, 27);
+            this.CH_OVN1.Size = new System.Drawing.Size(67, 24);
             this.CH_OVN1.TabIndex = 24;
             this.CH_OVN1.Text = "OVN1";
             this.CH_OVN1.UseVisualStyleBackColor = false;
@@ -3991,10 +3770,9 @@
             this.CH_NECK.BackColor = System.Drawing.Color.White;
             this.CH_NECK.Checked = true;
             this.CH_NECK.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_NECK.Location = new System.Drawing.Point(321, 8);
-            this.CH_NECK.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_NECK.Location = new System.Drawing.Point(241, 6);
             this.CH_NECK.Name = "CH_NECK";
-            this.CH_NECK.Size = new System.Drawing.Size(77, 27);
+            this.CH_NECK.Size = new System.Drawing.Size(65, 24);
             this.CH_NECK.TabIndex = 23;
             this.CH_NECK.Text = "NECK";
             this.CH_NECK.UseVisualStyleBackColor = false;
@@ -4006,10 +3784,9 @@
             this.CH_THD.BackColor = System.Drawing.Color.White;
             this.CH_THD.Checked = true;
             this.CH_THD.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_THD.Location = new System.Drawing.Point(245, 8);
-            this.CH_THD.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_THD.Location = new System.Drawing.Point(184, 6);
             this.CH_THD.Name = "CH_THD";
-            this.CH_THD.Size = new System.Drawing.Size(68, 27);
+            this.CH_THD.Size = new System.Drawing.Size(58, 24);
             this.CH_THD.TabIndex = 22;
             this.CH_THD.Text = "THD";
             this.CH_THD.UseVisualStyleBackColor = false;
@@ -4021,10 +3798,9 @@
             this.CH_THC.BackColor = System.Drawing.Color.White;
             this.CH_THC.Checked = true;
             this.CH_THC.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_THC.Location = new System.Drawing.Point(173, 8);
-            this.CH_THC.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_THC.Location = new System.Drawing.Point(130, 6);
             this.CH_THC.Name = "CH_THC";
-            this.CH_THC.Size = new System.Drawing.Size(66, 27);
+            this.CH_THC.Size = new System.Drawing.Size(56, 24);
             this.CH_THC.TabIndex = 21;
             this.CH_THC.Text = "THC";
             this.CH_THC.UseVisualStyleBackColor = false;
@@ -4036,10 +3812,9 @@
             this.CH_THB.BackColor = System.Drawing.Color.White;
             this.CH_THB.Checked = true;
             this.CH_THB.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_THB.Location = new System.Drawing.Point(104, 8);
-            this.CH_THB.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_THB.Location = new System.Drawing.Point(78, 6);
             this.CH_THB.Name = "CH_THB";
-            this.CH_THB.Size = new System.Drawing.Size(66, 27);
+            this.CH_THB.Size = new System.Drawing.Size(56, 24);
             this.CH_THB.TabIndex = 20;
             this.CH_THB.Text = "THB";
             this.CH_THB.UseVisualStyleBackColor = false;
@@ -4055,125 +3830,124 @@
             this.plot2.Background.GradientStartColor = System.Drawing.Color.Transparent;
             this.plot2.Background.GradientStopColor = System.Drawing.Color.Empty;
             this.plot2.Background.Visible = true;
-            plotChannelTrace41.CanFocus = false;
-            plotChannelTrace41.Color = System.Drawing.Color.Red;
-            plotChannelTrace41.Fill.Brush.Style = Iocomp.Types.PlotBrushStyle.GradientBackwardDiagonal;
-            plotChannelTrace41.Markers.Size = 2;
-            plotChannelTrace41.Name = "THB";
-            plotChannelTrace41.OPCXValueSource = Iocomp.Types.OPCXValueType.SystemClock;
-            plotChannelTrace41.TitleText = "THB";
-            plotChannelTrace41.Trace.Thickness = 2D;
-            plotChannelTrace41.XAxisName = "Tempelate";
-            plotChannelTrace41.YAxisName = "Temperature";
-            plotChannelTrace42.CanFocus = false;
-            plotChannelTrace42.Color = System.Drawing.Color.Blue;
-            plotChannelTrace42.Name = "THC";
-            plotChannelTrace42.TitleText = "THC";
-            plotChannelTrace42.Trace.Thickness = 2D;
-            plotChannelTrace42.XAxisName = "Tempelate";
-            plotChannelTrace42.YAxisName = "Temperature";
-            plotChannelTrace43.CanFocus = false;
-            plotChannelTrace43.Color = System.Drawing.Color.Lime;
-            plotChannelTrace43.Name = "THD";
-            plotChannelTrace43.TitleText = "THD";
-            plotChannelTrace43.Trace.Thickness = 2D;
-            plotChannelTrace43.XAxisName = "Tempelate";
-            plotChannelTrace43.YAxisName = "Temperature";
-            plotChannelTrace44.CanFocus = false;
-            plotChannelTrace44.Color = System.Drawing.Color.Yellow;
-            plotChannelTrace44.Name = "NECK";
-            plotChannelTrace44.TitleText = "NECK";
-            plotChannelTrace44.Trace.Color = System.Drawing.Color.Olive;
-            plotChannelTrace44.Trace.Thickness = 2D;
-            plotChannelTrace44.XAxisName = "Tempelate";
-            plotChannelTrace44.YAxisName = "Temperature";
-            plotChannelTrace45.CanFocus = false;
-            plotChannelTrace45.Color = System.Drawing.Color.Aqua;
-            plotChannelTrace45.Name = "OVN1";
-            plotChannelTrace45.TitleText = "OVN1";
-            plotChannelTrace45.Trace.Color = System.Drawing.Color.DarkSlateGray;
-            plotChannelTrace45.Trace.Thickness = 2D;
-            plotChannelTrace45.XAxisName = "Tempelate";
-            plotChannelTrace45.YAxisName = "Temperature";
-            plotChannelTrace46.CanFocus = false;
-            plotChannelTrace46.Color = System.Drawing.Color.White;
-            plotChannelTrace46.Name = "OVN2";
-            plotChannelTrace46.TitleText = "OVN2";
-            plotChannelTrace46.Trace.Color = System.Drawing.Color.Brown;
-            plotChannelTrace46.Trace.Thickness = 2D;
-            plotChannelTrace46.XAxisName = "Tempelate";
-            plotChannelTrace46.YAxisName = "Temperature";
-            plotChannelTrace47.CanFocus = false;
-            plotChannelTrace47.Color = System.Drawing.Color.Red;
-            plotChannelTrace47.Name = "ISOL";
-            plotChannelTrace47.TitleText = "ISOL";
-            plotChannelTrace47.Trace.Color = System.Drawing.Color.RosyBrown;
-            plotChannelTrace47.Trace.Thickness = 2D;
-            plotChannelTrace47.XAxisName = "Tempelate";
-            plotChannelTrace47.YAxisName = "Temperature";
-            this.plot2.Channels.Add(plotChannelTrace41);
-            this.plot2.Channels.Add(plotChannelTrace42);
-            this.plot2.Channels.Add(plotChannelTrace43);
-            this.plot2.Channels.Add(plotChannelTrace44);
-            this.plot2.Channels.Add(plotChannelTrace45);
-            this.plot2.Channels.Add(plotChannelTrace46);
-            this.plot2.Channels.Add(plotChannelTrace47);
-            plotDataCursorXY7.CanFocus = false;
-            plotDataCursorXY7.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
-            plotDataCursorXY7.MasterControl = true;
-            plotDataCursorXY7.Name = "Data-Cursor 1";
-            plotDataCursorXY7.TitleText = "Data-Cursor 1";
-            plotDataCursorXY7.XAxisName = "Tempelate";
-            plotDataCursorXY7.YAxisName = "Temperature";
-            plotDataCursorXY8.CanFocus = false;
-            plotDataCursorXY8.Color = System.Drawing.Color.Black;
-            plotDataCursorXY8.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
-            plotDataCursorXY8.Line.Style = Iocomp.Types.PlotPenStyle.Dash;
-            plotDataCursorXY8.MasterControl = true;
-            plotDataCursorXY8.Name = "Data-Cursor 2";
-            plotDataCursorXY8.TitleText = "Data-Cursor 2";
-            plotDataCursorXY8.Window.Visible = false;
-            plotDataCursorXY8.XAxisName = "Tempelate";
-            plotDataCursorXY8.YAxisName = "Humidity";
-            this.plot2.DataCursors.Add(plotDataCursorXY7);
-            this.plot2.DataCursors.Add(plotDataCursorXY8);
-            plotDataView4.CanFocus = false;
-            plotDataView4.Name = "Data-View 1";
-            plotDataView4.TitleText = "Data-View 1";
-            this.plot2.DataViews.Add(plotDataView4);
+            plotChannelTrace853.CanFocus = false;
+            plotChannelTrace853.Color = System.Drawing.Color.Red;
+            plotChannelTrace853.Fill.Brush.Style = Iocomp.Types.PlotBrushStyle.GradientBackwardDiagonal;
+            plotChannelTrace853.Markers.Size = 2;
+            plotChannelTrace853.Name = "THB";
+            plotChannelTrace853.OPCXValueSource = Iocomp.Types.OPCXValueType.SystemClock;
+            plotChannelTrace853.TitleText = "THB";
+            plotChannelTrace853.Trace.Thickness = 2D;
+            plotChannelTrace853.XAxisName = "Tempelate";
+            plotChannelTrace853.YAxisName = "Temperature";
+            plotChannelTrace854.CanFocus = false;
+            plotChannelTrace854.Color = System.Drawing.Color.Blue;
+            plotChannelTrace854.Name = "THC";
+            plotChannelTrace854.TitleText = "THC";
+            plotChannelTrace854.Trace.Thickness = 2D;
+            plotChannelTrace854.XAxisName = "Tempelate";
+            plotChannelTrace854.YAxisName = "Temperature";
+            plotChannelTrace855.CanFocus = false;
+            plotChannelTrace855.Color = System.Drawing.Color.Lime;
+            plotChannelTrace855.Name = "THD";
+            plotChannelTrace855.TitleText = "THD";
+            plotChannelTrace855.Trace.Thickness = 2D;
+            plotChannelTrace855.XAxisName = "Tempelate";
+            plotChannelTrace855.YAxisName = "Temperature";
+            plotChannelTrace856.CanFocus = false;
+            plotChannelTrace856.Color = System.Drawing.Color.Yellow;
+            plotChannelTrace856.Name = "NECK";
+            plotChannelTrace856.TitleText = "NECK";
+            plotChannelTrace856.Trace.Color = System.Drawing.Color.Olive;
+            plotChannelTrace856.Trace.Thickness = 2D;
+            plotChannelTrace856.XAxisName = "Tempelate";
+            plotChannelTrace856.YAxisName = "Temperature";
+            plotChannelTrace857.CanFocus = false;
+            plotChannelTrace857.Color = System.Drawing.Color.Aqua;
+            plotChannelTrace857.Name = "OVN1";
+            plotChannelTrace857.TitleText = "OVN1";
+            plotChannelTrace857.Trace.Color = System.Drawing.Color.DarkSlateGray;
+            plotChannelTrace857.Trace.Thickness = 2D;
+            plotChannelTrace857.XAxisName = "Tempelate";
+            plotChannelTrace857.YAxisName = "Temperature";
+            plotChannelTrace858.CanFocus = false;
+            plotChannelTrace858.Color = System.Drawing.Color.White;
+            plotChannelTrace858.Name = "OVN2";
+            plotChannelTrace858.TitleText = "OVN2";
+            plotChannelTrace858.Trace.Color = System.Drawing.Color.Brown;
+            plotChannelTrace858.Trace.Thickness = 2D;
+            plotChannelTrace858.XAxisName = "Tempelate";
+            plotChannelTrace858.YAxisName = "Temperature";
+            plotChannelTrace859.CanFocus = false;
+            plotChannelTrace859.Color = System.Drawing.Color.Red;
+            plotChannelTrace859.Name = "ISOL";
+            plotChannelTrace859.TitleText = "ISOL";
+            plotChannelTrace859.Trace.Color = System.Drawing.Color.RosyBrown;
+            plotChannelTrace859.Trace.Thickness = 2D;
+            plotChannelTrace859.XAxisName = "Tempelate";
+            plotChannelTrace859.YAxisName = "Temperature";
+            this.plot2.Channels.Add(plotChannelTrace853);
+            this.plot2.Channels.Add(plotChannelTrace854);
+            this.plot2.Channels.Add(plotChannelTrace855);
+            this.plot2.Channels.Add(plotChannelTrace856);
+            this.plot2.Channels.Add(plotChannelTrace857);
+            this.plot2.Channels.Add(plotChannelTrace858);
+            this.plot2.Channels.Add(plotChannelTrace859);
+            plotDataCursorXY175.CanFocus = false;
+            plotDataCursorXY175.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
+            plotDataCursorXY175.MasterControl = true;
+            plotDataCursorXY175.Name = "Data-Cursor 1";
+            plotDataCursorXY175.TitleText = "Data-Cursor 1";
+            plotDataCursorXY175.XAxisName = "Tempelate";
+            plotDataCursorXY175.YAxisName = "Temperature";
+            plotDataCursorXY176.CanFocus = false;
+            plotDataCursorXY176.Color = System.Drawing.Color.Black;
+            plotDataCursorXY176.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
+            plotDataCursorXY176.Line.Style = Iocomp.Types.PlotPenStyle.Dash;
+            plotDataCursorXY176.MasterControl = true;
+            plotDataCursorXY176.Name = "Data-Cursor 2";
+            plotDataCursorXY176.TitleText = "Data-Cursor 2";
+            plotDataCursorXY176.Window.Visible = false;
+            plotDataCursorXY176.XAxisName = "Tempelate";
+            plotDataCursorXY176.YAxisName = "Humidity";
+            this.plot2.DataCursors.Add(plotDataCursorXY175);
+            this.plot2.DataCursors.Add(plotDataCursorXY176);
+            plotDataView88.CanFocus = false;
+            plotDataView88.Name = "Data-View 1";
+            plotDataView88.TitleText = "Data-View 1";
+            this.plot2.DataViews.Add(plotDataView88);
             this.plot2.DefaultGridLineColor = System.Drawing.SystemColors.ActiveBorder;
             this.plot2.DefaultSaveImagePath = "C:\\Users\\Administrator\\Desktop";
             this.plot2.ForeColor = System.Drawing.Color.Black;
-            plotLegendBasic4.CanFocus = false;
-            plotLegendBasic4.DockOrder = 2;
-            plotLegendBasic4.DockStyle = Iocomp.Types.PlotDockStyleAll.DataView;
-            plotLegendBasic4.Name = "Legend 1";
-            plotLegendBasic4.TitleText = "Legend 1";
-            this.plot2.Legends.Add(plotLegendBasic4);
+            plotLegendBasic88.CanFocus = false;
+            plotLegendBasic88.DockOrder = 2;
+            plotLegendBasic88.DockStyle = Iocomp.Types.PlotDockStyleAll.DataView;
+            plotLegendBasic88.Name = "Legend 1";
+            plotLegendBasic88.TitleText = "Legend 1";
+            this.plot2.Legends.Add(plotLegendBasic88);
             this.plot2.Location = new System.Drawing.Point(0, -1);
-            this.plot2.Margin = new System.Windows.Forms.Padding(4);
             this.plot2.Name = "plot2";
             this.plot2.PrintAdapter.MarginLeft = 0D;
             this.plot2.PrintAdapter.MarginTop = 0D;
             this.plot2.PrintAdapter.SizingStyle = Iocomp.Types.PlotPrintSizingStyle.Stretch;
-            this.plot2.Size = new System.Drawing.Size(1385, 661);
+            this.plot2.Size = new System.Drawing.Size(1008, 529);
             this.plot2.TabIndex = 7;
             this.plot2.UpdateFrameRate = 10D;
-            plotXAxis4.CanFocus = false;
-            plotXAxis4.DockOrder = 0;
-            plotXAxis4.Name = "Tempelate";
-            plotXAxis4.ScaleDisplay.GeneratorAuto.MinorCount = 10;
-            plotXAxis4.ScaleDisplay.TextFormatting.DateTimeFormat = "yyyy-MM-dd HH:mm:ss";
-            plotXAxis4.ScaleDisplay.TextFormatting.Style = Iocomp.Types.TextFormatDoubleStyle.DateTime;
-            plotXAxis4.ScaleRange.Span = 0.000694444446708076D;
-            plotXAxis4.Title.Text = "time";
-            this.plot2.XAxes.Add(plotXAxis4);
-            plotYAxis4.CanFocus = false;
-            plotYAxis4.DockOrder = 0;
-            plotYAxis4.Name = "Temperature";
-            plotYAxis4.ScaleRange.Span = 50D;
-            plotYAxis4.Title.Text = "Temperature";
-            this.plot2.YAxes.Add(plotYAxis4);
+            plotXAxis88.CanFocus = false;
+            plotXAxis88.DockOrder = 0;
+            plotXAxis88.Name = "Tempelate";
+            plotXAxis88.ScaleDisplay.GeneratorAuto.MinorCount = 10;
+            plotXAxis88.ScaleDisplay.TextFormatting.DateTimeFormat = "yyyy-MM-dd HH:mm:ss";
+            plotXAxis88.ScaleDisplay.TextFormatting.Style = Iocomp.Types.TextFormatDoubleStyle.DateTime;
+            plotXAxis88.ScaleRange.Span = 0.000694444446708076D;
+            plotXAxis88.Title.Text = "time";
+            this.plot2.XAxes.Add(plotXAxis88);
+            plotYAxis88.CanFocus = false;
+            plotYAxis88.DockOrder = 0;
+            plotYAxis88.Name = "Temperature";
+            plotYAxis88.ScaleRange.Span = 50D;
+            plotYAxis88.Title.Text = "Temperature";
+            this.plot2.YAxes.Add(plotYAxis88);
             this.plot2.LoadingEnd();
             // 
             // tabPage3
@@ -4194,11 +3968,10 @@
             this.tabPage3.Controls.Add(this.CH_IONV);
             this.tabPage3.Controls.Add(this.plot1);
             this.tabPage3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.tabPage3.Location = new System.Drawing.Point(4, 35);
-            this.tabPage3.Margin = new System.Windows.Forms.Padding(4);
+            this.tabPage3.Location = new System.Drawing.Point(4, 31);
             this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Padding = new System.Windows.Forms.Padding(4);
-            this.tabPage3.Size = new System.Drawing.Size(1389, 727);
+            this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage3.Size = new System.Drawing.Size(1012, 551);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "  离子泵页  ";
             // 
@@ -4206,50 +3979,45 @@
             // 
             this.textBox12.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox12.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox12.Location = new System.Drawing.Point(493, 669);
-            this.textBox12.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox12.Location = new System.Drawing.Point(370, 535);
             this.textBox12.Name = "textBox12";
-            this.textBox12.Size = new System.Drawing.Size(64, 27);
+            this.textBox12.Size = new System.Drawing.Size(49, 23);
             this.textBox12.TabIndex = 39;
             // 
             // textBox13
             // 
             this.textBox13.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox13.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox13.Location = new System.Drawing.Point(360, 669);
-            this.textBox13.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox13.Location = new System.Drawing.Point(270, 535);
             this.textBox13.Name = "textBox13";
-            this.textBox13.Size = new System.Drawing.Size(64, 27);
+            this.textBox13.Size = new System.Drawing.Size(49, 23);
             this.textBox13.TabIndex = 37;
             // 
             // textBox14
             // 
             this.textBox14.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox14.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox14.Location = new System.Drawing.Point(227, 669);
-            this.textBox14.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox14.Location = new System.Drawing.Point(170, 535);
             this.textBox14.Name = "textBox14";
-            this.textBox14.Size = new System.Drawing.Size(64, 27);
+            this.textBox14.Size = new System.Drawing.Size(49, 23);
             this.textBox14.TabIndex = 35;
             // 
             // textBox16
             // 
             this.textBox16.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox16.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox16.Location = new System.Drawing.Point(93, 669);
-            this.textBox16.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox16.Location = new System.Drawing.Point(70, 535);
             this.textBox16.Name = "textBox16";
-            this.textBox16.Size = new System.Drawing.Size(64, 27);
+            this.textBox16.Size = new System.Drawing.Size(49, 23);
             this.textBox16.TabIndex = 31;
             // 
             // label19
             // 
             this.label19.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label19.AutoSize = true;
-            this.label19.Location = new System.Drawing.Point(451, 670);
-            this.label19.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label19.Location = new System.Drawing.Point(338, 536);
             this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(56, 23);
+            this.label19.Size = new System.Drawing.Size(46, 20);
             this.label19.TabIndex = 38;
             this.label19.Text = "FLR：";
             // 
@@ -4257,10 +4025,9 @@
             // 
             this.label20.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label20.AutoSize = true;
-            this.label20.Location = new System.Drawing.Point(305, 670);
-            this.label20.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label20.Location = new System.Drawing.Point(229, 536);
             this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(69, 23);
+            this.label20.Size = new System.Drawing.Size(56, 20);
             this.label20.TabIndex = 36;
             this.label20.Text = "FLUX：";
             // 
@@ -4268,10 +4035,9 @@
             // 
             this.label21.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label21.AutoSize = true;
-            this.label21.Location = new System.Drawing.Point(175, 670);
-            this.label21.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label21.Location = new System.Drawing.Point(131, 536);
             this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(65, 23);
+            this.label21.Size = new System.Drawing.Size(53, 20);
             this.label21.TabIndex = 34;
             this.label21.Text = "IONI：";
             // 
@@ -4279,10 +4045,9 @@
             // 
             this.label23.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label23.AutoSize = true;
-            this.label23.Location = new System.Drawing.Point(36, 670);
-            this.label23.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label23.Location = new System.Drawing.Point(27, 536);
             this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(72, 23);
+            this.label23.Size = new System.Drawing.Size(58, 20);
             this.label23.TabIndex = 30;
             this.label23.Text = "IONV：";
             // 
@@ -4292,10 +4057,9 @@
             this.CH_FLR.BackColor = System.Drawing.Color.White;
             this.CH_FLR.Checked = true;
             this.CH_FLR.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_FLR.Location = new System.Drawing.Point(367, 9);
-            this.CH_FLR.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_FLR.Location = new System.Drawing.Point(275, 7);
             this.CH_FLR.Name = "CH_FLR";
-            this.CH_FLR.Size = new System.Drawing.Size(61, 27);
+            this.CH_FLR.Size = new System.Drawing.Size(51, 24);
             this.CH_FLR.TabIndex = 18;
             this.CH_FLR.Text = "FLR";
             this.CH_FLR.UseVisualStyleBackColor = false;
@@ -4307,10 +4071,9 @@
             this.CH_FLUX.BackColor = System.Drawing.Color.White;
             this.CH_FLUX.Checked = true;
             this.CH_FLUX.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_FLUX.Location = new System.Drawing.Point(273, 9);
-            this.CH_FLUX.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_FLUX.Location = new System.Drawing.Point(205, 7);
             this.CH_FLUX.Name = "CH_FLUX";
-            this.CH_FLUX.Size = new System.Drawing.Size(74, 27);
+            this.CH_FLUX.Size = new System.Drawing.Size(61, 24);
             this.CH_FLUX.TabIndex = 17;
             this.CH_FLUX.Text = "FLUX";
             this.CH_FLUX.UseVisualStyleBackColor = false;
@@ -4322,10 +4085,9 @@
             this.CH_IONI.BackColor = System.Drawing.Color.White;
             this.CH_IONI.Checked = true;
             this.CH_IONI.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_IONI.Location = new System.Drawing.Point(189, 9);
-            this.CH_IONI.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_IONI.Location = new System.Drawing.Point(142, 7);
             this.CH_IONI.Name = "CH_IONI";
-            this.CH_IONI.Size = new System.Drawing.Size(70, 27);
+            this.CH_IONI.Size = new System.Drawing.Size(58, 24);
             this.CH_IONI.TabIndex = 16;
             this.CH_IONI.Text = "IONI";
             this.CH_IONI.UseVisualStyleBackColor = false;
@@ -4337,10 +4099,9 @@
             this.CH_IONV.BackColor = System.Drawing.Color.White;
             this.CH_IONV.Checked = true;
             this.CH_IONV.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.CH_IONV.Location = new System.Drawing.Point(104, 9);
-            this.CH_IONV.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_IONV.Location = new System.Drawing.Point(78, 7);
             this.CH_IONV.Name = "CH_IONV";
-            this.CH_IONV.Size = new System.Drawing.Size(77, 27);
+            this.CH_IONV.Size = new System.Drawing.Size(63, 24);
             this.CH_IONV.TabIndex = 15;
             this.CH_IONV.Text = "IONV";
             this.CH_IONV.UseVisualStyleBackColor = false;
@@ -4356,98 +4117,97 @@
             this.plot1.Background.GradientStartColor = System.Drawing.Color.Transparent;
             this.plot1.Background.GradientStopColor = System.Drawing.Color.Empty;
             this.plot1.Background.Visible = true;
-            plotChannelTrace48.CanFocus = false;
-            plotChannelTrace48.Color = System.Drawing.Color.Red;
-            plotChannelTrace48.Fill.Brush.Style = Iocomp.Types.PlotBrushStyle.GradientBackwardDiagonal;
-            plotChannelTrace48.Markers.Size = 2;
-            plotChannelTrace48.Name = "IONV";
-            plotChannelTrace48.OPCXValueSource = Iocomp.Types.OPCXValueType.SystemClock;
-            plotChannelTrace48.TitleText = "IONV";
-            plotChannelTrace48.Trace.Thickness = 2D;
-            plotChannelTrace48.XAxisName = "Tempelate";
-            plotChannelTrace48.YAxisName = "Temperature";
-            plotChannelTrace49.CanFocus = false;
-            plotChannelTrace49.Color = System.Drawing.Color.Blue;
-            plotChannelTrace49.Name = "IONI";
-            plotChannelTrace49.TitleText = "IONI";
-            plotChannelTrace49.Trace.Thickness = 2D;
-            plotChannelTrace49.XAxisName = "Tempelate";
-            plotChannelTrace49.YAxisName = "Temperature";
-            plotChannelTrace50.CanFocus = false;
-            plotChannelTrace50.Color = System.Drawing.Color.Lime;
-            plotChannelTrace50.Name = "FLUX";
-            plotChannelTrace50.TitleText = "FLUX";
-            plotChannelTrace50.Trace.Thickness = 2D;
-            plotChannelTrace50.XAxisName = "Tempelate";
-            plotChannelTrace50.YAxisName = "Temperature";
-            plotChannelTrace51.CanFocus = false;
-            plotChannelTrace51.Color = System.Drawing.Color.Yellow;
-            plotChannelTrace51.Name = "FLR";
-            plotChannelTrace51.TitleText = "FLR";
-            plotChannelTrace51.Trace.Color = System.Drawing.Color.Olive;
-            plotChannelTrace51.Trace.Thickness = 2D;
-            plotChannelTrace51.XAxisName = "Tempelate";
-            plotChannelTrace51.YAxisName = "Temperature";
-            this.plot1.Channels.Add(plotChannelTrace48);
-            this.plot1.Channels.Add(plotChannelTrace49);
-            this.plot1.Channels.Add(plotChannelTrace50);
-            this.plot1.Channels.Add(plotChannelTrace51);
-            plotDataCursorXY9.CanFocus = false;
-            plotDataCursorXY9.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
-            plotDataCursorXY9.MasterControl = true;
-            plotDataCursorXY9.Name = "Data-Cursor 1";
-            plotDataCursorXY9.TitleText = "Data-Cursor 1";
-            plotDataCursorXY9.XAxisName = "Tempelate";
-            plotDataCursorXY9.YAxisName = "Temperature";
-            plotDataCursorXY10.CanFocus = false;
-            plotDataCursorXY10.Color = System.Drawing.Color.Black;
-            plotDataCursorXY10.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
-            plotDataCursorXY10.Line.Style = Iocomp.Types.PlotPenStyle.Dash;
-            plotDataCursorXY10.MasterControl = true;
-            plotDataCursorXY10.Name = "Data-Cursor 2";
-            plotDataCursorXY10.TitleText = "Data-Cursor 2";
-            plotDataCursorXY10.Window.Visible = false;
-            plotDataCursorXY10.XAxisName = "Tempelate";
-            plotDataCursorXY10.YAxisName = "Humidity";
-            this.plot1.DataCursors.Add(plotDataCursorXY9);
-            this.plot1.DataCursors.Add(plotDataCursorXY10);
-            plotDataView5.CanFocus = false;
-            plotDataView5.Name = "Data-View 1";
-            plotDataView5.TitleText = "Data-View 1";
-            this.plot1.DataViews.Add(plotDataView5);
+            plotChannelTrace860.CanFocus = false;
+            plotChannelTrace860.Color = System.Drawing.Color.Red;
+            plotChannelTrace860.Fill.Brush.Style = Iocomp.Types.PlotBrushStyle.GradientBackwardDiagonal;
+            plotChannelTrace860.Markers.Size = 2;
+            plotChannelTrace860.Name = "IONV";
+            plotChannelTrace860.OPCXValueSource = Iocomp.Types.OPCXValueType.SystemClock;
+            plotChannelTrace860.TitleText = "IONV";
+            plotChannelTrace860.Trace.Thickness = 2D;
+            plotChannelTrace860.XAxisName = "Tempelate";
+            plotChannelTrace860.YAxisName = "Temperature";
+            plotChannelTrace861.CanFocus = false;
+            plotChannelTrace861.Color = System.Drawing.Color.Blue;
+            plotChannelTrace861.Name = "IONI";
+            plotChannelTrace861.TitleText = "IONI";
+            plotChannelTrace861.Trace.Thickness = 2D;
+            plotChannelTrace861.XAxisName = "Tempelate";
+            plotChannelTrace861.YAxisName = "Temperature";
+            plotChannelTrace862.CanFocus = false;
+            plotChannelTrace862.Color = System.Drawing.Color.Lime;
+            plotChannelTrace862.Name = "FLUX";
+            plotChannelTrace862.TitleText = "FLUX";
+            plotChannelTrace862.Trace.Thickness = 2D;
+            plotChannelTrace862.XAxisName = "Tempelate";
+            plotChannelTrace862.YAxisName = "Temperature";
+            plotChannelTrace863.CanFocus = false;
+            plotChannelTrace863.Color = System.Drawing.Color.Yellow;
+            plotChannelTrace863.Name = "FLR";
+            plotChannelTrace863.TitleText = "FLR";
+            plotChannelTrace863.Trace.Color = System.Drawing.Color.Olive;
+            plotChannelTrace863.Trace.Thickness = 2D;
+            plotChannelTrace863.XAxisName = "Tempelate";
+            plotChannelTrace863.YAxisName = "Temperature";
+            this.plot1.Channels.Add(plotChannelTrace860);
+            this.plot1.Channels.Add(plotChannelTrace861);
+            this.plot1.Channels.Add(plotChannelTrace862);
+            this.plot1.Channels.Add(plotChannelTrace863);
+            plotDataCursorXY177.CanFocus = false;
+            plotDataCursorXY177.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
+            plotDataCursorXY177.MasterControl = true;
+            plotDataCursorXY177.Name = "Data-Cursor 1";
+            plotDataCursorXY177.TitleText = "Data-Cursor 1";
+            plotDataCursorXY177.XAxisName = "Tempelate";
+            plotDataCursorXY177.YAxisName = "Temperature";
+            plotDataCursorXY178.CanFocus = false;
+            plotDataCursorXY178.Color = System.Drawing.Color.Black;
+            plotDataCursorXY178.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
+            plotDataCursorXY178.Line.Style = Iocomp.Types.PlotPenStyle.Dash;
+            plotDataCursorXY178.MasterControl = true;
+            plotDataCursorXY178.Name = "Data-Cursor 2";
+            plotDataCursorXY178.TitleText = "Data-Cursor 2";
+            plotDataCursorXY178.Window.Visible = false;
+            plotDataCursorXY178.XAxisName = "Tempelate";
+            plotDataCursorXY178.YAxisName = "Humidity";
+            this.plot1.DataCursors.Add(plotDataCursorXY177);
+            this.plot1.DataCursors.Add(plotDataCursorXY178);
+            plotDataView89.CanFocus = false;
+            plotDataView89.Name = "Data-View 1";
+            plotDataView89.TitleText = "Data-View 1";
+            this.plot1.DataViews.Add(plotDataView89);
             this.plot1.DefaultGridLineColor = System.Drawing.SystemColors.ActiveBorder;
             this.plot1.DefaultSaveImagePath = "C:\\Users\\Administrator\\Desktop";
             this.plot1.ForeColor = System.Drawing.Color.Black;
-            plotLegendBasic5.CanFocus = false;
-            plotLegendBasic5.DockOrder = 2;
-            plotLegendBasic5.DockStyle = Iocomp.Types.PlotDockStyleAll.DataView;
-            plotLegendBasic5.Name = "Legend 1";
-            plotLegendBasic5.TitleText = "Legend 1";
-            this.plot1.Legends.Add(plotLegendBasic5);
+            plotLegendBasic89.CanFocus = false;
+            plotLegendBasic89.DockOrder = 2;
+            plotLegendBasic89.DockStyle = Iocomp.Types.PlotDockStyleAll.DataView;
+            plotLegendBasic89.Name = "Legend 1";
+            plotLegendBasic89.TitleText = "Legend 1";
+            this.plot1.Legends.Add(plotLegendBasic89);
             this.plot1.Location = new System.Drawing.Point(0, -1);
-            this.plot1.Margin = new System.Windows.Forms.Padding(4);
             this.plot1.Name = "plot1";
             this.plot1.PrintAdapter.MarginLeft = 0D;
             this.plot1.PrintAdapter.MarginTop = 0D;
             this.plot1.PrintAdapter.SizingStyle = Iocomp.Types.PlotPrintSizingStyle.Stretch;
-            this.plot1.Size = new System.Drawing.Size(1385, 661);
+            this.plot1.Size = new System.Drawing.Size(1008, 529);
             this.plot1.TabIndex = 7;
             this.plot1.UpdateFrameRate = 10D;
-            plotXAxis5.CanFocus = false;
-            plotXAxis5.DockOrder = 0;
-            plotXAxis5.Name = "Tempelate";
-            plotXAxis5.ScaleDisplay.GeneratorAuto.MinorCount = 10;
-            plotXAxis5.ScaleDisplay.TextFormatting.DateTimeFormat = "yyyy-MM-dd HH:mm:ss";
-            plotXAxis5.ScaleDisplay.TextFormatting.Style = Iocomp.Types.TextFormatDoubleStyle.DateTime;
-            plotXAxis5.ScaleRange.Span = 0.000694444446708076D;
-            plotXAxis5.Title.Text = "time";
-            this.plot1.XAxes.Add(plotXAxis5);
-            plotYAxis5.CanFocus = false;
-            plotYAxis5.DockOrder = 0;
-            plotYAxis5.Name = "Temperature";
-            plotYAxis5.ScaleRange.Span = 10D;
-            plotYAxis5.Title.Text = "Temperature";
-            this.plot1.YAxes.Add(plotYAxis5);
+            plotXAxis89.CanFocus = false;
+            plotXAxis89.DockOrder = 0;
+            plotXAxis89.Name = "Tempelate";
+            plotXAxis89.ScaleDisplay.GeneratorAuto.MinorCount = 10;
+            plotXAxis89.ScaleDisplay.TextFormatting.DateTimeFormat = "yyyy-MM-dd HH:mm:ss";
+            plotXAxis89.ScaleDisplay.TextFormatting.Style = Iocomp.Types.TextFormatDoubleStyle.DateTime;
+            plotXAxis89.ScaleRange.Span = 0.000694444446708076D;
+            plotXAxis89.Title.Text = "time";
+            this.plot1.XAxes.Add(plotXAxis89);
+            plotYAxis89.CanFocus = false;
+            plotYAxis89.DockOrder = 0;
+            plotYAxis89.Name = "Temperature";
+            plotYAxis89.ScaleRange.Span = 10D;
+            plotYAxis89.Title.Text = "Temperature";
+            this.plot1.YAxes.Add(plotYAxis89);
             this.plot1.LoadingEnd();
             // 
             // tabPage2
@@ -4475,11 +4235,10 @@
             this.tabPage2.Controls.Add(this.CH_V2);
             this.tabPage2.Controls.Add(this.CH_V1);
             this.tabPage2.Controls.Add(this.plotgraph);
-            this.tabPage2.Location = new System.Drawing.Point(4, 35);
-            this.tabPage2.Margin = new System.Windows.Forms.Padding(4);
+            this.tabPage2.Location = new System.Drawing.Point(4, 31);
             this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(4);
-            this.tabPage2.Size = new System.Drawing.Size(1389, 727);
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage2.Size = new System.Drawing.Size(1012, 551);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "  电压页  ";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -4488,70 +4247,63 @@
             // 
             this.textBox35.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox35.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox35.Location = new System.Drawing.Point(893, 669);
-            this.textBox35.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox35.Location = new System.Drawing.Point(670, 508);
             this.textBox35.Name = "textBox35";
-            this.textBox35.Size = new System.Drawing.Size(64, 27);
+            this.textBox35.Size = new System.Drawing.Size(49, 23);
             this.textBox35.TabIndex = 33;
             // 
             // textBox34
             // 
             this.textBox34.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox34.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox34.Location = new System.Drawing.Point(760, 669);
-            this.textBox34.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox34.Location = new System.Drawing.Point(570, 508);
             this.textBox34.Name = "textBox34";
-            this.textBox34.Size = new System.Drawing.Size(64, 27);
+            this.textBox34.Size = new System.Drawing.Size(49, 23);
             this.textBox34.TabIndex = 31;
             // 
             // textBox11
             // 
             this.textBox11.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox11.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox11.Location = new System.Drawing.Point(627, 669);
-            this.textBox11.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox11.Location = new System.Drawing.Point(470, 508);
             this.textBox11.Name = "textBox11";
-            this.textBox11.Size = new System.Drawing.Size(64, 27);
+            this.textBox11.Size = new System.Drawing.Size(49, 23);
             this.textBox11.TabIndex = 29;
             // 
             // textBox10
             // 
             this.textBox10.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox10.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox10.Location = new System.Drawing.Point(493, 669);
-            this.textBox10.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox10.Location = new System.Drawing.Point(370, 508);
             this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(64, 27);
+            this.textBox10.Size = new System.Drawing.Size(49, 23);
             this.textBox10.TabIndex = 27;
             // 
             // textBox9
             // 
             this.textBox9.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox9.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox9.Location = new System.Drawing.Point(360, 669);
-            this.textBox9.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox9.Location = new System.Drawing.Point(270, 508);
             this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(64, 27);
+            this.textBox9.Size = new System.Drawing.Size(49, 23);
             this.textBox9.TabIndex = 25;
             // 
             // textBox8
             // 
             this.textBox8.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox8.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox8.Location = new System.Drawing.Point(227, 669);
-            this.textBox8.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox8.Location = new System.Drawing.Point(170, 508);
             this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(64, 27);
+            this.textBox8.Size = new System.Drawing.Size(49, 23);
             this.textBox8.TabIndex = 23;
             // 
             // textBox7
             // 
             this.textBox7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.textBox7.Font = new System.Drawing.Font("微软雅黑", 9F);
-            this.textBox7.Location = new System.Drawing.Point(93, 669);
-            this.textBox7.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox7.Location = new System.Drawing.Point(70, 508);
             this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(64, 27);
+            this.textBox7.Size = new System.Drawing.Size(49, 23);
             this.textBox7.TabIndex = 21;
             // 
             // label42
@@ -4559,10 +4311,9 @@
             this.label42.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label42.AutoSize = true;
             this.label42.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.label42.Location = new System.Drawing.Point(839, 670);
-            this.label42.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label42.Location = new System.Drawing.Point(629, 509);
             this.label42.Name = "label42";
-            this.label42.Size = new System.Drawing.Size(67, 23);
+            this.label42.Size = new System.Drawing.Size(55, 20);
             this.label42.TabIndex = 32;
             this.label42.Text = "OSCI：";
             // 
@@ -4571,10 +4322,9 @@
             this.label41.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label41.AutoSize = true;
             this.label41.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.label41.Location = new System.Drawing.Point(701, 670);
-            this.label41.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label41.Location = new System.Drawing.Point(526, 509);
             this.label41.Name = "label41";
-            this.label41.Size = new System.Drawing.Size(71, 23);
+            this.label41.Size = new System.Drawing.Size(58, 20);
             this.label41.TabIndex = 30;
             this.label41.Text = "OSCF：";
             // 
@@ -4583,10 +4333,9 @@
             this.label18.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label18.AutoSize = true;
             this.label18.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.label18.Location = new System.Drawing.Point(580, 671);
-            this.label18.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label18.Location = new System.Drawing.Point(435, 510);
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(59, 23);
+            this.label18.Size = new System.Drawing.Size(48, 20);
             this.label18.TabIndex = 28;
             this.label18.Text = "CFV：";
             // 
@@ -4595,10 +4344,9 @@
             this.label17.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label17.AutoSize = true;
             this.label17.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.label17.Location = new System.Drawing.Point(457, 671);
-            this.label17.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label17.Location = new System.Drawing.Point(343, 510);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(49, 23);
+            this.label17.Size = new System.Drawing.Size(40, 20);
             this.label17.TabIndex = 26;
             this.label17.Text = "V4：";
             // 
@@ -4607,10 +4355,9 @@
             this.label16.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label16.AutoSize = true;
             this.label16.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.label16.Location = new System.Drawing.Point(324, 670);
-            this.label16.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label16.Location = new System.Drawing.Point(243, 509);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(49, 23);
+            this.label16.Size = new System.Drawing.Size(40, 20);
             this.label16.TabIndex = 24;
             this.label16.Text = "V3：";
             // 
@@ -4619,10 +4366,9 @@
             this.label15.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label15.AutoSize = true;
             this.label15.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.label15.Location = new System.Drawing.Point(191, 670);
-            this.label15.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label15.Location = new System.Drawing.Point(143, 509);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(49, 23);
+            this.label15.Size = new System.Drawing.Size(40, 20);
             this.label15.TabIndex = 22;
             this.label15.Text = "V2：";
             // 
@@ -4631,10 +4377,9 @@
             this.label14.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label14.AutoSize = true;
             this.label14.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.label14.Location = new System.Drawing.Point(59, 670);
-            this.label14.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label14.Location = new System.Drawing.Point(44, 509);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(49, 23);
+            this.label14.Size = new System.Drawing.Size(40, 20);
             this.label14.TabIndex = 20;
             this.label14.Text = "V1：";
             // 
@@ -4645,10 +4390,9 @@
             this.CH_OSCI.Checked = true;
             this.CH_OSCI.CheckState = System.Windows.Forms.CheckState.Checked;
             this.CH_OSCI.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.CH_OSCI.Location = new System.Drawing.Point(535, 9);
-            this.CH_OSCI.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_OSCI.Location = new System.Drawing.Point(401, 7);
             this.CH_OSCI.Name = "CH_OSCI";
-            this.CH_OSCI.Size = new System.Drawing.Size(72, 27);
+            this.CH_OSCI.Size = new System.Drawing.Size(60, 24);
             this.CH_OSCI.TabIndex = 19;
             this.CH_OSCI.Text = "OSCI";
             this.CH_OSCI.UseVisualStyleBackColor = false;
@@ -4661,10 +4405,9 @@
             this.CH_OSCF.Checked = true;
             this.CH_OSCF.CheckState = System.Windows.Forms.CheckState.Checked;
             this.CH_OSCF.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.CH_OSCF.Location = new System.Drawing.Point(441, 9);
-            this.CH_OSCF.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_OSCF.Location = new System.Drawing.Point(331, 7);
             this.CH_OSCF.Name = "CH_OSCF";
-            this.CH_OSCF.Size = new System.Drawing.Size(76, 27);
+            this.CH_OSCF.Size = new System.Drawing.Size(63, 24);
             this.CH_OSCF.TabIndex = 18;
             this.CH_OSCF.Text = "OSCF";
             this.CH_OSCF.UseVisualStyleBackColor = false;
@@ -4677,10 +4420,9 @@
             this.CH_CFV.Checked = true;
             this.CH_CFV.CheckState = System.Windows.Forms.CheckState.Checked;
             this.CH_CFV.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.CH_CFV.Location = new System.Drawing.Point(368, 9);
-            this.CH_CFV.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_CFV.Location = new System.Drawing.Point(276, 7);
             this.CH_CFV.Name = "CH_CFV";
-            this.CH_CFV.Size = new System.Drawing.Size(64, 27);
+            this.CH_CFV.Size = new System.Drawing.Size(53, 24);
             this.CH_CFV.TabIndex = 16;
             this.CH_CFV.Text = "CFV";
             this.CH_CFV.UseVisualStyleBackColor = false;
@@ -4693,10 +4435,9 @@
             this.CH_V4.Checked = true;
             this.CH_V4.CheckState = System.Windows.Forms.CheckState.Checked;
             this.CH_V4.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.CH_V4.Location = new System.Drawing.Point(304, 9);
-            this.CH_V4.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_V4.Location = new System.Drawing.Point(228, 7);
             this.CH_V4.Name = "CH_V4";
-            this.CH_V4.Size = new System.Drawing.Size(54, 27);
+            this.CH_V4.Size = new System.Drawing.Size(45, 24);
             this.CH_V4.TabIndex = 14;
             this.CH_V4.Text = "V4";
             this.CH_V4.UseVisualStyleBackColor = false;
@@ -4709,10 +4450,9 @@
             this.CH_V3.Checked = true;
             this.CH_V3.CheckState = System.Windows.Forms.CheckState.Checked;
             this.CH_V3.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.CH_V3.Location = new System.Drawing.Point(237, 9);
-            this.CH_V3.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_V3.Location = new System.Drawing.Point(178, 7);
             this.CH_V3.Name = "CH_V3";
-            this.CH_V3.Size = new System.Drawing.Size(54, 27);
+            this.CH_V3.Size = new System.Drawing.Size(45, 24);
             this.CH_V3.TabIndex = 12;
             this.CH_V3.Text = "V3";
             this.CH_V3.UseVisualStyleBackColor = false;
@@ -4725,10 +4465,9 @@
             this.CH_V2.Checked = true;
             this.CH_V2.CheckState = System.Windows.Forms.CheckState.Checked;
             this.CH_V2.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.CH_V2.Location = new System.Drawing.Point(171, 9);
-            this.CH_V2.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_V2.Location = new System.Drawing.Point(128, 7);
             this.CH_V2.Name = "CH_V2";
-            this.CH_V2.Size = new System.Drawing.Size(54, 27);
+            this.CH_V2.Size = new System.Drawing.Size(45, 24);
             this.CH_V2.TabIndex = 10;
             this.CH_V2.Text = "V2";
             this.CH_V2.UseVisualStyleBackColor = false;
@@ -4741,10 +4480,9 @@
             this.CH_V1.Checked = true;
             this.CH_V1.CheckState = System.Windows.Forms.CheckState.Checked;
             this.CH_V1.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.CH_V1.Location = new System.Drawing.Point(104, 9);
-            this.CH_V1.Margin = new System.Windows.Forms.Padding(4);
+            this.CH_V1.Location = new System.Drawing.Point(78, 7);
             this.CH_V1.Name = "CH_V1";
-            this.CH_V1.Size = new System.Drawing.Size(54, 27);
+            this.CH_V1.Size = new System.Drawing.Size(45, 24);
             this.CH_V1.TabIndex = 8;
             this.CH_V1.Text = "V1";
             this.CH_V1.UseVisualStyleBackColor = false;
@@ -4760,126 +4498,125 @@
             this.plotgraph.Background.GradientStartColor = System.Drawing.Color.Transparent;
             this.plotgraph.Background.GradientStopColor = System.Drawing.Color.Empty;
             this.plotgraph.Background.Visible = true;
-            plotChannelTrace52.CanFocus = false;
-            plotChannelTrace52.Color = System.Drawing.Color.Red;
-            plotChannelTrace52.Fill.Brush.Style = Iocomp.Types.PlotBrushStyle.GradientBackwardDiagonal;
-            plotChannelTrace52.Markers.Size = 2;
-            plotChannelTrace52.Name = "V1";
-            plotChannelTrace52.OPCXValueSource = Iocomp.Types.OPCXValueType.SystemClock;
-            plotChannelTrace52.TitleText = "V1";
-            plotChannelTrace52.Trace.Thickness = 2D;
-            plotChannelTrace52.XAxisName = "Tempelate";
-            plotChannelTrace52.YAxisName = "Temperature";
-            plotChannelTrace53.CanFocus = false;
-            plotChannelTrace53.Color = System.Drawing.Color.Blue;
-            plotChannelTrace53.Name = "V2";
-            plotChannelTrace53.TitleText = "V2";
-            plotChannelTrace53.Trace.Thickness = 2D;
-            plotChannelTrace53.XAxisName = "Tempelate";
-            plotChannelTrace53.YAxisName = "Temperature";
-            plotChannelTrace54.CanFocus = false;
-            plotChannelTrace54.Color = System.Drawing.Color.Lime;
-            plotChannelTrace54.Name = "V3";
-            plotChannelTrace54.TitleText = "V3";
-            plotChannelTrace54.Trace.Thickness = 2D;
-            plotChannelTrace54.XAxisName = "Tempelate";
-            plotChannelTrace54.YAxisName = "Temperature";
-            plotChannelTrace55.CanFocus = false;
-            plotChannelTrace55.Color = System.Drawing.Color.Yellow;
-            plotChannelTrace55.Name = "V4";
-            plotChannelTrace55.TitleText = "V4";
-            plotChannelTrace55.Trace.Color = System.Drawing.Color.Olive;
-            plotChannelTrace55.Trace.Thickness = 2D;
-            plotChannelTrace55.XAxisName = "Tempelate";
-            plotChannelTrace55.YAxisName = "Temperature";
-            plotChannelTrace56.CanFocus = false;
-            plotChannelTrace56.Color = System.Drawing.Color.Aqua;
-            plotChannelTrace56.Name = "CFV";
-            plotChannelTrace56.TitleText = "CFV";
-            plotChannelTrace56.Trace.Color = System.Drawing.Color.DarkSlateGray;
-            plotChannelTrace56.Trace.Thickness = 2D;
-            plotChannelTrace56.XAxisName = "Tempelate";
-            plotChannelTrace56.YAxisName = "Temperature";
-            plotChannelTrace57.CanFocus = false;
-            plotChannelTrace57.Color = System.Drawing.Color.White;
-            plotChannelTrace57.Name = "OSCV";
-            plotChannelTrace57.TitleText = "OSCV";
-            plotChannelTrace57.Trace.Color = System.Drawing.Color.Brown;
-            plotChannelTrace57.Trace.Thickness = 2D;
-            plotChannelTrace57.XAxisName = "Tempelate";
-            plotChannelTrace57.YAxisName = "Temperature";
-            plotChannelTrace58.CanFocus = false;
-            plotChannelTrace58.Color = System.Drawing.Color.Red;
-            plotChannelTrace58.Name = "OSCI";
-            plotChannelTrace58.TitleText = "OSCI";
-            plotChannelTrace58.Trace.Color = System.Drawing.Color.RosyBrown;
-            plotChannelTrace58.Trace.Thickness = 2D;
-            plotChannelTrace58.XAxisName = "Tempelate";
-            plotChannelTrace58.YAxisName = "Temperature";
-            this.plotgraph.Channels.Add(plotChannelTrace52);
-            this.plotgraph.Channels.Add(plotChannelTrace53);
-            this.plotgraph.Channels.Add(plotChannelTrace54);
-            this.plotgraph.Channels.Add(plotChannelTrace55);
-            this.plotgraph.Channels.Add(plotChannelTrace56);
-            this.plotgraph.Channels.Add(plotChannelTrace57);
-            this.plotgraph.Channels.Add(plotChannelTrace58);
-            plotDataCursorXY11.CanFocus = false;
-            plotDataCursorXY11.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
-            plotDataCursorXY11.MasterControl = true;
-            plotDataCursorXY11.Name = "Data-Cursor 1";
-            plotDataCursorXY11.TitleText = "Data-Cursor 1";
-            plotDataCursorXY11.XAxisName = "Tempelate";
-            plotDataCursorXY11.YAxisName = "Temperature";
-            plotDataCursorXY12.CanFocus = false;
-            plotDataCursorXY12.Color = System.Drawing.Color.Black;
-            plotDataCursorXY12.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
-            plotDataCursorXY12.Line.Style = Iocomp.Types.PlotPenStyle.Dash;
-            plotDataCursorXY12.MasterControl = true;
-            plotDataCursorXY12.Name = "Data-Cursor 2";
-            plotDataCursorXY12.TitleText = "Data-Cursor 2";
-            plotDataCursorXY12.Window.Visible = false;
-            plotDataCursorXY12.XAxisName = "Tempelate";
-            plotDataCursorXY12.YAxisName = "Humidity";
-            this.plotgraph.DataCursors.Add(plotDataCursorXY11);
-            this.plotgraph.DataCursors.Add(plotDataCursorXY12);
-            plotDataView6.CanFocus = false;
-            plotDataView6.Name = "Data-View 1";
-            plotDataView6.TitleText = "Data-View 1";
-            this.plotgraph.DataViews.Add(plotDataView6);
+            plotChannelTrace864.CanFocus = false;
+            plotChannelTrace864.Color = System.Drawing.Color.Red;
+            plotChannelTrace864.Fill.Brush.Style = Iocomp.Types.PlotBrushStyle.GradientBackwardDiagonal;
+            plotChannelTrace864.Markers.Size = 2;
+            plotChannelTrace864.Name = "V1";
+            plotChannelTrace864.OPCXValueSource = Iocomp.Types.OPCXValueType.SystemClock;
+            plotChannelTrace864.TitleText = "V1";
+            plotChannelTrace864.Trace.Thickness = 2D;
+            plotChannelTrace864.XAxisName = "Tempelate";
+            plotChannelTrace864.YAxisName = "Temperature";
+            plotChannelTrace865.CanFocus = false;
+            plotChannelTrace865.Color = System.Drawing.Color.Blue;
+            plotChannelTrace865.Name = "V2";
+            plotChannelTrace865.TitleText = "V2";
+            plotChannelTrace865.Trace.Thickness = 2D;
+            plotChannelTrace865.XAxisName = "Tempelate";
+            plotChannelTrace865.YAxisName = "Temperature";
+            plotChannelTrace866.CanFocus = false;
+            plotChannelTrace866.Color = System.Drawing.Color.Lime;
+            plotChannelTrace866.Name = "V3";
+            plotChannelTrace866.TitleText = "V3";
+            plotChannelTrace866.Trace.Thickness = 2D;
+            plotChannelTrace866.XAxisName = "Tempelate";
+            plotChannelTrace866.YAxisName = "Temperature";
+            plotChannelTrace867.CanFocus = false;
+            plotChannelTrace867.Color = System.Drawing.Color.Yellow;
+            plotChannelTrace867.Name = "V4";
+            plotChannelTrace867.TitleText = "V4";
+            plotChannelTrace867.Trace.Color = System.Drawing.Color.Olive;
+            plotChannelTrace867.Trace.Thickness = 2D;
+            plotChannelTrace867.XAxisName = "Tempelate";
+            plotChannelTrace867.YAxisName = "Temperature";
+            plotChannelTrace868.CanFocus = false;
+            plotChannelTrace868.Color = System.Drawing.Color.Aqua;
+            plotChannelTrace868.Name = "CFV";
+            plotChannelTrace868.TitleText = "CFV";
+            plotChannelTrace868.Trace.Color = System.Drawing.Color.DarkSlateGray;
+            plotChannelTrace868.Trace.Thickness = 2D;
+            plotChannelTrace868.XAxisName = "Tempelate";
+            plotChannelTrace868.YAxisName = "Temperature";
+            plotChannelTrace869.CanFocus = false;
+            plotChannelTrace869.Color = System.Drawing.Color.White;
+            plotChannelTrace869.Name = "OSCV";
+            plotChannelTrace869.TitleText = "OSCV";
+            plotChannelTrace869.Trace.Color = System.Drawing.Color.Brown;
+            plotChannelTrace869.Trace.Thickness = 2D;
+            plotChannelTrace869.XAxisName = "Tempelate";
+            plotChannelTrace869.YAxisName = "Temperature";
+            plotChannelTrace870.CanFocus = false;
+            plotChannelTrace870.Color = System.Drawing.Color.Red;
+            plotChannelTrace870.Name = "OSCI";
+            plotChannelTrace870.TitleText = "OSCI";
+            plotChannelTrace870.Trace.Color = System.Drawing.Color.RosyBrown;
+            plotChannelTrace870.Trace.Thickness = 2D;
+            plotChannelTrace870.XAxisName = "Tempelate";
+            plotChannelTrace870.YAxisName = "Temperature";
+            this.plotgraph.Channels.Add(plotChannelTrace864);
+            this.plotgraph.Channels.Add(plotChannelTrace865);
+            this.plotgraph.Channels.Add(plotChannelTrace866);
+            this.plotgraph.Channels.Add(plotChannelTrace867);
+            this.plotgraph.Channels.Add(plotChannelTrace868);
+            this.plotgraph.Channels.Add(plotChannelTrace869);
+            this.plotgraph.Channels.Add(plotChannelTrace870);
+            plotDataCursorXY179.CanFocus = false;
+            plotDataCursorXY179.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
+            plotDataCursorXY179.MasterControl = true;
+            plotDataCursorXY179.Name = "Data-Cursor 1";
+            plotDataCursorXY179.TitleText = "Data-Cursor 1";
+            plotDataCursorXY179.XAxisName = "Tempelate";
+            plotDataCursorXY179.YAxisName = "Temperature";
+            plotDataCursorXY180.CanFocus = false;
+            plotDataCursorXY180.Color = System.Drawing.Color.Black;
+            plotDataCursorXY180.Hint.Fill.Pen.Color = System.Drawing.SystemColors.InfoText;
+            plotDataCursorXY180.Line.Style = Iocomp.Types.PlotPenStyle.Dash;
+            plotDataCursorXY180.MasterControl = true;
+            plotDataCursorXY180.Name = "Data-Cursor 2";
+            plotDataCursorXY180.TitleText = "Data-Cursor 2";
+            plotDataCursorXY180.Window.Visible = false;
+            plotDataCursorXY180.XAxisName = "Tempelate";
+            plotDataCursorXY180.YAxisName = "Humidity";
+            this.plotgraph.DataCursors.Add(plotDataCursorXY179);
+            this.plotgraph.DataCursors.Add(plotDataCursorXY180);
+            plotDataView90.CanFocus = false;
+            plotDataView90.Name = "Data-View 1";
+            plotDataView90.TitleText = "Data-View 1";
+            this.plotgraph.DataViews.Add(plotDataView90);
             this.plotgraph.DefaultGridLineColor = System.Drawing.SystemColors.ActiveBorder;
             this.plotgraph.DefaultSaveImagePath = "C:\\Users\\Administrator\\Desktop";
             this.plotgraph.Font = new System.Drawing.Font("微软雅黑", 10F);
             this.plotgraph.ForeColor = System.Drawing.Color.Black;
-            plotLegendBasic6.CanFocus = false;
-            plotLegendBasic6.DockOrder = 2;
-            plotLegendBasic6.DockStyle = Iocomp.Types.PlotDockStyleAll.DataView;
-            plotLegendBasic6.Name = "Legend 1";
-            plotLegendBasic6.TitleText = "Legend 1";
-            this.plotgraph.Legends.Add(plotLegendBasic6);
+            plotLegendBasic90.CanFocus = false;
+            plotLegendBasic90.DockOrder = 2;
+            plotLegendBasic90.DockStyle = Iocomp.Types.PlotDockStyleAll.DataView;
+            plotLegendBasic90.Name = "Legend 1";
+            plotLegendBasic90.TitleText = "Legend 1";
+            this.plotgraph.Legends.Add(plotLegendBasic90);
             this.plotgraph.Location = new System.Drawing.Point(0, -1);
-            this.plotgraph.Margin = new System.Windows.Forms.Padding(4);
             this.plotgraph.Name = "plotgraph";
             this.plotgraph.PrintAdapter.MarginLeft = 0D;
             this.plotgraph.PrintAdapter.MarginTop = 0D;
             this.plotgraph.PrintAdapter.SizingStyle = Iocomp.Types.PlotPrintSizingStyle.Stretch;
-            this.plotgraph.Size = new System.Drawing.Size(1385, 661);
+            this.plotgraph.Size = new System.Drawing.Size(1011, 502);
             this.plotgraph.TabIndex = 6;
             this.plotgraph.UpdateFrameRate = 10D;
-            plotXAxis6.CanFocus = false;
-            plotXAxis6.DockOrder = 0;
-            plotXAxis6.Name = "Tempelate";
-            plotXAxis6.ScaleDisplay.GeneratorAuto.MinorCount = 10;
-            plotXAxis6.ScaleDisplay.TextFormatting.DateTimeFormat = "yyyy-MM-dd HH:mm:ss";
-            plotXAxis6.ScaleDisplay.TextFormatting.Style = Iocomp.Types.TextFormatDoubleStyle.DateTime;
-            plotXAxis6.ScaleRange.Span = 0.000694444446708076D;
-            plotXAxis6.Title.Text = "time";
-            this.plotgraph.XAxes.Add(plotXAxis6);
-            plotYAxis6.CanFocus = false;
-            plotYAxis6.DockOrder = 0;
-            plotYAxis6.Name = "Temperature";
-            plotYAxis6.ScaleRange.Span = 1D;
-            plotYAxis6.Title.Text = "Temperature";
-            this.plotgraph.YAxes.Add(plotYAxis6);
+            plotXAxis90.CanFocus = false;
+            plotXAxis90.DockOrder = 0;
+            plotXAxis90.Name = "Tempelate";
+            plotXAxis90.ScaleDisplay.GeneratorAuto.MinorCount = 10;
+            plotXAxis90.ScaleDisplay.TextFormatting.DateTimeFormat = "yyyy-MM-dd HH:mm:ss";
+            plotXAxis90.ScaleDisplay.TextFormatting.Style = Iocomp.Types.TextFormatDoubleStyle.DateTime;
+            plotXAxis90.ScaleRange.Span = 0.000694444446708076D;
+            plotXAxis90.Title.Text = "time";
+            this.plotgraph.XAxes.Add(plotXAxis90);
+            plotYAxis90.CanFocus = false;
+            plotYAxis90.DockOrder = 0;
+            plotYAxis90.Name = "Temperature";
+            plotYAxis90.ScaleRange.Span = 1D;
+            plotYAxis90.Title.Text = "Temperature";
+            this.plotgraph.YAxes.Add(plotYAxis90);
             this.plotgraph.LoadingEnd();
             // 
             // tabControl2
@@ -4897,26 +4634,24 @@
             this.tabControl2.Controls.Add(this.tabPage8);
             this.tabControl2.Controls.Add(this.tabPage7);
             this.tabControl2.Font = new System.Drawing.Font("微软雅黑", 10F);
-            this.tabControl2.Location = new System.Drawing.Point(-3, 70);
-            this.tabControl2.Margin = new System.Windows.Forms.Padding(4);
+            this.tabControl2.Location = new System.Drawing.Point(-2, 56);
             this.tabControl2.Name = "tabControl2";
             this.tabControl2.SelectedIndex = 0;
-            this.tabControl2.Size = new System.Drawing.Size(1397, 766);
+            this.tabControl2.Size = new System.Drawing.Size(1020, 586);
             this.tabControl2.TabIndex = 30;
             // 
             // MainForms
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
             this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(1381, 838);
+            this.ClientSize = new System.Drawing.Size(1008, 643);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.tabControl2);
-            this.Margin = new System.Windows.Forms.Padding(4);
-            this.MaximumSize = new System.Drawing.Size(1401, 885);
-            this.MinimumSize = new System.Drawing.Size(1362, 721);
+            this.MaximumSize = new System.Drawing.Size(1366, 768);
+            this.MinimumSize = new System.Drawing.Size(1024, 584);
             this.Name = "MainForms";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "氢钟智能化监控系统软件设计";
@@ -4928,6 +4663,7 @@
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.tabPage7.ResumeLayout(false);
+            this.tabPage7.PerformLayout();
             this.groupBox6.ResumeLayout(false);
             this.groupBox9.ResumeLayout(false);
             this.groupBox9.PerformLayout();

@@ -54,6 +54,20 @@ namespace 上位机服务器
             PortName_ComboBox.Text = "us";
             comboBox1.Text = "us";
             dataGridView1.Rows.Clear();
+            if (radioButton4.Checked)
+            {
+                textBox5.MaxLength = 7;
+
+                textBox5.Text = float.Parse(textBox5.Text).ToString("0.0000").PadRight(4);
+            }
+            if (radioButton3.Checked)
+            {
+                textBox5.MaxLength = 9;
+                textBox5.Text = float.Parse(textBox5.Text).ToString("0.000000").PadRight(4);
+                sys_zong_value.Text = textBox5.Text;
+            }
+
+
             OleDbConnection mycon = null;
             OleDbDataReader myReader = null;
             
@@ -304,7 +318,7 @@ namespace 上位机服务器
                 return;
             }
 
-            else if (isNumberic(message) && NetDebugForm.hasOpen) //服务器已经开启且移相数值输入正确
+            else if (isNumberic(message) && NetDebugForm.hasOpen&&MessageBox.Show("确定进行配置吗？", "询问", MessageBoxButtons.YesNo) == DialogResult.Yes) //服务器已经开启且移相数值输入正确
             {
                 int data = int.Parse(message);
                 Dictionary<int, Socket> dictsocket = NetDebugForm.getInstance().getDictionary();
@@ -348,7 +362,7 @@ namespace 上位机服务器
                 MessageBox.Show("请输入发送的数据.");
                 return;
             }
-            else if (isNumberic(message) && NetDebugForm.hasOpen) //服务器已经开启且脉宽数值输入正确
+            else if (isNumberic(message) && NetDebugForm.hasOpen && NetDebugForm.hasOpen && MessageBox.Show("确定进行配置吗？", "询问", MessageBoxButtons.YesNo) == DialogResult.Yes) //服务器已经开启且脉宽数值输入正确
             {
                 int data = int.Parse(message);
                 Dictionary<int, Socket> dictsocket = NetDebugForm.getInstance().getDictionary();
@@ -392,7 +406,7 @@ namespace 上位机服务器
                 {
                     Dictionary<int, Socket> dictsocket = NetDebugForm.getInstance().getDictionary();
                     byte[] sendbytes = new byte[11];
-                    int data = 0;
+                    int data = 1;
                     byte[] temp = BitConverter.GetBytes(data);
                     sendbytes[0] = 0x2e;
                     sendbytes[1] = 0x2e;
@@ -519,161 +533,220 @@ namespace 上位机服务器
         // 系统设置：综合器设置—频率设置
         private void button8_Click(object sender, EventArgs e)
         {
-            if (!string.IsNullOrEmpty(textBox5.Text) && NetDebugForm.hasOpen)
+            if (NetDebugForm.hasOpen && MessageBox.Show("确定进行配置吗？", "询问", MessageBoxButtons.YesNo) == DialogResult.Yes)
             {
-                Dictionary<int, Socket> dictsocket = NetDebugForm.getInstance().getDictionary();
-                byte[] sendbytes = new byte[11];
-                float myValue = float.Parse(textBox5.Text);
-                float myValue2 = float.Parse(sys_zong_value.Text);
-                sys_zong_value.Text = (myValue + myValue2).ToString();
+                if (!string.IsNullOrEmpty(textBox5.Text) && NetDebugForm.hasOpen)
+                {
+                    Dictionary<int, Socket> dictsocket = NetDebugForm.getInstance().getDictionary();
+                    byte[] sendbytes = new byte[13];
+                    float myValue = float.Parse(textBox5.Text);
+                    int sendValue;
+                    if (radioButton3.Checked)
+                        sendValue = (int)myValue * 1000000;
+                    else
+                        sendValue = (int)myValue * 10000;
 
-                byte[] temp = BitConverter.GetBytes(myValue);
-                sendbytes[0] = 0x2e;
-                sendbytes[1] = 0x2e;
-                sendbytes[2] = 0x00;
-                sendbytes[3] = 0x0b;
-                sendbytes[4] = 0x04;
-                sendbytes[5] = temp[0];
-                sendbytes[6] = temp[1];
-                sendbytes[7] = temp[2];
-                sendbytes[8] = temp[3];
-                sendbytes[9] = 0x2f;
-                sendbytes[10] = 0x2f;
-                foreach (int conn in dictsocket.Keys)
-                    try
-                    {
-                        //检测客户端Socket的状态
-                        if (dictsocket[conn].Connected)
-                            dictsocket[conn].Send(sendbytes);
-                    }
-                    catch (Exception ex)
-                    {
-                        MessageBox.Show(ex.ToString());
-                    }
-            }
-            else
-            {
-                MessageBox.Show("请输入发送的数据.");
+                    float myValue2 = float.Parse(sys_zong_value.Text);
+                    sys_zong_value.Text = (myValue + myValue2).ToString();
+                    byte[] temp = BitConverter.GetBytes(myValue);
+                    sendbytes[0] = 0x2e;
+                    sendbytes[1] = 0x2e;
+                    sendbytes[2] = 0x00;
+                    sendbytes[3] = 0x0d;
+                    sendbytes[4] = 0x04;
+                    sendbytes[5] = 0x01;// 符号位
+                    if (radioButton3.Checked)//六位精度
+                        sendbytes[6] = 0x02;
+                    else
+                        sendbytes[6] = 0x01;
+
+
+                    sendbytes[7] = (byte)((sendValue >> 24) & 0xFF);
+                    sendbytes[8] = (byte)((sendValue >> 16) & 0xFF);
+                    sendbytes[9] = (byte)((sendValue >> 8) & 0xFF);
+                    sendbytes[10] = (byte)(sendValue & 0xFF);
+
+                    sendbytes[11] = 0x2f;
+                    sendbytes[12] = 0x2f;
+                    foreach (int conn in dictsocket.Keys)
+                        try
+                        {
+                            //检测客户端Socket的状态
+                            if (dictsocket[conn].Connected)
+                                dictsocket[conn].Send(sendbytes);
+                        }
+                        catch (Exception ex)
+                        {
+                            MessageBox.Show(ex.ToString());
+                        }
+
+                    sys_zong_value.Text = textBox5.Text;
+                }
+                else
+                {
+                    MessageBox.Show("请输入发送的数据.");
+                }
             }
         }
 
         // 系统设置：综合器设置—相位设置
         private void button9_Click(object sender, EventArgs e)
         {
-            int data = int.Parse(textBox6.Text);
-            int jueduizhi = 0;
-            if (data >= 0) jueduizhi = 1;
-            else
-            {
-                jueduizhi = -1;
-                data = 0 - data;
-            }
-            if (data < 100 || data > 999) return;
-            int bai = data / 100;
-            int shi = (data % 100) / 10;
-            int ge = (data % 10) / 1;
-            if (!string.IsNullOrEmpty(textBox6.Text) && NetDebugForm.hasOpen)
-            {
-                Dictionary<int, Socket> dictsocket = NetDebugForm.getInstance().getDictionary();
-                float result = 0;
-                if (radioButton3.Checked)
-                {
-                    result = Convert.ToSingle(((double)jueduizhi) * ((double)(bai * 10 + shi)) * (Math.Pow(10, 4 - ge)));
 
+
+            if (NetDebugForm.hasOpen && MessageBox.Show("确定进行配置吗？", "询问", MessageBoxButtons.YesNo) == DialogResult.Yes)
+            {
+                int data = int.Parse(textBox6.Text);
+                int jueduizhi = 0;
+                if (data >= 0)
+                    jueduizhi = 1;
+                else
+                {
+                    jueduizhi = -1;
+                    data = 0 - data;
+                }
+
+                if (data < 100 || data > 999)
+                    return;
+                int bai = data / 100;
+                int shi = (data % 100) / 10;
+                int ge = (data % 10) / 1;
+                int synth;
+                if (ge == 0)
+                {
+                    synth = 0;
                 }
                 else
                 {
-                    result = Convert.ToSingle(((double)jueduizhi) * ((double)(bai * 10 + shi)) * (Math.Pow(10, 2 - ge)));
+                    double tempSys = -1 * jueduizhi * (bai * 10 + shi) * 10000 / 7 / (Math.Pow(10, ge));
+                    synth = (int)tempSys;
+
                 }
-                byte[] temp = BitConverter.GetBytes(result);
-                byte[] sendbytes = new byte[12];
-                sendbytes[0] = 0x2e;
-                sendbytes[1] = 0x2e;
-                sendbytes[2] = 0x00;
-                sendbytes[3] = 0x0c;
-                sendbytes[4] = 0x06;
-                sendbytes[5] = temp[0];
-                sendbytes[6] = temp[1];
-                sendbytes[7] = temp[2];
-                sendbytes[8] = temp[3];
-                sendbytes[9] = (byte)ge;
-                sendbytes[10] = 0x2f;
-                sendbytes[11] = 0x2f;
-                foreach (int conn in dictsocket.Keys)
-                    try
+
+                if (!string.IsNullOrEmpty(textBox6.Text) && NetDebugForm.hasOpen)
+                {
+                    Dictionary<int, Socket> dictsocket = NetDebugForm.getInstance().getDictionary();
+
+
+
+                    byte[] sendbytes = new byte[17];
+
+                    sendbytes[0] = 0x2e;
+                    sendbytes[1] = 0x2e;
+                    sendbytes[2] = 0x00;
+                    sendbytes[3] = 0x11;
+                    sendbytes[4] = 0x06;
+                    sendbytes[5] = 0x01;
+                    if (radioButton3.Checked)
+                        sendbytes[6] = 0x02;
+                    else
+                        sendbytes[6] = 0x01;
+                    if (ge == 0)
                     {
-                        //检测客户端Socket的状态
-                        if (dictsocket[conn].Connected)
-                            dictsocket[conn].Send(sendbytes);
+                        sendbytes[7] = 0x00;
+                        sendbytes[8] = 0x00;
+                        sendbytes[9] = 0x00;
+                        sendbytes[10] = 0x00;
+                        sendbytes[11] = 0x00;
+                        sendbytes[12] = 0x00;
+                        sendbytes[13] = 0x00;
+                        sendbytes[14] = 0x00;
                     }
-                    catch (Exception ex)
+                    else
                     {
-                        MessageBox.Show(ex.ToString());
+                        sendbytes[7] = (byte)((synth >> 24) & 0xFF);
+                        sendbytes[8] = (byte)((synth >> 16) & 0xFF);
+                        sendbytes[9] = (byte)((synth >> 8) & 0xFF);
+                        sendbytes[10] = (byte)(synth & 0xFF);
+
+                        sendbytes[11] = (byte)((ge >> 24) & 0xFF);
+                        sendbytes[12] = (byte)((ge >> 16) & 0xFF);
+                        sendbytes[13] = (byte)((ge >> 8) & 0xFF);
+                        sendbytes[14] = (byte)(ge & 0xFF);
+
                     }
-            }
-            else
-            {
-                MessageBox.Show("请输入发送的数据.");
+
+                    sendbytes[15] = 0x2f;
+                    sendbytes[16] = 0x2f;
+                    foreach (int conn in dictsocket.Keys)
+                        try
+                        {
+                            //检测客户端Socket的状态
+                            if (dictsocket[conn].Connected)
+                                dictsocket[conn].Send(sendbytes);
+                        }
+                        catch (Exception ex)
+                        {
+                            MessageBox.Show(ex.ToString());
+                        }
+                }
+                else
+                {
+                    MessageBox.Show("请输入发送的数据.");
+                }
             }
         }
 
         // 系统设置：系统时间校正
         private void button5_Click(object sender, EventArgs e)
         {
-            DateTime DT = System.DateTime.Now;
-            string dt = System.DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-           
-            Dictionary<int, Socket> dictsocket = NetDebugForm.getInstance().getDictionary();
-            DateTime starTime;
-          
-            if (false == DateTime.TryParse(textBox2.Text, out starTime))
+            if (NetDebugForm.hasOpen && MessageBox.Show("确定进行配置吗？", "询问", MessageBoxButtons.YesNo) == DialogResult.Yes)
             {
-                MessageBox.Show("时间格式不正确！");
-                return;
-            }
-            if (NetDebugForm.hasOpen)
-            {
-                byte[] sendbytes = new byte[21];
-                int year = DT.Year;
-                int month = DT.Month;
-                int day = DT.Day;
-                int hour = DT.Hour;
-                int minute = DT.Minute;
-                int second = DT.Second;
-                sendbytes[0] = 0x2e;
-                sendbytes[1] = 0x2e;
-                sendbytes[2] = 0x00;
-                sendbytes[3] = 0x15;
-                sendbytes[4] = 0x07;
-                sendbytes[5] = (byte)(year / 1000);
-                sendbytes[6] = (byte)(year % 1000 / 100);
-                sendbytes[7] = (byte)(year % 100 / 10);
-                sendbytes[8] = (byte)(year % 10 / 1);
-                sendbytes[9] = (byte)(month % 100 / 10);
-                sendbytes[10] = (byte)(month % 10 / 1);
-                sendbytes[11] = (byte)(day % 100 / 10);
-                sendbytes[12] = (byte)(day % 10 / 1);
-                sendbytes[13] = (byte)(hour % 100 / 10);
-                sendbytes[14] = (byte)(hour % 10 / 1);
-                sendbytes[15] = (byte)(minute % 100 / 10);
-                sendbytes[16] = (byte)(minute % 10 / 1);
-                sendbytes[17] = (byte)(second % 100 / 10);
-                sendbytes[18] = (byte)(second % 10 / 1);
-                sendbytes[19] = 0x2f;
-                sendbytes[20] = 0x2f;
-                foreach (int conn in dictsocket.Keys)
-                    try
-                    {
-                        //检测客户端Socket的状态
-                        if (dictsocket[conn].Connected)
+                DateTime DT = System.DateTime.Now;
+                string dt = System.DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+
+                Dictionary<int, Socket> dictsocket = NetDebugForm.getInstance().getDictionary();
+                DateTime starTime;
+
+                if (false == DateTime.TryParse(textBox2.Text, out starTime))
+                {
+                    MessageBox.Show("时间格式不正确！");
+                    return;
+                }
+                if (NetDebugForm.hasOpen)
+                {
+                    byte[] sendbytes = new byte[21];
+                    int year = DT.Year;
+                    int month = DT.Month;
+                    int day = DT.Day;
+                    int hour = DT.Hour;
+                    int minute = DT.Minute;
+                    int second = DT.Second;
+                    sendbytes[0] = 0x2e;
+                    sendbytes[1] = 0x2e;
+                    sendbytes[2] = 0x00;
+                    sendbytes[3] = 0x15;
+                    sendbytes[4] = 0x07;
+                    sendbytes[5] = (byte)(year / 1000);
+                    sendbytes[6] = (byte)(year % 1000 / 100);
+                    sendbytes[7] = (byte)(year % 100 / 10);
+                    sendbytes[8] = (byte)(year % 10 / 1);
+                    sendbytes[9] = (byte)(month % 100 / 10);
+                    sendbytes[10] = (byte)(month % 10 / 1);
+                    sendbytes[11] = (byte)(day % 100 / 10);
+                    sendbytes[12] = (byte)(day % 10 / 1);
+                    sendbytes[13] = (byte)(hour % 100 / 10);
+                    sendbytes[14] = (byte)(hour % 10 / 1);
+                    sendbytes[15] = (byte)(minute % 100 / 10);
+                    sendbytes[16] = (byte)(minute % 10 / 1);
+                    sendbytes[17] = (byte)(second % 100 / 10);
+                    sendbytes[18] = (byte)(second % 10 / 1);
+                    sendbytes[19] = 0x2f;
+                    sendbytes[20] = 0x2f;
+                    foreach (int conn in dictsocket.Keys)
+                        try
                         {
-                            dictsocket[conn].Send(sendbytes);
+                            //检测客户端Socket的状态
+                            if (dictsocket[conn].Connected)
+                            {
+                                dictsocket[conn].Send(sendbytes);
+                            }
                         }
-                    }
-                    catch (Exception ex)
-                    {
-                        MessageBox.Show(ex.ToString());
-                    }
+                        catch (Exception ex)
+                        {
+                            MessageBox.Show(ex.ToString());
+                        }
+                }
             }
         }
 
@@ -1154,20 +1227,24 @@ namespace 上位机服务器
         }
         private void button10_Click(object sender, EventArgs e)
         {
-            if (button10.Text == "打开")
+            if (NetDebugForm.hasOpen && MessageBox.Show("确定进行操作吗？", "询问", MessageBoxButtons.YesNo) == DialogResult.Yes) 
             {
-                relayStateAutoSend(true); 
-                button10.Text = "关闭";
-            }
-            else if (button10.Text == "关闭")
-            {
-                relayStateAutoSend(false); 
-                button10.Text = "打开";
-            }
+                if (button10.Text == "打开")
+                 {
+                    relayStateAutoSend(true); 
+                 button10.Text = "关闭";
+                 }
+                  else if (button10.Text == "关闭")
+                 {
+                     relayStateAutoSend(false); 
+                    button10.Text = "打开";
+                 }
+             }
         }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
+          
             if (radioButton1.Checked) {
                 button10.Enabled = true;
                 setCheckBoxAvailability(false);
@@ -1185,68 +1262,78 @@ namespace 上位机服务器
 
         private void button12_Click(object sender, EventArgs e)
         {
-            byte relayID=0;
-            bool OnOff=false;
-            if (button12.Text == "打开" )
+            if (NetDebugForm.hasOpen && MessageBox.Show("确定进行操作吗？", "询问", MessageBoxButtons.YesNo) == DialogResult.Yes)
             {
-                relayID = 0x01;
-                OnOff = true;
-                button12.Text = "关闭";
-            }
-            else if (button12.Text == "关闭")
-            {
-                relayID = 0x01;
-                OnOff = false;
-                button12.Text = "打开";
-            }
+                byte relayID = 0;
+                bool OnOff = false;
+                if (button12.Text == "打开")
+                {
+                    relayID = 0x01;
+                    OnOff = true;
+                    button12.Text = "关闭";
+                }
+                else if (button12.Text == "关闭")
+                {
+                    relayID = 0x01;
+                    OnOff = false;
+                    button12.Text = "打开";
+                }
 
-            relayStateSend(relayID,OnOff);            
+                relayStateSend(relayID, OnOff);
+            }
         }
 
 
         private void button15_Click(object sender, EventArgs e)
         {
-            byte relayID=0;
-            bool OnOff=false;
-            if (button15.Text == "打开")
+            if (NetDebugForm.hasOpen && MessageBox.Show("确定进行操作吗？", "询问", MessageBoxButtons.YesNo) == DialogResult.Yes)
             {
-                relayID = 0x02;
-                OnOff = true;
-                button15.Text = "关闭";
+                byte relayID = 0;
+                bool OnOff = false;
+                if (button15.Text == "打开")
+                {
+                    relayID = 0x02;
+                    OnOff = true;
+                    button15.Text = "关闭";
+                }
+                else if (button15.Text == "关闭")
+                {
+                    relayID = 0x02;
+                    OnOff = false;
+                    button15.Text = "打开";
+                }
+                relayStateSend(relayID, OnOff);
             }
-            else if (button15.Text == "关闭")
-            {
-                relayID = 0x02;
-                OnOff = false;
-                button15.Text = "打开";
-            }
-            relayStateSend(relayID, OnOff);  
         }
 
         private void button16_Click(object sender, EventArgs e)
         {
-
-            byte relayID=0;
-            bool OnOff=false;
-            if (button16.Text == "打开")
+            if (NetDebugForm.hasOpen && MessageBox.Show("确定进行操作吗？", "询问", MessageBoxButtons.YesNo) == DialogResult.Yes)
             {
-                relayID = 0x03;
-                OnOff = true;
-                button16.Text = "关闭";
+                byte relayID = 0;
+                bool OnOff = false;
+                if (button16.Text == "打开")
+                {
+                    relayID = 0x03;
+                    OnOff = true;
+                    button16.Text = "关闭";
+                }
+                else if (button16.Text == "关闭")
+                {
+                    relayID = 0x03;
+                    OnOff = false;
+                    button16.Text = "打开";
+                }
+                relayStateSend(relayID, OnOff);
             }
-            else if (button16.Text == "关闭")
-            {
-                relayID = 0x03;
-                OnOff = false;
-                button16.Text = "打开";
-            }
-            relayStateSend(relayID, OnOff);  
         }
 
 
 
         private void button1_Click(object sender, EventArgs e)
         {
+            if (MessageBox.Show("确定进行操作吗？", "询问", MessageBoxButtons.YesNo) == DialogResult.Yes)
+            {
             int CntTimeDay, CntTimeHour, CntTimeMin, CntTimeSec;
             if (NetDebugForm.hasOpen)
             {
@@ -1291,6 +1378,7 @@ namespace 上位机服务器
                         MessageBox.Show(ex.ToString());
                     }
             }
+            }
          
         }
 
@@ -1306,43 +1394,48 @@ namespace 上位机服务器
 
         private void button20_Click(object sender, EventArgs e)
         {
-            if (NetDebugForm.hasOpen)
+            if (MessageBox.Show("确定进行操作吗？", "询问", MessageBoxButtons.YesNo) == DialogResult.Yes)
             {
-                Dictionary<int, Socket> dictsocket = NetDebugForm.getInstance().getDictionary();
-                byte[] sendbytes = new byte[8];
-                if (textBox67.Text == "") {
-                    MessageBox.Show("请输入周期");
-                    return;
-                }
-                byte t=(byte)int.Parse(textBox67.Text); 
 
-      
-               
-
-                //sMessageBox.Show(button19.Text + "19" + button18.Text + "18" + button17.Text + "17" + button16.Text + "16" + button15.Text + "15" + button12.Text + "12");
-                sendbytes[0] = 0x2e;
-                sendbytes[1] = 0x2e;
-                sendbytes[2] = 0x00;
-                sendbytes[3] = 0x08;
-                sendbytes[4] = 0x08;
-                sendbytes[5] = t;
-                sendbytes[6] = 0x2f;
-                sendbytes[7] = 0x2f;
-         
-                foreach (int conn in dictsocket.Keys)
-                    try
+                if (NetDebugForm.hasOpen)
+                {
+                    Dictionary<int, Socket> dictsocket = NetDebugForm.getInstance().getDictionary();
+                    byte[] sendbytes = new byte[8];
+                    if (textBox67.Text == "")
                     {
-                        //检测客户端Socket的状态
-                        if (dictsocket[conn].Connected)
+                        MessageBox.Show("请输入周期");
+                        return;
+                    }
+                    byte t = (byte)int.Parse(textBox67.Text);
+
+
+
+
+                    //sMessageBox.Show(button19.Text + "19" + button18.Text + "18" + button17.Text + "17" + button16.Text + "16" + button15.Text + "15" + button12.Text + "12");
+                    sendbytes[0] = 0x2e;
+                    sendbytes[1] = 0x2e;
+                    sendbytes[2] = 0x00;
+                    sendbytes[3] = 0x08;
+                    sendbytes[4] = 0x08;
+                    sendbytes[5] = t;
+                    sendbytes[6] = 0x2f;
+                    sendbytes[7] = 0x2f;
+
+                    foreach (int conn in dictsocket.Keys)
+                        try
                         {
-                            dictsocket[conn].Send(sendbytes);
+                            //检测客户端Socket的状态
+                            if (dictsocket[conn].Connected)
+                            {
+                                dictsocket[conn].Send(sendbytes);
 
+                            }
                         }
-                    }
-                    catch (Exception ex)
-                    {
-                        MessageBox.Show(ex.ToString());
-                    }
+                        catch (Exception ex)
+                        {
+                            MessageBox.Show(ex.ToString());
+                        }
+                }
             }
 
         }
@@ -1361,6 +1454,27 @@ namespace 上位机服务器
         {
 
         }
+
+        private void radioButton4_CheckedChanged(object sender, EventArgs e)
+        {
+            if (radioButton4.Checked)
+            {
+                textBox5.MaxLength = 7;
+
+                textBox5.Text = float.Parse(textBox5.Text).ToString("0.0000").PadRight(4);
+            }
+            if (radioButton3.Checked)
+            {
+                textBox5.MaxLength = 9;
+                textBox5.Text = float.Parse(textBox5.Text).ToString("0.000000").PadRight(4);
+            }
+        }
+
+      
+
+      
+
+      
 
      
 
