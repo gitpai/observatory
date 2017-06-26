@@ -645,7 +645,7 @@ namespace 上位机服务器
                 {
                    
 					time=(int)(Math.Pow(10, ge));
-                    double tempSys =  jueduizhi * (bai * 10 + shi) * 10000 / 7 / time;         
+                    double tempSys =-1*jueduizhi * (bai * 10 + shi) * 10000 / 7 / time;         
                     synth = (int)tempSys;
 
                 }
@@ -1496,10 +1496,7 @@ namespace 上位机服务器
             }
         }
 
-        private void textBox68_TextChanged(object sender, EventArgs e)
-        {
-
-        }
+    
 
         private void radioButton4_CheckedChanged(object sender, EventArgs e)
         {
