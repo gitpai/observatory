@@ -330,20 +330,33 @@ namespace 上位机服务器
                 return;
 			}
             else if (NetDebugForm.hasOpen&&MessageBox.Show("确定进行配置吗？", "询问", MessageBoxButtons.YesNo) == DialogResult.Yes) //服务器已经开启且移相数值输入正确
-            {
+            {   
+
                 int data;
                 if (message.StartsWith("-"))
                 {
                     message = message.Substring(1);
-                     data = -int.Parse(message);
+                    double tempMessage = Double.Parse(message);
+
+                    if (PortName_ComboBox.Text == "ms")
+                        tempMessage *= 10000;
+                    else
+                        tempMessage *= 10;
+                       data = -(int)tempMessage;  
                 }
-                else { data = int.Parse(message); 
+                else {
+                    double tempMessage = Double.Parse(message);
+                    if (PortName_ComboBox.Text == "ms")
+                        tempMessage *= 10000;
+                    else
+                        tempMessage *= 10;
+
+                    data = (int)tempMessage; 
                 }
+                data %= 10000000;
+               
 				Dictionary<int, Socket> dictsocket = NetDebugForm.getInstance().getDictionary();
-                if (PortName_ComboBox.Text == "ms")
-                    data *= 10000;
-                else
-                    data *= 10;
+               
                 byte[] sendbytes = new byte[11];
                 byte[] temp = BitConverter.GetBytes(data);
                 sendbytes[0] = 0x2e;
@@ -787,6 +800,7 @@ namespace 上位机服务器
             }
             else
             {
+               
                 button4.Text = "曲线";
                 plot5.BringToFront();
                 label2.BringToFront();
@@ -1512,6 +1526,9 @@ namespace 上位机服务器
                 textBox5.Text = float.Parse(textBox5.Text).ToString("0.000000").PadRight(4);
             }
         }
+
+       
+       
 
      
 
