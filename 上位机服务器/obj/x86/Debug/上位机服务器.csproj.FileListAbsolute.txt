@@ -1,0 +1,93 @@
+G:\C#工作空间\C#测试程序\上位机服务器\上位机服务器\bin\Debug\上位机服务器.exe
+G:\C#工作空间\C#测试程序\上位机服务器\上位机服务器\bin\Debug\上位机服务器.pdb
+G:\C#工作空间\C#测试程序\上位机服务器\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C#工作空间\C#测试程序\上位机服务器\上位机服务器\obj\x86\Debug\上位机服务器.Form1.resources
+G:\C#工作空间\C#测试程序\上位机服务器\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+G:\C#工作空间\C#测试程序\上位机服务器\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\C#工作空间\C#测试程序\上位机服务器\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\C#工作空间\C#测试程序\上位机服务器\上位机服务器\obj\x86\Debug\上位机服务器.exe
+G:\C#工作空间\C#测试程序\上位机服务器\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+G:\C#工作空间\C#测试程序\上位机服务器042509\上位机服务器\obj\x86\Debug\上位机服务器.exe
+G:\C#工作空间\C#测试程序\上位机服务器042509\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+G:\C#工作空间\C#测试程序\上位机服务器042509\上位机服务器\bin\Debug\上位机服务器.exe
+G:\C#工作空间\C#测试程序\上位机服务器042509\上位机服务器\bin\Debug\上位机服务器.pdb
+G:\C#工作空间\C#测试程序\上位机服务器042509\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C#工作空间\C#测试程序\上位机服务器042509\上位机服务器\obj\x86\Debug\上位机服务器.Form1.resources
+G:\C#工作空间\C#测试程序\上位机服务器042509\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+G:\C#工作空间\C#测试程序\上位机服务器042509\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\C#工作空间\C#测试程序\上位机服务器042509\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\C#工作空间\C#测试程序\上位机服务器050509\上位机服务器\obj\x86\Debug\上位机服务器.exe
+G:\C#工作空间\C#测试程序\上位机服务器050509\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+G:\C#工作空间\C#测试程序\上位机服务器050509\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C#工作空间\C#测试程序\上位机服务器050509\上位机服务器\obj\x86\Debug\上位机服务器.Form1.resources
+G:\C#工作空间\C#测试程序\上位机服务器050509\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+G:\C#工作空间\C#测试程序\上位机服务器050509\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\C#工作空间\C#测试程序\上位机服务器050509\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\C#工作空间\C#测试程序\上位机服务器050509\上位机服务器\bin\Debug\上位机服务器.exe
+G:\C#工作空间\C#测试程序\上位机服务器050509\上位机服务器\bin\Debug\上位机服务器.pdb
+G:\C#工作空间\C#测试程序\上位机服务器050515\上位机服务器\obj\x86\Debug\上位机服务器.exe
+G:\C#工作空间\C#测试程序\上位机服务器050515\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C#工作空间\C#测试程序\上位机服务器050515\上位机服务器\obj\x86\Debug\上位机服务器.Form1.resources
+G:\C#工作空间\C#测试程序\上位机服务器050515\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+G:\C#工作空间\C#测试程序\上位机服务器050515\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\C#工作空间\C#测试程序\上位机服务器050515\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\C#工作空间\C#测试程序\上位机服务器050515\上位机服务器\bin\Debug\上位机服务器.exe
+G:\C#工作空间\C#测试程序\上位机服务器050515\上位机服务器\bin\Debug\上位机服务器.pdb
+G:\C#工作空间\C#测试程序\上位机服务器050515\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+G:\C#工作空间\C#测试程序\上位机服务器051320\上位机服务器\obj\x86\Debug\上位机服务器.exe
+G:\C#工作空间\C#测试程序\上位机服务器051320\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+G:\C#工作空间\C#测试程序\上位机服务器051320\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C#工作空间\C#测试程序\上位机服务器051320\上位机服务器\obj\x86\Debug\上位机服务器.Form1.resources
+G:\C#工作空间\C#测试程序\上位机服务器051320\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+G:\C#工作空间\C#测试程序\上位机服务器051320\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\C#工作空间\C#测试程序\上位机服务器051320\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\C#工作空间\C#测试程序\上位机服务器051320\上位机服务器\bin\Debug\上位机服务器.exe
+G:\C#工作空间\C#测试程序\上位机服务器051320\上位机服务器\bin\Debug\上位机服务器.pdb
+G:\C#工作空间\C#测试程序\上位机服务器051915\上位机服务器\obj\x86\Debug\上位机服务器.exe
+G:\C#工作空间\C#测试程序\上位机服务器051915\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+G:\C#工作空间\C#测试程序\上位机服务器051915\上位机服务器\bin\Debug\上位机服务器.exe
+G:\C#工作空间\C#测试程序\上位机服务器051915\上位机服务器\bin\Debug\上位机服务器.pdb
+G:\C#工作空间\C#测试程序\上位机服务器051915\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C#工作空间\C#测试程序\上位机服务器051915\上位机服务器\obj\x86\Debug\上位机服务器.Form1.resources
+G:\C#工作空间\C#测试程序\上位机服务器051915\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+G:\C#工作空间\C#测试程序\上位机服务器051915\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\C#工作空间\C#测试程序\上位机服务器051915\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\C#工作空间\C#测试程序\上位机服务器0521\上位机服务器\obj\x86\Debug\上位机服务器.exe
+G:\C#工作空间\C#测试程序\上位机服务器0521\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+G:\C#工作空间\C#测试程序\上位机服务器0521\上位机服务器\bin\Debug\上位机服务器.exe
+G:\C#工作空间\C#测试程序\上位机服务器0521\上位机服务器\bin\Debug\上位机服务器.pdb
+G:\C#工作空间\C#测试程序\上位机服务器0521\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C#工作空间\C#测试程序\上位机服务器0521\上位机服务器\obj\x86\Debug\上位机服务器.Form1.resources
+G:\C#工作空间\C#测试程序\上位机服务器0521\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+G:\C#工作空间\C#测试程序\上位机服务器0521\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\C#工作空间\C#测试程序\上位机服务器0521\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\C#工作空间\C#测试程序\上位机服务器0526\上位机服务器\obj\x86\Debug\上位机服务器.exe
+G:\C#工作空间\C#测试程序\上位机服务器0526\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+G:\C#工作空间\C#测试程序\上位机服务器0526\上位机服务器\bin\Debug\上位机服务器.exe
+G:\C#工作空间\C#测试程序\上位机服务器0526\上位机服务器\bin\Debug\上位机服务器.pdb
+G:\C#工作空间\C#测试程序\上位机服务器0526\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C#工作空间\C#测试程序\上位机服务器0526\上位机服务器\obj\x86\Debug\上位机服务器.Form1.resources
+G:\C#工作空间\C#测试程序\上位机服务器0526\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+G:\C#工作空间\C#测试程序\上位机服务器0526\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\C#工作空间\C#测试程序\上位机服务器0526\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\0527\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+C:\Users\Administrator\Desktop\0527\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+C:\Users\Administrator\Desktop\0527\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+C:\Users\Administrator\Desktop\0527\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+C:\Users\Administrator\Desktop\0527\上位机服务器0527\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\0527\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Form1.resources
+C:\Users\Administrator\Desktop\0527\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+C:\Users\Administrator\Desktop\0527\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\0527\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project Space\项目\天文台项目\C#网络通信\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\Project Space\项目\天文台项目\C#网络通信\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\Project Space\项目\天文台项目\C#网络通信\上位机服务器0527\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project Space\项目\天文台项目\C#网络通信\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\Project Space\项目\天文台项目\C#网络通信\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project Space\项目\天文台项目\C#网络通信\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project Space\项目\天文台项目\C#网络通信\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\Project Space\项目\天文台项目\C#网络通信\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.27\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.27\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb

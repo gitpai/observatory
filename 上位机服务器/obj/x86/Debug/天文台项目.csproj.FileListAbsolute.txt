@@ -1,0 +1,341 @@
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.27\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.27\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.27\上位机服务器0527\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.27\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.27\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.27\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.27\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.27\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.27\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.27\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28\上位机服务器0527\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.13\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.13\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.13\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.13\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.13\上位机服务器0527\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.13\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.13\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.13\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.13\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.13\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.15\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.15\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.15\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.15\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.15\上位机服务器0527\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.15\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.15\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.15\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.15\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.28.15\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.31.8\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.31.8\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.31.8\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe.config
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.31.8\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.31.8\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.31.8\上位机服务器0527\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.31.8\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.31.8\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.31.8\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.31.8\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.31.8\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project Space\项目\天文台项目\C#网络通信2016.7.31.8\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.2.12\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe.config
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.2.12\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.2.12\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.2.12\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.2.12\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.2.12\上位机服务器0527\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.2.12\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.2.12\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.2.12\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.2.12\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.2.12\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.2.12\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.3.21\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe.config
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.3.21\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.3.21\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.4.11\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe.config
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.4.11\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.4.11\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.4.11\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.4.11\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.4.11\上位机服务器0527\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.4.11\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.4.11\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.4.11\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.4.11\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.4.11\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project Space\项目\天文台项目\C#网络通信2016.8.4.11\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+E:\Project Space\项目\天文台项目\C#网络通信2016.9.1.14\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe.config
+E:\Project Space\项目\天文台项目\C#网络通信2016.9.1.14\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信2016.9.1.14\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\Project Space\项目\天文台项目\C#网络通信2016.9.1.14\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+E:\Project Space\项目\天文台项目\C#网络通信2016.9.1.14\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\Project Space\项目\天文台项目\C#网络通信2016.9.1.14\上位机服务器0527\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project Space\项目\天文台项目\C#网络通信2016.9.1.14\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.9.1.14\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.9.1.14\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\Project Space\项目\天文台项目\C#网络通信2016.9.1.14\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project Space\项目\天文台项目\C#网络通信2016.9.1.14\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project Space\项目\天文台项目\C#网络通信2016.9.1.14\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+H:\资料备份\天文台项目\C#网络通信2016.9.1.14\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe.config
+H:\资料备份\天文台项目\C#网络通信2016.9.1.14\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+H:\资料备份\天文台项目\C#网络通信2016.9.1.14\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+F:\郭水林\天文台\C#网络通信2016.11.8.9\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe.config
+F:\郭水林\天文台\C#网络通信2016.11.8.9\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+F:\郭水林\天文台\C#网络通信2016.11.8.9\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+F:\郭水林\天文台\C#网络通信2016.11.8.9\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+F:\郭水林\天文台\C#网络通信2016.11.8.9\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+F:\郭水林\天文台\C#网络通信2016.11.8.9\上位机服务器0527\上位机服务器\obj\x86\Debug\天文台项目.csprojResolveAssemblyReference.cache
+F:\郭水林\天文台\C#网络通信2016.11.8.9\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+F:\郭水林\天文台\C#网络通信2016.11.8.9\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+F:\郭水林\天文台\C#网络通信2016.11.8.9\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+F:\郭水林\天文台\C#网络通信2016.11.8.9\上位机服务器0527\上位机服务器\obj\x86\Debug\天文台项目.csproj.GenerateResource.Cache
+F:\郭水林\天文台\C#网络通信2016.11.8.9\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+F:\郭水林\天文台\C#网络通信2016.11.8.14\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe.config
+F:\郭水林\天文台\C#网络通信2016.11.8.14\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+F:\郭水林\天文台\C#网络通信2016.11.8.14\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+F:\郭水林\天文台\C#网络通信2016.11.8.14\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+F:\郭水林\天文台\C#网络通信2016.11.8.14\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+F:\郭水林\天文台\C#网络通信2016.11.8.14\上位机服务器0527\上位机服务器\obj\x86\Debug\天文台项目.csprojResolveAssemblyReference.cache
+F:\郭水林\天文台\C#网络通信2016.11.8.14\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+F:\郭水林\天文台\C#网络通信2016.11.8.14\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+F:\郭水林\天文台\C#网络通信2016.11.8.14\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+F:\郭水林\天文台\C#网络通信2016.11.8.14\上位机服务器0527\上位机服务器\obj\x86\Debug\天文台项目.csproj.GenerateResource.Cache
+F:\郭水林\天文台\C#网络通信2016.11.8.14\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+F:\郭水林\天文台\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe.config
+F:\郭水林\天文台\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+F:\郭水林\天文台\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+F:\郭水林\天文台\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+F:\郭水林\天文台\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+F:\郭水林\天文台\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\obj\x86\Debug\天文台项目.csprojResolveAssemblyReference.cache
+F:\郭水林\天文台\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+F:\郭水林\天文台\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+F:\郭水林\天文台\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+F:\郭水林\天文台\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\obj\x86\Debug\天文台项目.csproj.GenerateResource.Cache
+F:\郭水林\天文台\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+C:\Users\Administrator\Desktop\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe.config
+C:\Users\Administrator\Desktop\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+C:\Users\Administrator\Desktop\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+C:\Users\Administrator\Desktop\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+C:\Users\Administrator\Desktop\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+C:\Users\Administrator\Desktop\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+C:\Users\Administrator\Desktop\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+C:\Users\Administrator\Desktop\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\C#网络通信2016.11.17.17\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.17.19\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe.config
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.17.19\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.17.19\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.17.19\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.17.19\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.17.19\上位机服务器0527\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.17.19\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.17.19\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.17.19\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.17.19\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.17.19\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.17.19\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.17\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe.config
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.17\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.17\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.17\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.17\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.17\上位机服务器0527\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.17\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.17\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.17\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.17\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.17\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.17\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe.config
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe.config
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\天文台项目.csprojResolveAssemblyReference.cache
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\天文台项目.csproj.GenerateResource.Cache
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe.config
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\天文台项目.csprojResolveAssemblyReference.cache
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\天文台项目.csproj.GenerateResource.Cache
+E:\项目\氢原子钟监控系统\软件\客户端\C#网络通信2016.11.21.18\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe.config
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project Space\研究生\项目\天文台项目\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+C:\Users\xiang\Desktop\氢钟智能化监控系统\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe.config
+C:\Users\xiang\Desktop\氢钟智能化监控系统\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe
+C:\Users\xiang\Desktop\氢钟智能化监控系统\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+C:\Users\xiang\Desktop\氢钟智能化监控系统\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.exe
+C:\Users\xiang\Desktop\氢钟智能化监控系统\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\bin\Debug\上位机服务器.pdb
+C:\Users\xiang\Desktop\氢钟智能化监控系统\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\obj\x86\Debug\天文台项目.csprojResolveAssemblyReference.cache
+C:\Users\xiang\Desktop\氢钟智能化监控系统\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+C:\Users\xiang\Desktop\氢钟智能化监控系统\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+C:\Users\xiang\Desktop\氢钟智能化监控系统\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+C:\Users\xiang\Desktop\氢钟智能化监控系统\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\obj\x86\Debug\天文台项目.csproj.GenerateResource.Cache
+C:\Users\xiang\Desktop\氢钟智能化监控系统\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+C:\Users\xiang\Desktop\氢钟智能化监控系统\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\obj\x86\Debug\上位机服务器.NetDebugForm.resources
+C:\Users\xiang\Desktop\氢钟智能化监控系统\C#网络通信2016.12.5.16\上位机服务器0527\上位机服务器\bin\Debug\Resources\netConfiguation.png
+C:\Users\xiang\Desktop\氢钟智能化监控系统\上位机服务器20170428\上位机服务器\bin\Debug\上位机服务器.exe.config
+C:\Users\xiang\Desktop\氢钟智能化监控系统\上位机服务器20170428\上位机服务器\obj\x86\Debug\上位机服务器.exe
+C:\Users\xiang\Desktop\氢钟智能化监控系统\上位机服务器20170428\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+C:\Users\xiang\Desktop\氢钟智能化监控系统\上位机服务器20170428\上位机服务器\bin\Debug\Resources\netConfiguation.png
+C:\Users\xiang\Desktop\氢钟智能化监控系统\上位机服务器20170428\上位机服务器\bin\Debug\上位机服务器.exe
+C:\Users\xiang\Desktop\氢钟智能化监控系统\上位机服务器20170428\上位机服务器\bin\Debug\上位机服务器.pdb
+C:\Users\xiang\Desktop\氢钟智能化监控系统\上位机服务器20170428\上位机服务器\obj\x86\Debug\天文台项目.csprojResolveAssemblyReference.cache
+C:\Users\xiang\Desktop\氢钟智能化监控系统\上位机服务器20170428\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+C:\Users\xiang\Desktop\氢钟智能化监控系统\上位机服务器20170428\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+C:\Users\xiang\Desktop\氢钟智能化监控系统\上位机服务器20170428\上位机服务器\obj\x86\Debug\上位机服务器.NetDebugForm.resources
+C:\Users\xiang\Desktop\氢钟智能化监控系统\上位机服务器20170428\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+C:\Users\xiang\Desktop\氢钟智能化监控系统\上位机服务器20170428\上位机服务器\obj\x86\Debug\天文台项目.csproj.GenerateResource.Cache
+C:\Users\xiang\Desktop\氢钟智能化监控系统\上位机服务器20170428\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+E:\研究生\项目\天文台\上位机服务器20170428\上位机服务器\bin\Debug\上位机服务器.exe.config
+E:\研究生\项目\天文台\上位机服务器20170428\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\研究生\项目\天文台\上位机服务器20170428\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\研究生\项目\天文台\上位机服务器20170428\上位机服务器\bin\Debug\Resources\netConfiguation.png
+E:\研究生\项目\天文台\上位机服务器20170428\上位机服务器\bin\Debug\上位机服务器.exe
+E:\研究生\项目\天文台\上位机服务器20170428\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\研究生\项目\天文台\上位机服务器20170428\上位机服务器\obj\x86\Debug\天文台项目.csprojResolveAssemblyReference.cache
+E:\研究生\项目\天文台\上位机服务器20170428\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\研究生\项目\天文台\上位机服务器20170428\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\研究生\项目\天文台\上位机服务器20170428\上位机服务器\obj\x86\Debug\上位机服务器.NetDebugForm.resources
+E:\研究生\项目\天文台\上位机服务器20170428\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\研究生\项目\天文台\上位机服务器20170428\上位机服务器\obj\x86\Debug\天文台项目.csproj.GenerateResource.Cache
+E:\研究生\项目\天文台\上位机服务器20170428\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\上位机服务器20170509\上位机服务器20170509\上位机服务器\bin\Debug\上位机服务器.exe.config
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\上位机服务器20170509\上位机服务器20170509\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\上位机服务器20170509\上位机服务器20170509\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\上位机服务器20170515 By_LB\上位机服务器\bin\Debug\上位机服务器.exe.config
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\上位机服务器20170515 By_LB\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\上位机服务器20170515 By_LB\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\上位机服务器20170515 By_LB\上位机服务器\bin\Debug\Resources\netConfiguation.png
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\上位机服务器20170515 By_LB\上位机服务器\bin\Debug\上位机服务器.exe
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\上位机服务器20170515 By_LB\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\上位机服务器20170515 By_LB\上位机服务器\obj\x86\Debug\天文台项目.csprojResolveAssemblyReference.cache
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\上位机服务器20170515 By_LB\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\上位机服务器20170515 By_LB\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\上位机服务器20170515 By_LB\上位机服务器\obj\x86\Debug\上位机服务器.NetDebugForm.resources
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\上位机服务器20170515 By_LB\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\上位机服务器20170515 By_LB\上位机服务器\obj\x86\Debug\天文台项目.csproj.GenerateResource.Cache
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\上位机服务器20170515 By_LB\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+E:\研究生\项目\天文台\上位机服务器20170515 By_LB\observatory\上位机服务器\bin\Debug\上位机服务器.exe.config
+E:\研究生\项目\天文台\上位机服务器20170515 By_LB\observatory\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\研究生\项目\天文台\上位机服务器20170515 By_LB\observatory\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\研究生\项目\天文台\上位机服务器20170515 By_LB\observatory\上位机服务器\bin\Debug\Resources\netConfiguation.png
+E:\研究生\项目\天文台\上位机服务器20170515 By_LB\observatory\上位机服务器\bin\Debug\上位机服务器.exe
+E:\研究生\项目\天文台\上位机服务器20170515 By_LB\observatory\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\研究生\项目\天文台\上位机服务器20170515 By_LB\observatory\上位机服务器\obj\x86\Debug\天文台项目.csprojResolveAssemblyReference.cache
+E:\研究生\项目\天文台\上位机服务器20170515 By_LB\observatory\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\研究生\项目\天文台\上位机服务器20170515 By_LB\observatory\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\研究生\项目\天文台\上位机服务器20170515 By_LB\observatory\上位机服务器\obj\x86\Debug\上位机服务器.NetDebugForm.resources
+E:\研究生\项目\天文台\上位机服务器20170515 By_LB\observatory\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\研究生\项目\天文台\上位机服务器20170515 By_LB\observatory\上位机服务器\obj\x86\Debug\天文台项目.csproj.GenerateResource.Cache
+E:\研究生\项目\天文台\上位机服务器20170515 By_LB\observatory\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+D:\360安全浏览器下载\observatory-master (2)\observatory-master\上位机服务器\bin\Debug\上位机服务器.exe.config
+D:\360安全浏览器下载\observatory-master (2)\observatory-master\上位机服务器\obj\x86\Debug\上位机服务器.exe
+D:\360安全浏览器下载\observatory-master (2)\observatory-master\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+D:\360安全浏览器下载\observatory-master (2)\observatory-master\上位机服务器\bin\Debug\Resources\netConfiguation.png
+D:\360安全浏览器下载\observatory-master (2)\observatory-master\上位机服务器\bin\Debug\上位机服务器.exe
+D:\360安全浏览器下载\observatory-master (2)\observatory-master\上位机服务器\bin\Debug\上位机服务器.pdb
+D:\360安全浏览器下载\observatory-master (2)\observatory-master\上位机服务器\obj\x86\Debug\天文台项目.csprojResolveAssemblyReference.cache
+D:\360安全浏览器下载\observatory-master (2)\observatory-master\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+D:\360安全浏览器下载\observatory-master (2)\observatory-master\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+D:\360安全浏览器下载\observatory-master (2)\observatory-master\上位机服务器\obj\x86\Debug\上位机服务器.NetDebugForm.resources
+D:\360安全浏览器下载\observatory-master (2)\observatory-master\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+D:\360安全浏览器下载\observatory-master (2)\observatory-master\上位机服务器\obj\x86\Debug\天文台项目.csproj.GenerateResource.Cache
+D:\360安全浏览器下载\observatory-master (2)\observatory-master\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+E:\研究生\项目\天文台\observatory-master (2)\observatory-master (2)\observatory-master\上位机服务器\bin\Debug\上位机服务器.exe.config
+E:\研究生\项目\天文台\observatory-master (2)\observatory-master (2)\observatory-master\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\研究生\项目\天文台\observatory-master (2)\observatory-master (2)\observatory-master\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\研究生\项目\天文台\observatory-master (2)\observatory-master (2)\observatory-master\上位机服务器\bin\Debug\Resources\netConfiguation.png
+E:\研究生\项目\天文台\observatory-master (2)\observatory-master (2)\observatory-master\上位机服务器\bin\Debug\上位机服务器.exe
+E:\研究生\项目\天文台\observatory-master (2)\observatory-master (2)\observatory-master\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\研究生\项目\天文台\observatory-master (2)\observatory-master (2)\observatory-master\上位机服务器\obj\x86\Debug\天文台项目.csprojResolveAssemblyReference.cache
+E:\研究生\项目\天文台\observatory-master (2)\observatory-master (2)\observatory-master\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\研究生\项目\天文台\observatory-master (2)\observatory-master (2)\observatory-master\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\研究生\项目\天文台\observatory-master (2)\observatory-master (2)\observatory-master\上位机服务器\obj\x86\Debug\上位机服务器.NetDebugForm.resources
+E:\研究生\项目\天文台\observatory-master (2)\observatory-master (2)\observatory-master\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\研究生\项目\天文台\observatory-master (2)\observatory-master (2)\observatory-master\上位机服务器\obj\x86\Debug\天文台项目.csproj.GenerateResource.Cache
+E:\研究生\项目\天文台\observatory-master (2)\observatory-master (2)\observatory-master\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\observatory-dev\上位机服务器\bin\Debug\上位机服务器.exe.config
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\observatory-dev\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\observatory-dev\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\observatory-dev\上位机服务器\bin\Debug\Resources\netConfiguation.png
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\observatory-dev\上位机服务器\bin\Debug\上位机服务器.exe
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\observatory-dev\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\observatory-dev\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\observatory-dev\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\observatory-dev\上位机服务器\obj\x86\Debug\上位机服务器.NetDebugForm.resources
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\observatory-dev\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\observatory-dev\上位机服务器\obj\x86\Debug\天文台项目.csproj.GenerateResource.Cache
+E:\Projects\Hydrogen Maser Clock Monitoring System\Program\Client\observatory-dev\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+E:\研究生\项目\天文台\observatory-dev\observatory-dev\上位机服务器\bin\Debug\上位机服务器.exe.config
+E:\研究生\项目\天文台\observatory-dev\observatory-dev\上位机服务器\obj\x86\Debug\上位机服务器.exe
+E:\研究生\项目\天文台\observatory-dev\observatory-dev\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\研究生\项目\天文台\observatory-dev\observatory-dev\上位机服务器\bin\Debug\Resources\netConfiguation.png
+E:\研究生\项目\天文台\observatory-dev\observatory-dev\上位机服务器\bin\Debug\上位机服务器.exe
+E:\研究生\项目\天文台\observatory-dev\observatory-dev\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\研究生\项目\天文台\observatory-dev\observatory-dev\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\研究生\项目\天文台\observatory-dev\observatory-dev\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\研究生\项目\天文台\observatory-dev\observatory-dev\上位机服务器\obj\x86\Debug\上位机服务器.NetDebugForm.resources
+E:\研究生\项目\天文台\observatory-dev\observatory-dev\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\研究生\项目\天文台\observatory-dev\observatory-dev\上位机服务器\obj\x86\Debug\天文台项目.csproj.GenerateResource.Cache
+E:\研究生\项目\天文台\observatory-dev\observatory-dev\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
+E:\研究生\项目\天文台\observatory-dev\observatory-dev\上位机服务器\obj\x86\Debug\天文台项目.csprojResolveAssemblyReference.cache
+C:\Users\Yujie\Desktop\observatory-latest\observatory-latest\上位机服务器\bin\Debug\上位机服务器.exe.config
+C:\Users\Yujie\Desktop\observatory-latest\observatory-latest\上位机服务器\obj\x86\Debug\上位机服务器.exe
+C:\Users\Yujie\Desktop\observatory-latest\observatory-latest\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+C:\Users\Yujie\Desktop\observatory-latest\observatory-latest\上位机服务器\bin\Debug\Resources\netConfiguation.png
+C:\Users\Yujie\Desktop\observatory-latest\observatory-latest\上位机服务器\bin\Debug\上位机服务器.exe
+C:\Users\Yujie\Desktop\observatory-latest\observatory-latest\上位机服务器\bin\Debug\上位机服务器.pdb
+C:\Users\Yujie\Desktop\observatory-latest\observatory-latest\上位机服务器\obj\x86\Debug\天文台项目.csprojResolveAssemblyReference.cache
+C:\Users\Yujie\Desktop\observatory-latest\observatory-latest\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+C:\Users\Yujie\Desktop\observatory-latest\observatory-latest\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+C:\Users\Yujie\Desktop\observatory-latest\observatory-latest\上位机服务器\obj\x86\Debug\上位机服务器.NetDebugForm.resources
+C:\Users\Yujie\Desktop\observatory-latest\observatory-latest\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+C:\Users\Yujie\Desktop\observatory-latest\observatory-latest\上位机服务器\obj\x86\Debug\天文台项目.csproj.GenerateResource.Cache
+C:\Users\Yujie\Desktop\observatory-latest\observatory-latest\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
