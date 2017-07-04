@@ -1863,7 +1863,7 @@
             this.tabPage8.Location = new System.Drawing.Point(4, 31);
             this.tabPage8.Name = "tabPage8";
             this.tabPage8.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage8.Size = new System.Drawing.Size(1012, 602);
+            this.tabPage8.Size = new System.Drawing.Size(1126, 602);
             this.tabPage8.TabIndex = 7;
             this.tabPage8.Text = "  历史查看  ";
             // 
@@ -4589,8 +4589,7 @@
             plotYAxis4.Name = "Temperature";
             plotYAxis4.ScaleRange.Span = 1D;
             plotYAxis4.Title.Text = "Temperature";
-            this.plotgraph.YAxes.Add(plotYAxis4);
-            this.plotgraph.LoadingEnd();
+           
             // 
             // tabControl2
             // 
