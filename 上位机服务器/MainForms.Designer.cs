@@ -1188,9 +1188,9 @@
             this.label46.Font = new System.Drawing.Font("微软雅黑", 8F);
             this.label46.Location = new System.Drawing.Point(4, 230);
             this.label46.Name = "label46";
-            this.label46.Size = new System.Drawing.Size(39, 16);
+            this.label46.Size = new System.Drawing.Size(40, 16);
             this.label46.TabIndex = 107;
-            this.label46.Text = "OSCF:";
+            this.label46.Text = "OSCV:";
             // 
             // label45
             // 
@@ -1519,7 +1519,7 @@
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(71, 23);
             this.textBox5.TabIndex = 17;
-            this.textBox5.Text = "45.6";
+            this.textBox5.Text = "51.6910";
             // 
             // label10
             // 
@@ -1908,7 +1908,7 @@
             this.CH6,
             this.CH7,
             this.CH8});
-            this.dataGridView1.Location = new System.Drawing.Point(2, 30);
+            this.dataGridView1.Location = new System.Drawing.Point(2, 38);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
             this.dataGridView1.RowHeadersVisible = false;
@@ -2586,6 +2586,7 @@
             plotChannelTrace1.OPCXValueSource = Iocomp.Types.OPCXValueType.SystemClock;
             plotChannelTrace1.TitleText = "V1";
             plotChannelTrace1.Trace.Thickness = 2D;
+            plotChannelTrace1.VisibleInLegend = false;
             plotChannelTrace1.XAxisName = "Tempelate";
             plotChannelTrace1.YAxisName = "Temperature";
             plotChannelTrace2.CanFocus = false;
@@ -3325,6 +3326,7 @@
             plotYAxis2.ScaleRange.Span = 50D;
             plotYAxis2.Title.Text = "Temperature";
             this.plot4.YAxes.Add(plotYAxis2);
+            this.plot4.Click += new System.EventHandler(this.plot4_Click);
             this.plot4.LoadingEnd();
             // 
             // tabPage5
@@ -4394,9 +4396,9 @@
             this.CH_OSCF.Font = new System.Drawing.Font("微软雅黑", 10F);
             this.CH_OSCF.Location = new System.Drawing.Point(331, 7);
             this.CH_OSCF.Name = "CH_OSCF";
-            this.CH_OSCF.Size = new System.Drawing.Size(63, 24);
+            this.CH_OSCF.Size = new System.Drawing.Size(65, 24);
             this.CH_OSCF.TabIndex = 18;
-            this.CH_OSCF.Text = "OSCF";
+            this.CH_OSCF.Text = "OSCV";
             this.CH_OSCF.UseVisualStyleBackColor = false;
             this.CH_OSCF.CheckedChanged += new System.EventHandler(this.CH_V_CheckedChanged);
             // 
@@ -4489,6 +4491,7 @@
             plotChannelTrace52.Color = System.Drawing.Color.Red;
             plotChannelTrace52.Fill.Brush.Style = Iocomp.Types.PlotBrushStyle.GradientBackwardDiagonal;
             plotChannelTrace52.Markers.Size = 2;
+            plotChannelTrace52.Markers.Text = "V(V)-Trace";
             plotChannelTrace52.Name = "V1";
             plotChannelTrace52.OPCXValueSource = Iocomp.Types.OPCXValueType.SystemClock;
             plotChannelTrace52.TitleText = "V1(V)";
@@ -4707,10 +4710,10 @@
         private System.Windows.Forms.Button button9;
         private System.Windows.Forms.TextBox textBox6;
         private System.Windows.Forms.Button button8;
-        private System.Windows.Forms.TextBox textBox5;
+        public System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.TextBox textBox4;
+       public System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Label label11;
@@ -4983,7 +4986,7 @@
         private System.Windows.Forms.TextBox textBox66;
         private System.Windows.Forms.Button button20;
         private System.Windows.Forms.Label label74;
-        private System.Windows.Forms.TextBox textBox67;
+        public System.Windows.Forms.TextBox textBox67;
         private System.Windows.Forms.Label label51;
         private System.Windows.Forms.Label label75;
         private System.Windows.Forms.TextBox textBox70;

@@ -242,6 +242,7 @@ namespace 上位机服务器
             while (sLine != null)
             {
                 sLine = objReader.ReadLine();
+               
                 if (sLine != null && !sLine.Equals("") && sLine.Length == 252 && sLine[10] == ' ' && sLine[19] == ',')
                 {
                     string s1 = sLine.Substring(0, 19);
@@ -404,6 +405,30 @@ namespace 上位机服务器
                     data *= 10;
                 byte[] sendbytes = new byte[11];
                 byte[] temp = BitConverter.GetBytes(data);
+                #region 存入数据库
+                OleDbConnection con = new OleDbConnection(Program.ConStr);
+                    try
+                    {
+                        con.Open();
+                        if (con.State == ConnectionState.Open)
+                        {
+                            string tx = "insert into sspw values('"
+                                + DateTime.Now.ToString("yyyy/MM/dd", System.Globalization.DateTimeFormatInfo.InvariantInfo) + " " + DateTime.Now.ToLongTimeString().ToString() + "','"
+                                + data + "')";
+                            OleDbCommand cmd = new OleDbCommand(tx, con);
+                            cmd.ExecuteNonQuery();
+                            cmd.Dispose();
+                        }
+                    }
+                    catch (SystemException ex)
+                    {
+                        MessageBox.Show(ex.ToString());
+                    }
+                    finally
+                    {
+                        con.Close();
+                    }              
+                #endregion
                 sendbytes[0] = 0x2e;
                 sendbytes[1] = 0x2e;
                 sendbytes[2] = 0x00;
@@ -574,6 +599,11 @@ namespace 上位机服务器
                     Dictionary<int, Socket> dictsocket = NetDebugForm.getInstance().getDictionary();
                     byte[] sendbytes = new byte[13];
                     double myValue = double.Parse(textBox5.Text);
+
+                    if (myValue < 10||myValue>50) {
+                        MessageBox.Show("频率值需在10到50之间");
+                        return;
+                    }
                     int sendValue;
                     if (radioButton3.Checked)
                         sendValue = (int)(myValue * 1000000);
@@ -582,6 +612,35 @@ namespace 上位机服务器
 
                     double myValue2 = double.Parse(sys_zong_value.Text);
                     sys_zong_value.Text = (myValue + myValue2).ToString();
+
+                    #region  存入数据库
+                    OleDbConnection con = new OleDbConnection(Program.ConStr);                 
+                        //综合器频率
+                        try
+                        {
+                            con.Open();
+                            if (con.State == ConnectionState.Open)
+                            {
+                                string tx = "insert into syszong values('"
+                                    + DateTime.Now.ToString("yyyy/MM/dd", System.Globalization.DateTimeFormatInfo.InvariantInfo) + " " + DateTime.Now.ToLongTimeString().ToString() + "','"
+                                    + sendValue + "')";
+                                OleDbCommand cmd = new OleDbCommand(tx, con);
+                                cmd.ExecuteNonQuery();
+                                cmd.Dispose();
+                            }
+                        }
+                        catch (SystemException ex)
+                        {
+                            MessageBox.Show(ex.ToString());
+                        }
+                        finally
+                        {
+                            con.Close();
+                        }
+                    #endregion
+
+
+
                     byte[] temp = BitConverter.GetBytes(sendValue);
                     sendbytes[0] = 0x2e;
                     sendbytes[1] = 0x2e;
@@ -593,13 +652,10 @@ namespace 上位机服务器
                         sendbytes[6] = 0x02;
                     else
                         sendbytes[6] = 0x01;
-
-
                     sendbytes[7] = temp[0];// (byte)((sendValue >> 24) & 0xFF);
                     sendbytes[8] = temp[1];//(byte)((sendValue >> 16) & 0xFF);
                     sendbytes[9] = temp[2];//(byte)((sendValue >> 8) & 0xFF);
                     sendbytes[10] = temp[3];//(byte)(sendValue & 0xFF);
-
                     sendbytes[11] = 0x2f;
                     sendbytes[12] = 0x2f;
                     foreach (int conn in dictsocket.Keys)
@@ -714,10 +770,12 @@ namespace 上位机服务器
                         synthD = synthD / 1000000;
                     else
                         synthD = synthD / 10000;
-                    double synthChange= double.Parse(sys_zong_value.Text)+ synthD;
 
+                    
+                    double synthChange = double.Parse(sys_zong_value.Text) +synthD ;
+                    String tempvalue = synthChange.ToString("0.000000").PadRight(4);
                     freBack = sys_zong_value.Text;
-                    sys_zong_value.Text = synthChange+"";                  
+                    sys_zong_value.Text = tempvalue + "";                  
                     sysFlag = true;
                     timeRecover = time*10;
                 }
@@ -1073,6 +1131,7 @@ namespace 上位机服务器
         //电压页
         private void CH_V_CheckedChanged(object sender, EventArgs e)
         {
+            MessageBox.Show("??");
             CheckBox boxTemp = (CheckBox)sender;
             int temp = Array.IndexOf(Voltage, boxTemp.Name);
             if (temp >= 0 && temp < Voltage.Length)
@@ -1162,7 +1221,9 @@ namespace 上位机服务器
         //网络配置图标点击事件
         private void label6_Click(object sender, EventArgs e)
         {
-            NetDebugForm.getInstance().Show();
+            NetDebugForm sub = new NetDebugForm(this);
+            sub.Show();
+           // NetDebugForm.getInstance().Show();
         }
         //网络配置图标提示
         private void label6_MouseEnter(object sender, EventArgs e)
@@ -1468,7 +1529,35 @@ namespace 上位机服务器
                     }
                     byte t = (byte)int.Parse(textBox67.Text);
 
+                       #region  写入数据库
+                        OleDbConnection con = new OleDbConnection(Program.ConStr);
+                        int cycle; //模拟数据保存周期
+                        cycle = t;
 
+
+                        try
+                        {
+                            con.Open();
+                            if (con.State == ConnectionState.Open)
+                            {
+                                string tx = "insert into cycle values('"
+                                    + DateTime.Now.ToString("yyyy/MM/dd", System.Globalization.DateTimeFormatInfo.InvariantInfo) + " " + DateTime.Now.ToLongTimeString().ToString() + "','"
+                                    + cycle + "')";
+                                OleDbCommand cmd = new OleDbCommand(tx, con);
+                                cmd.ExecuteNonQuery();
+                                cmd.Dispose();
+                            }
+                        }
+                        catch (SystemException ex)
+                        {
+                            MessageBox.Show(ex.ToString());
+                        }
+                        finally
+                        {
+                            con.Close();
+                        }
+                 
+                    #endregion
 
 
                     //sMessageBox.Show(button19.Text + "19" + button18.Text + "18" + button17.Text + "17" + button16.Text + "16" + button15.Text + "15" + button12.Text + "12");
@@ -1526,6 +1615,13 @@ namespace 上位机服务器
                 textBox5.Text = float.Parse(textBox5.Text).ToString("0.000000").PadRight(4);
             }
         }
+
+        private void plot4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+       
 
      
 

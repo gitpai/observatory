@@ -42,6 +42,11 @@ namespace 上位机服务器
         //设置为单例模式
         private static NetDebugForm instance = null;
         private static readonly object padlock = new object();
+        MainForms referenceToMainForm = null;
+        public NetDebugForm(MainForms mf){
+         InitializeComponent();
+         referenceToMainForm = mf;
+    }
         private NetDebugForm()
         {
             InitializeComponent();
@@ -632,6 +637,7 @@ namespace 上位机服务器
             if (net_cb_stopreceive.Checked) return;
             if (net_cb_debug.Checked)
             {
+                
                 Debug(arrMsg, length);
             }
             else
@@ -662,7 +668,11 @@ namespace 上位机服务器
          **/
         void Debug(byte[] arrMsg, int length)
         {
-            if (arrMsg[0] != 0x2E || arrMsg[1] != 0x2E || arrMsg[2] != 0x00 || arrMsg[3] != 0x7A || arrMsg[120] != 0x2F || arrMsg[121] != 0x2F) return;
+           
+            OleDbConnection con = new OleDbConnection(Program.ConStr);
+            #region 总协议获取
+            if (arrMsg[0] == 0x2E || arrMsg[1] == 0x2E || arrMsg[2] == 0x00 || arrMsg[3] == 0x7A || arrMsg[120] == 0x2F || arrMsg[121] == 0x2F) { 
+            
             // 电压页
             float V1 = BitConverter.ToSingle(arrMsg, 4);
             float V2 = BitConverter.ToSingle(arrMsg, 8);
@@ -697,7 +707,7 @@ namespace 上位机服务器
             float CH6 = BitConverter.ToSingle(arrMsg, 108);
             float CH7 = BitConverter.ToSingle(arrMsg, 112);
             float CH8 = BitConverter.ToSingle(arrMsg, 116);
-            OleDbConnection con = new OleDbConnection(Program.ConStr);
+           
             try
             {
                 con.Open();
@@ -722,7 +732,123 @@ namespace 上位机服务器
             finally
             {
                 con.Close();
+                }
             }
+            if (arrMsg[0] == 0x2E || arrMsg[1] == 0x2E || arrMsg[2] == 0x00 || arrMsg[3] == 0x0B || arrMsg[4] == 0x02 || arrMsg[9] == 0x2F || arrMsg[10] == 0x2F) {
+                MessageBox.Show("秒信号");
+          
+           int sspwValue= BitConverter.ToInt32(arrMsg, 5);//秒信号脉宽
+
+           referenceToMainForm.textBox4.Text = sspwValue+"";
+         
+            try
+            {
+                con.Open();
+                if (con.State == ConnectionState.Open)
+                {
+                    string tx = "insert into sspw values('"
+                        + DateTime.Now.ToString("yyyy/MM/dd", System.Globalization.DateTimeFormatInfo.InvariantInfo) + " " + DateTime.Now.ToLongTimeString().ToString() + "','"
+                        + sspwValue + "')";
+                    OleDbCommand cmd = new OleDbCommand(tx, con);
+                    cmd.ExecuteNonQuery();
+                    cmd.Dispose();
+                }
+            }
+            catch (SystemException ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
+             finally
+             {
+                con.Close();
+              }
+            }
+
+            if (arrMsg[0] == 0x2E || arrMsg[1] == 0x2E || arrMsg[2] == 0x00 || arrMsg[3] == 0x0D || arrMsg[4] == 0x04 || arrMsg[9] == 0x2F || arrMsg[10] == 0x2F)
+            {
+                MessageBox.Show("综合频率");
+
+
+                  int  sign;
+                 float sys_zong;
+                if (arrMsg[5] == 0x00)
+                {
+                    sign = 1;
+                }
+                else {
+                    sign = -1;
+                }
+               
+                if (arrMsg[6] == 0x02)
+                {
+                      //6位精度
+                    sys_zong = float.Parse((sign * BitConverter.ToSingle(arrMsg, 7)).ToString("0.000000").PadRight(4));
+                }
+                else
+                {
+                    sys_zong = float.Parse((sign * BitConverter.ToSingle(arrMsg, 7)).ToString("0.000000").PadRight(4));
+                  
+
+
+
+
+
+                }
+               //综合器频率
+                referenceToMainForm.textBox5.Text = sys_zong + "";
+                try
+                {
+                    con.Open();
+                    if (con.State == ConnectionState.Open)
+                    {
+                        string tx = "insert into syszong values('"
+                            + DateTime.Now.ToString("yyyy/MM/dd", System.Globalization.DateTimeFormatInfo.InvariantInfo) + " " + DateTime.Now.ToLongTimeString().ToString() + "','"
+                            + sys_zong + "')";
+                        OleDbCommand cmd = new OleDbCommand(tx, con);
+                        cmd.ExecuteNonQuery();
+                        cmd.Dispose();
+                    }
+                }
+                catch (SystemException ex)
+                {
+                    MessageBox.Show(ex.ToString());
+                }
+                finally
+                {
+                    con.Close();
+                }
+            }
+            if (arrMsg[0] == 0x2E || arrMsg[1] == 0x2E || arrMsg[2] == 0x00 || arrMsg[3] == 0x08 || arrMsg[4] == 0x08 || arrMsg[6] == 0x2F || arrMsg[7] == 0x2F)
+            {
+                MessageBox.Show("模拟数据周期");
+
+                int cycle; //模拟数据保存周期
+                cycle = arrMsg[5];
+                referenceToMainForm.textBox67.Text = cycle + "";
+
+                try
+                {
+                    con.Open();
+                    if (con.State == ConnectionState.Open)
+                    {
+                        string tx = "insert into cycle values('"
+                            + DateTime.Now.ToString("yyyy/MM/dd", System.Globalization.DateTimeFormatInfo.InvariantInfo) + " " + DateTime.Now.ToLongTimeString().ToString() + "','"
+                            + cycle + "')";
+                        OleDbCommand cmd = new OleDbCommand(tx, con);
+                        cmd.ExecuteNonQuery();
+                        cmd.Dispose();
+                    }
+                }
+                catch (SystemException ex)
+                {
+                    MessageBox.Show(ex.ToString());
+                }
+                finally
+                {
+                    con.Close();
+                }
+            }
+
         }
         #endregion
 
@@ -756,3 +882,4 @@ namespace 上位机服务器
 
     }
 }
+        #endregion
