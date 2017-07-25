@@ -903,15 +903,21 @@ namespace 上位机服务器
         // 历史查看：删除数据
         private void button13_Click(object sender, EventArgs e)
         {
-            string startdat = dateTimePicker1.Value.ToString();
-            string enddat = dateTimePicker2.Value.ToString();
-            deleteData(false, startdat, enddat);
+            if (MessageBox.Show("确定进行删除操作吗？", "询问", MessageBoxButtons.YesNo) == DialogResult.Yes)
+            {
+                string startdat = dateTimePicker1.Value.ToString();
+                string enddat = dateTimePicker2.Value.ToString();
+                deleteData(false, startdat, enddat);
+            }
         }
 
         // 历史查看：删除所有数据
         private void button14_Click(object sender, EventArgs e)
         {
-            deleteData(true, null, null);
+            if (MessageBox.Show("确定进行删除全部操作吗？", "询问", MessageBoxButtons.YesNo) == DialogResult.Yes)
+            {
+                deleteData(true, null, null);
+            }
         }
 
         #endregion

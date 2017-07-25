@@ -354,3 +354,13 @@ E:\研究生\项目\天文台\天文台final\observatory-latest\上位机服务�
 E:\研究生\项目\天文台\天文台final\observatory-latest0718\上位机服务器\bin\Debug\上位机服务器.exe.config
 E:\研究生\项目\天文台\天文台final\observatory-latest0718\上位机服务器\obj\x86\Debug\上位机服务器.exe
 E:\研究生\项目\天文台\天文台final\observatory-latest0718\上位机服务器\obj\x86\Debug\上位机服务器.pdb
+E:\研究生\项目\天文台\天文台final\observatory-latest0718\上位机服务器\bin\Debug\Resources\netConfiguation.png
+E:\研究生\项目\天文台\天文台final\observatory-latest0718\上位机服务器\bin\Debug\上位机服务器.exe
+E:\研究生\项目\天文台\天文台final\observatory-latest0718\上位机服务器\bin\Debug\上位机服务器.pdb
+E:\研究生\项目\天文台\天文台final\observatory-latest0718\上位机服务器\obj\x86\Debug\天文台项目.csprojResolveAssemblyReference.cache
+E:\研究生\项目\天文台\天文台final\observatory-latest0718\上位机服务器\obj\x86\Debug\上位机服务器.MainForms.resources
+E:\研究生\项目\天文台\天文台final\observatory-latest0718\上位机服务器\obj\x86\Debug\上位机服务器.LoginForm.resources
+E:\研究生\项目\天文台\天文台final\observatory-latest0718\上位机服务器\obj\x86\Debug\上位机服务器.NetDebugForm.resources
+E:\研究生\项目\天文台\天文台final\observatory-latest0718\上位机服务器\obj\x86\Debug\上位机服务器.Properties.Resources.resources
+E:\研究生\项目\天文台\天文台final\observatory-latest0718\上位机服务器\obj\x86\Debug\天文台项目.csproj.GenerateResource.Cache
+E:\研究生\项目\天文台\天文台final\observatory-latest0718\上位机服务器\obj\x86\Debug\上位机服务器.exe.licenses
