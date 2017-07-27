@@ -589,7 +589,24 @@ namespace 上位机服务器
 
         // 系统设置：综合器设置—频率设置
         private void button8_Click(object sender, EventArgs e)
-        {
+        {   MatchCollection mc;
+        String input = textBox5.Text;
+            if (radioButton3.Checked)
+          
+                mc = Regex.Matches(input, @"^\d+\.\d{6}$");
+            
+            else
+                mc = Regex.Matches(input, @"^\d+\.\d{4}$");
+            
+            if (mc.Count == 0)
+            {
+                if (radioButton3.Checked)
+                    MessageBox.Show("必须为6位小数");
+                else
+                    MessageBox.Show("必须为4位小数");
+               
+                return;
+            }
             if (NetDebugForm.hasOpen && MessageBox.Show("确定进行配置吗？", "询问", MessageBoxButtons.YesNo) == DialogResult.Yes)
             {
                 if (!string.IsNullOrEmpty(textBox5.Text) && NetDebugForm.hasOpen)
@@ -600,8 +617,8 @@ namespace 上位机服务器
                     byte[] sendbytes = new byte[13];
                     double myValue = double.Parse(textBox5.Text);
 
-                    if (myValue < 10||myValue>50) {
-                        MessageBox.Show("频率值需在10到50之间");
+                    if (myValue < 10||myValue>100) {
+                        MessageBox.Show("频率值需在10到100之间");
                         return;
                     }
                     int sendValue;
@@ -686,6 +703,12 @@ namespace 上位机服务器
         // 系统设置：综合器设置—相位设置
         private void button9_Click(object sender, EventArgs e)
         {
+        String input = textBox6.Text;
+        MatchCollection mc = Regex.Matches(input, @"^(\-|\+?)\d{3}?$");
+        if (mc.Count == 0) {
+            MessageBox.Show("第一位为符号位（正负号都需要，目前只有负号），第二位、第三位为一个两位的十进制数值，第四位为 0~9的整数值");
+            return;
+        }
             if (NetDebugForm.hasOpen && MessageBox.Show("确定进行配置吗？", "询问", MessageBoxButtons.YesNo) == DialogResult.Yes)
             {
                 int data = int.Parse(textBox6.Text);
@@ -1622,11 +1645,29 @@ namespace 上位机服务器
             }
         }
 
-        private void plot4_Click(object sender, EventArgs e)
+        private void textBox3_KeyPress(object sender, KeyPressEventArgs e)
         {
+            if (!(Char.IsNumber(e.KeyChar)) && e.KeyChar != (char)8)
+            {
 
+                MessageBox.Show("只能输入数字");
+                e.Handled = true;
+            }
         }
 
+        private void textBox4_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!(Char.IsNumber(e.KeyChar)) && e.KeyChar != (char)8)
+            {
+
+                MessageBox.Show("只能输入数字");
+                e.Handled = true;
+            }
+        }
+
+       
+
+      
        
 
      
